@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<basisSet 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cml="http://www.xml-cml.org/schema/cml2/core"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns="http://purl.oclc.org/NET/EMSL/BSE">
+
+  <dc:format>chemical/x-emsl-gaussian-basisset</dc:format>
+  <dc:title>STO-3G* Polarization</dc:title>
+  <dct:abstract>1P      Polarization functions from STO-3G*</dct:abstract>
+  <conversion>true</conversion>
+  <basisSetType>polarization</basisSetType>
+  <harmonicType>spherical</harmonicType>
+  <contractionType>segmented</contractionType>
+
+  <dc:description><![CDATA[                     STO-3G* Polarization Functions
+                     ------------------------------
+Elements                             References
+Na - Ar: (1d)  J.B. Collins, P.R. Schleyer, J.S. Binkley, J.A. Pople, J. Chem.
+               Phys. 64, 5142 (1976)
+
+The STO-3G* polarization set amounts to a single 5-term d function for elements
+Na - Ar to account for the participation of d functions in second row bonding.
+
+
+
+]]></dc:description>
+
+  <referencesLink xlink:type="simple" xlink:href="STO-3GS-BS-REF.xml"/>
+
+  <contractions elementType="Na">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.090000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Mg">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.090000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Al">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.390000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Si">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.390000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="P">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.390000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="S">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.390000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Cl">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.390000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Ar">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.390000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+
+</basisSet>
+

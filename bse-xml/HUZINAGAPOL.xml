@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<basisSet 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cml="http://www.xml-cml.org/schema/cml2/core"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns="http://purl.oclc.org/NET/EMSL/BSE">
+
+  <dc:format>chemical/x-emsl-gaussian-basisset</dc:format>
+  <dc:title>Huzinaga Polarization</dc:title>
+  <dct:abstract>1P      Polarization functions</dct:abstract>
+  <conversion>true</conversion>
+  <basisSetType>polarization</basisSetType>
+  <harmonicType>cartesian</harmonicType>
+  <contractionType>segmented</contractionType>
+
+  <dc:description><![CDATA[                    Huzinaga Polarization Functions
+                    -------------------------------
+Elements                             Reference
+ K - Ca: (1d)   GAMESS(US) 1993, Source unknown
+Rb - Sr: (1d)   GAMESS(US) 1993, Source unknown
+Ga - Kr: (1d)   S. Huzinaga, J. Anzelm, M. Klobukowski, E. Radzio-Andzelm,
+In - Xe: (1d)   Y. Sakai, H. Tatewaki in Gaussian Basis Sets for Molecular
+Tl - Rn: (1d)   Calculations, (Elsevier, Amsterdam, 1984)
+
+Note: This basis assumes 6 term d's.
+
+]]></dc:description>
+
+  <referencesLink xlink:type="simple" xlink:href="HUZINAGAPOL-BS-REF.xml"/>
+
+  <contractions elementType="K">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.100000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Ca">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.100000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Ga">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.207000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Ge">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.246000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="As">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.293000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Se">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.338000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Br">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.389000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Kr">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.443000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Rb">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.110000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Sr">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.110000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="In">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.160000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Sn">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.183000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Sb">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.211000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Te">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.237000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="I">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.266000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Xe">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.297000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Tl">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.146000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Pb">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.164000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Bi">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.185000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Po">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.204000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="At">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.225000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Rn">
+    <dc:description>(1d)</dc:description>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.247000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+
+</basisSet>
+

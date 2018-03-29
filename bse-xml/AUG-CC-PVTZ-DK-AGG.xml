@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<basisSet 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cml="http://www.xml-cml.org/schema/cml2/core"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns="http://purl.oclc.org/NET/EMSL/BSE">
+
+  <dc:format>chemical/x-emsl-gaussian-basisset</dc:format>
+  <dc:title>aug-cc-pVTZ-DK</dc:title>
+  <dct:abstract>VTZ2P   All-electron Douglas-Kroll Valence Triple Zeta + Polarization</dct:abstract>
+  <conversion>true</conversion>
+  <basisSetType>orbital</basisSetType>
+  <harmonicType>spherical</harmonicType>
+  <contractionType>general</contractionType>
+
+  <dc:description><![CDATA[ All-electron, Douglas-Kroll Transition Metal aug-cc-pVTZ-DK Basis Sets
+ ----------------------------------------------------------------------
+Elements           Contraction                               References
+Sc - Zn: (21s,17p,9d,3f,2g) -> [8s,7p,5d,3f,2g]  N.B. Balabanov and K.A.
+                                                 Peterson, J. Chem. Phys.,
+                                                 123, 064107 (2005)
+
+Note: a finite nuclear model was not used in the development of these basis
+sets.  Therefore, they may have to be recontracted for use in Gaussian03.
+
+]]></dc:description>
+
+  <primaryBasisSetLink xlink:type="simple" xlink:href="CC-PVTZ-DK.xml" />
+  <basisSetLink xlink:type="simple" xlink:href="AUG-CC-PVTZ-DK.xml" />
+
+</basisSet>
+

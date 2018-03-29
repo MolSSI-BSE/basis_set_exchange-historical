@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basisset xmlns="http://purl.oclc.org/NET/EMSL/BSE" xmlns:cmcs="http://purl.oclc.org/NET/cmcs/schema/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cml="http://www.xml-cml.org/schema/cml2/core" xmlns:xlink="http://www.w3.org/1999/xlink"><conversion>false</conversion><basisSetType>orbital</basisSetType><dc:format>chemical/x-emsl-gaussian-basisset</dc:format><dc:title>s3-21G*</dc:title><harmonicType>spherical</harmonicType><contractionType>segmented</contractionType><referencesLink xlink:type="simple" xlink:href="S3-21GS-BS-REF.xml" /><dc:description>ROHF Energies (Hartree) obtained with NWChem 5.1.1&#xD;
+with spin-state corrected GTO basis sets&#xD;
+(J. Phys. Chem. A 2010, accepted)&#xD;
+TM  Mult.          s3-21G         s3-21G*          s6-31G         s6-31G*&#xD;
+-------------------------------------------------------------------------&#xD;
+Sc      2   -755.99884685   -755.99968438   -759.67445917   -759.67531786&#xD;
+Ti      3   -844.25255814   -844.25405117   -848.32959200   -848.33111274&#xD;
+V       4   -938.28181821   -938.28326723   -942.79104554   -942.79250157&#xD;
+Cr      7  -1038.25914696  -1038.25914696  -1043.24093913  -1043.24093913&#xD;
+Mn      6  -1144.27246876  -1144.27246876  -1149.73053993  -1149.73053993&#xD;
+Fe      5  -1256.31026813  -1256.31085480  -1262.28223237  -1262.28283076&#xD;
+Co      4  -1374.69726270  -1374.69826450  -1381.21938856  -1381.22037313&#xD;
+Ni      3  -1499.54240263  -1499.54329441  -1506.63920379  -1506.64007794&#xD;
+Cu      2  -1630.96103628  -1630.96103628  -1638.69058812  -1638.69058812&#xD;
+Zn      1  -1769.18181774  -1769.18181774  -1777.52928776  -1777.52928776&#xD;
+ROHF Energies (Hartree) obtained with NWChem 5.1.1&#xD;
+obtained with standard 3-21G and 6-31G basis sets,&#xD;
+and improved 6-31G (m6-31G, m6-31G*) basis sets&#xD;
+(J. Chem. Phys. 2003, 118, 7775-7782)&#xD;
+NB.1&#xD;
+----&#xD;
+Note that these energies are for Sc, Fe, Co, Ni&#xD;
+slightly different than those reported in the m6-31G&#xD;
+paper. This is most likely due to NWChem vs. ATOMSCF,&#xD;
+i.e. &amp;quot;molecular&amp;quot; states vs. atomic states.&#xD;
+NB.2&#xD;
+----&#xD;
+The m6-31G and m6-31G* basis for Zn are the same as&#xD;
+the 6-31G and 6-31G* basis sets.&#xD;
+</dc:description><contractions elementType="Sc"><dc:description><![CDATA[(12s,9p,4d,1f) -> [5s,4p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="3" columns="2" dataType="xs:double">2119.887000000 0.06442100
+320.429900000 0.37916000
+69.898930000 0.67896300
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">89.764500000 -0.10938400 0.13632800
+19.385100000 0.10507000 0.54186000
+5.731423000 0.95220500 0.49505500
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">5.491938000 -0.28521100 0.01761400
+1.743742000 0.32415500 0.43364500
+0.566227000 0.85659200 0.64255100
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="2" columns="3" dataType="xs:double">0.516802000 -0.26267800 0.00032700
+0.067214000 1.10807900 0.99989300
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="1" columns="3" dataType="xs:double">0.025985000 1.00000000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="2" columns="2" dataType="xs:double">5.722215000 0.26523600
+1.360849000 0.85586100
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.322652000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.076620000 1.00000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.800000000 1.00000000
+</cml:matrix></contraction></contractions><contractions elementType="Ti"><dc:description><![CDATA[(12s,9p,4d,1f) -> [5s,4p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="3" columns="2" dataType="xs:double">2335.020000000 0.06421700
+353.044100000 0.37841200
+77.058450000 0.67968100
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">99.573870000 -0.10947200 0.13729700
+21.546710000 0.10194300 0.54587500
+6.413965000 0.95462200 0.48906800
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">6.238279000 -0.28613700 0.01923700
+1.996108000 0.32182800 0.44044200
+0.646490000 0.85955100 0.63562000
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="2" columns="3" dataType="xs:double">0.573285000 -0.24245000 0.00029200
+0.073119000 1.10007500 0.99990700
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="1" columns="3" dataType="xs:double">0.026538000 1.00000000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="2" columns="2" dataType="xs:double">7.083666000 0.26292100
+1.709634000 0.85577200
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.414123000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.100130000 1.00000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.800000000 1.00000000
+</cml:matrix></contraction></contractions><contractions elementType="V"><dc:description><![CDATA[(12s,9p,4d,1f) -> [5s,4p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="3" columns="2" dataType="xs:double">2563.877000000 0.06394800
+387.534000000 0.37759400
+84.598230000 0.68054200
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">109.793800000 -0.10983600 0.13842100
+23.769210000 0.10070700 0.55048900
+7.122961000 0.95563300 0.48241700
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">6.981204000 -0.28845900 0.02182100
+2.219839000 0.33643600 0.45676200
+0.719803000 0.84819000 0.61867500
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="2" columns="3" dataType="xs:double">0.631262000 -0.23649000 0.00019000
+0.080062000 1.09772100 0.99994000
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="1" columns="3" dataType="xs:double">0.028865000 1.00000000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="2" columns="2" dataType="xs:double">8.342917000 0.26406200
+2.032944000 0.85396600
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.495712000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.120830000 1.00000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.800000000 1.00000000
+</cml:matrix></contraction></contractions><contractions elementType="Cr"><dc:description><![CDATA[(12s,9p,4d,1f) -> [5s,4p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="3" columns="2" dataType="xs:double">2798.294000000 0.06382400
+423.137000000 0.37708400
+92.438860000 0.68098900
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">120.280600000 -0.11777900 0.13987800
+26.037270000 0.10143100 0.55598300
+7.844172000 0.95719800 0.47481800
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">7.793276000 -0.28885700 0.02218500
+2.497196000 0.33511500 0.46162500
+0.805142000 0.85024800 0.61453900
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="2" columns="3" dataType="xs:double">0.703921000 -0.23225100 0.00018000
+0.086162000 1.09367100 0.99994500
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="1" columns="3" dataType="xs:double">0.032199000 1.00000000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="2" columns="2" dataType="xs:double">9.625339000 0.26559600
+2.362264000 0.85215600
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.577094000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.141310000 1.00000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.800000000 1.00000000
+</cml:matrix></contraction></contractions><contractions elementType="Mn"><dc:description><![CDATA[(12s,9p,4d,1f) -> [5s,4p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="3" columns="2" dataType="xs:double">3041.686000000 0.06374500
+460.090100000 0.37674900
+100.595800000 0.68124700
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">131.767300000 -0.11029600 0.14045400
+28.569150000 0.09819000 0.55780200
+8.660501000 0.95765900 0.47150100
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">8.569081000 -0.29171400 0.02422400
+2.768178000 0.34396300 0.46866000
+0.887288000 0.84519800 0.60742100
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="2" columns="3" dataType="xs:double">0.767443000 -0.23000400 0.00030800
+0.092025000 1.09145000 0.99990700
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="1" columns="3" dataType="xs:double">0.033265000 1.00000000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="2" columns="2" dataType="xs:double">11.068840000 0.26527200
+2.730707000 0.85179500
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.668509000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.164290000 1.00000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.800000000 1.00000000
+</cml:matrix></contraction></contractions><contractions elementType="Fe"><dc:description><![CDATA[(12s,9p,4d,1f) -> [5s,4p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="3" columns="2" dataType="xs:double">3299.184000000 0.06358600
+499.088600000 0.37620200
+109.161400000 0.68178500
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">143.465200000 -0.11055200 0.14110100
+31.168580000 0.09684700 0.56038700
+9.483612000 0.95879700 0.46764400
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">9.464565000 -0.29205600 0.02376200
+3.100373000 0.33752400 0.46891100
+0.986493000 0.85194200 0.60831100
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="2" columns="3" dataType="xs:double">0.853412000 -0.22794400 -0.00042600
+0.098812000 1.08828700 1.00012400
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="1" columns="3" dataType="xs:double">0.036442000 1.00000000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="2" columns="2" dataType="xs:double">12.354490000 0.26861100
+3.055605000 0.84927200
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.738591000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.180600000 1.00000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.800000000 1.00000000
+</cml:matrix></contraction></contractions><contractions elementType="Co"><dc:description><![CDATA[(12s,9p,4d,1f) -> [5s,4p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="3" columns="2" dataType="xs:double">3564.762000000 0.06348700
+539.390800000 0.37581800
+118.044900000 0.68212200
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">155.438200000 -0.11098700 0.14206400
+33.815610000 0.09676700 0.56344400
+10.333230000 0.95899200 0.46302400
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">10.381520000 -0.29226200 0.02631300
+3.382714000 0.34325100 0.47691700
+1.076954000 0.84696300 0.59915400
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="2" columns="3" dataType="xs:double">0.909015000 -0.21746000 0.00022800
+0.105041000 1.08499800 0.99993400
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="1" columns="3" dataType="xs:double">0.037257000 1.00000000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="2" columns="2" dataType="xs:double">13.740700000 0.27095500
+3.408983000 0.84734200
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.818641000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.199850000 1.00000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.800000000 1.00000000
+</cml:matrix></contraction></contractions><contractions elementType="Ni"><dc:description><![CDATA[(12s,9p,4d,1f) -> [5s,4p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="3" columns="2" dataType="xs:double">3848.005000000 0.06326600
+582.030700000 0.37517100
+127.367400000 0.68282400
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">168.289600000 -0.11111500 0.14249000
+36.656330000 0.09532400 0.56554700
+11.232120000 0.96016100 0.45999300
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">11.358770000 -0.29206000 0.02613800
+3.738846000 0.33754100 0.47659800
+1.182463000 0.85253300 0.60038000
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="2" columns="3" dataType="xs:double">0.988904000 -0.21368700 0.00029400
+0.111025000 1.08193300 0.99991700
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="1" columns="3" dataType="xs:double">0.039258000 1.00000000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="2" columns="2" dataType="xs:double">15.220690000 0.27260600
+3.786020000 0.84592800
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.904557000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.220560000 1.00000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.800000000 1.00000000
+</cml:matrix></contraction></contractions><contractions elementType="Cu"><dc:description><![CDATA[(12s,9p,4d,1f) -> [5s,4p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="3" columns="2" dataType="xs:double">4134.302000000 0.06318800
+625.491200000 0.37484500
+136.955600000 0.68310000
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">181.496000000 -0.11132000 0.14308400
+39.574310000 0.09448700 0.56775600
+12.162460000 0.96087900 0.45671400
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">12.351110000 -0.29222300 0.02772700
+4.049651000 0.34299100 0.48352400
+1.279225000 0.84794600 0.59297800
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="2" columns="3" dataType="xs:double">1.049804000 -0.20650800 0.00013900
+0.116933000 1.07927300 0.99996100
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="1" columns="3" dataType="xs:double">0.000751000 1.00000000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="2" columns="2" dataType="xs:double">16.759380000 0.27411200
+4.178977000 0.84462500
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.994327000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.242260000 1.00000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.800000000 1.00000000
+</cml:matrix></contraction></contractions><contractions elementType="Zn"><dc:description><![CDATA[(12s,9p,4d,1f) -> [5s,4p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="3" columns="2" dataType="xs:double">4432.288000000 0.06309300
+670.660100000 0.37450400
+146.902400000 0.68341600
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">195.004200000 -0.11162800 0.14380600
+42.568890000 0.09433600 0.57000200
+13.121430000 0.96110000 0.45331200
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="3" columns="3" dataType="xs:double">13.402310000 -0.29178100 0.02870500
+4.399906000 0.34261400 0.48625200
+1.385148000 0.84828400 0.59023500
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="2" columns="3" dataType="xs:double">1.121558000 -0.20237100 0.00034400
+0.122944000 1.07703500 0.99990500
+</cml:matrix></contraction><contraction shell="SP"><cml:matrix rows="1" columns="3" dataType="xs:double">0.042193000 1.00000000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="2" columns="2" dataType="xs:double">18.368200000 0.27538600
+4.591304000 0.84347700
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">1.090203000 1.00000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="1" columns="2" dataType="xs:double">0.265690000 1.00000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.800000000 1.00000000
+</cml:matrix></contraction></contractions></basisset>

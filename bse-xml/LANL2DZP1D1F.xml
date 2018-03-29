@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basisset xmlns="http://purl.oclc.org/NET/EMSL/BSE" xmlns:cmcs="http://purl.oclc.org/NET/cmcs/schema/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cml="http://www.xml-cml.org/schema/cml2/core" xmlns:xlink="http://www.w3.org/1999/xlink"><conversion>false</conversion><basisSetType>orbital</basisSetType><dc:format>chemical/x-emsl-gaussian-basisset</dc:format><dc:title>Lanl2DZ+1d1f</dc:title><harmonicType>spherical</harmonicType><contractionType>segmented</contractionType><referencesLink xlink:type="simple" xlink:href="LANL2DZP1D1F-BS-REF.xml" /><dc:description>* Atomic energy of Rh 4-F States calculated at the UCCSD(T) level of theory:&#xD;
+* Rh    -108.8675061&#xD;
+* Rh+   -108.6096234&#xD;
+* Rh-   -108.8906016&#xD;
+*      Theo    Exp&#xD;
+* IE = 7.017   7.479 eV&#xD;
+* EA = 0.629   1.134 eV&#xD;
+Experimental values averaged over the J values of the upper and lower&#xD;
+state, from references:&#xD;
+J. Phys. Chem. Ref. Data 1985, 14, 731&#xD;
+Phys. Rev. A 1998, 58, 2051.&#xD;
+J. Chem. Theory Comput. 2008, 4, 1029.&#xD;
+</dc:description><contractions elementType="Rh"><dc:description><![CDATA[(8s,6p,5d,1f) -> [3s,3p,3d,1f]]]></dc:description><contraction shell="S"><cml:matrix rows="8" columns="4" dataType="xs:double">2.6460000 -1.3554084 0.0000000 0.0000000
+1.7510000 1.6112233 0.0000000 0.0000000
+0.5713000 0.5893814 0.0000000 0.0000000
+2.6460000 0.0000000 1.1472137 0.0000000
+1.7510000 0.0000000 -1.4943525 0.0000000
+0.5713000 0.0000000 -0.8589704 0.0000000
+0.1438000 0.0000000 1.0297241 0.0000000
+0.0428000 0.0000000 0.0000000 1.0000000
+</cml:matrix></contraction><contraction shell="P"><cml:matrix rows="6" columns="4" dataType="xs:double">5.4400000 -0.0987699 0.0000000 0.0000000
+1.3290000 0.7433595 0.0000000 0.0000000
+0.4845000 0.3668462 0.0000000 0.0000000
+0.6595000 0.0000000 -0.0838056 0.0000000
+0.0869000 0.0000000 1.0244841 0.0000000
+0.0257000 0.0000000 0.0000000 1.0000000
+</cml:matrix></contraction><contraction shell="D"><cml:matrix rows="5" columns="4" dataType="xs:double">3.6690000 0.0760059 0.0000000 0.0000000
+1.4230000 0.5158852 0.0000000 0.0000000
+0.5091000 0.5436585 0.0000000 0.0000000
+0.1610000 0.0000000 1.0000000 0.0000000
+0.0800000 0.0000000 0.0000000 1.0000000
+</cml:matrix></contraction><contraction shell="F"><cml:matrix rows="1" columns="2" dataType="xs:double">0.5000000 1.0000000
+</cml:matrix></contraction></contractions><effectivePotentialsLink xlink:type="simple" xlink:href="LANL2DZ-ECP.xml" /></basisset>

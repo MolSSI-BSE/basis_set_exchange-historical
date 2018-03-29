@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<basisSet 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cml="http://www.xml-cml.org/schema/cml2/core"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns="http://purl.oclc.org/NET/EMSL/BSE">
+
+  <dc:format>chemical/x-emsl-gaussian-basisset</dc:format>
+  <dc:title>Dunning-Hay Rydberg</dc:title>
+  <dct:abstract>1R      Rydberg Functions</dct:abstract>
+  <conversion>true</conversion>
+  <basisSetType>rydberg</basisSetType>
+  <harmonicType>cartesian</harmonicType>
+  <contractionType>segmented</contractionType>
+
+  <dc:description><![CDATA[              Dunning-Hay Rydberg Functions
+              -----------------------------
+Elements                        References
+ B - Ne: (1s,1p,1d) T. H. Dunning and P. J. Hay, in Methods of Electronic
+Al - Ar: (1s,1p,1d) Structure Theory, Vol. 3, H.F. Schaefer III, Ed. Plenum
+                    Press (1977).
+
+The single shell of Rydberg functions is designed to describe the 3s, 3p and
+3d states of first row atoms and the 4s, 4p and 3d states of the next row.  For
+Ne and Ar (where exponents were not given by Dunning & Hay) the values were
+estimated on the basis of neighboring elements.
+]]></dc:description>
+
+  <referencesLink xlink:type="simple" xlink:href="RYD-DUNNING-BS-REF.xml"/>
+
+  <contractions elementType="B">
+    <dc:description>(1s,1p,1d)</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.019000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.015000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.015000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="C">
+    <dc:description>(1s,1p,1d)</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.023000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.021000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.015000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="N">
+    <dc:description>(1s,1p,1d)</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.028000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.025000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.015000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="O">
+    <dc:description>(1s,1p,1d)</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.032000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.028000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.015000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="F">
+    <dc:description>(1s,1p,1d)</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.036000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.029000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.015000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Ne">
+    <dc:description>(1s,1p,1d)</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.040000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.030000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.015000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Al">
+    <dc:description>(1s,1p,1d)</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.01400 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.01100 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.01500 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Si">
+    <dc:description>(1s,1p,1d)</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.01700 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.01400 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.01500 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="P">
+    <dc:description>(1s,1p,1d)</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.02000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.01700 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.01500 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="S">
+    <dc:description>(1s,1p,1d)</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.02300 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.02000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.01500 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Cl">
+    <dc:description>(1s,1p,1d)</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.02500 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.02000 1.000000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.01500 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Ar">
+    <dc:description>(1s,1p,1d)</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.02700 1.0000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="P">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.02000 1.0000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="D">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.01500 1.0000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+
+</basisSet>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<basisSet 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cml="http://www.xml-cml.org/schema/cml2/core"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns="http://purl.oclc.org/NET/EMSL/BSE">
+
+  <dc:format>chemical/x-emsl-gaussian-basisset</dc:format>
+  <dc:title>aug-cc-pwCVTZ-NR</dc:title>
+  <dct:abstract>VTZ2P   All-electron non-relativistic Core-Valence Triple Zeta + Polarization</dct:abstract>
+  <conversion>true</conversion>
+  <basisSetType>orbital</basisSetType>
+  <harmonicType>spherical</harmonicType>
+  <contractionType>general</contractionType>
+
+  <dc:description><![CDATA[ All-electron, Nonrelativistic Weighted Core/valence aug-cc-pwCVTZ-NR Sets
+ -------------------------------------------------------------------------
+Elements           Contraction                          References
+Sc - Zn: (21s,17p,9d,4f,3g) -> [10s,9p,7d,4f,3g] N.B. Balabanov and K.A.
+                                                 Peterson, J. Chem. Phys.,
+                                                 123, 064107 (2005).
+
+]]></dc:description>
+
+  <primaryBasisSetLink xlink:type="simple" xlink:href="CC-PWCVTZ-NR.xml" />
+  <basisSetLink xlink:type="simple" xlink:href="AUG-CC-PVTZ-NR.xml" />
+
+</basisSet>
+

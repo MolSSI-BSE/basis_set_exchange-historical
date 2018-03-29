@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<basisSet 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cml="http://www.xml-cml.org/schema/cml2/core"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns="http://purl.oclc.org/NET/EMSL/BSE">
+
+  <dc:format>chemical/x-emsl-gaussian-basisset</dc:format>
+  <dc:title>4-31G</dc:title>
+  <dct:abstract>VDZ     Valence Double Zeta: 2 Funct.'s/Valence AO</dct:abstract>
+  <conversion>true</conversion>
+  <basisSetType>orbital</basisSetType>
+  <harmonicType>cartesian</harmonicType>
+  <contractionType>segmented</contractionType>
+
+  <dc:description><![CDATA[                           4-31G Split Valence Basis
+                           -------------------------
+Elements      Contraction                       References
+ H - He: (4s)        -> [2s]       R. Ditchfield, W.J. Hehre and J.A. Pople,
+Li - Ne: (8s,4p)     -> [3s,2p]    J. Chem. Phys. 54, 724 (1971).
+ P - Cl: (12,8p)     -> [4s,3p]
+
+Note: For Li and Be Gaussian actually uses a 5-21G set, as are given here.
+      He and Ne are unpublished basis sets taken from the Gaussian program.
+
+                          Atomic Energies
+                                                    ROHF
+   State  UHF (noneq) ROHF (noneq)  ROHF(equiv)   HF Limit (equiv)
+   -----  ----------  -----------   -----------   ---------
+H   2-S    -0.498233    -0.498233    -0.498233     -0.50000
+He  1-S                                            -2.86168
+Li  2-S    -7.428464    -7.428464    -7.428464     -7.43273
+Be  1-S   -14.556871                              -14.57302
+B   2-P   -24.487190   -24.487074                 -24.52906
+C   3-P   -37.635052   -37.634172                 -37.68862
+N   4-S                                           -54.40094
+O   3-P   -74.704872                              -74.80940
+F   2-P   -99.265481                              -99.40935
+Al  2-P                                          -241.87671
+Si  3-P                                          -288.85436
+P   4-S                                          -340.71878
+S   3-P  -397.051666  -397.051521                -397.50490
+Cl  2-P                                          -459.48207
+
+
+
+]]></dc:description>
+
+  <referencesLink xlink:type="simple" xlink:href="4-31G-BS-REF.xml"/>
+
+  <contractions elementType="H">
+    <dc:description>(4s)->[2s]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="3" columns="2" dataType="xs:double">
+18.731137 0.0334946 
+2.8253944 0.2347269 
+0.6401217 0.8137573 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.1612778 1.0000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="He">
+    <dc:description>(4s)->[2s]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="3" columns="2" dataType="xs:double">
+38.421634 0.023766 
+5.7780300 0.154679 
+1.2417740 0.469630 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="S">
+      <cml:matrix rows="1" columns="2" dataType="xs:double">
+0.297964 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Li">
+    <dc:description>(8s,3p)->[3s,2p]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="5" columns="2" dataType="xs:double">
+275.39444 0.00612185 
+41.435175 0.04511296 
+9.3669938 0.19269415 
+2.5377253 0.46854421 
+0.7466365 0.44060752 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="2" columns="3" dataType="xs:double">
+0.7345643 -0.25253680 0.14359173 
+0.0871980 1.09734080 0.94780305 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="1" columns="3" dataType="xs:double">
+0.0404387 1.0000000 1.0000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Be">
+    <dc:description>(8s,3p)->[3s,2p]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="5" columns="2" dataType="xs:double">
+554.010 0.00540997 
+83.2631 0.04025150 
+18.8635 0.17685800 
+5.17782 0.45255900 
+1.55602 0.47029300 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="2" columns="3" dataType="xs:double">
+1.4417524910 -0.477429 0.201142 
+0.3018610597 1.247450 0.884483 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="1" columns="3" dataType="xs:double">
+0.1009613875 1.0000000 1.0000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="B">
+    <dc:description>(8s,4p)->[3s,2p]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="4" columns="2" dataType="xs:double">
+330.75285 0.0179942 
+49.843865 0.1246937 
+11.117054 0.4343354 
+2.9227243 0.5609794 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="3" columns="3" dataType="xs:double">
+5.6812646 -0.1303871 0.0637429 
+1.4544046 -0.2514344 0.2761331 
+0.4283786 1.2051292 0.7773866 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="1" columns="3" dataType="xs:double">
+0.1442192 1.0000000 1.0000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="C">
+    <dc:description>(8s,4p)->[3s,2p]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="4" columns="2" dataType="xs:double">
+486.96693 0.0177258 
+73.371094 0.1234787 
+16.413458 0.4338754 
+4.3449836 0.5615042 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="3" columns="3" dataType="xs:double">
+8.6735253 -0.1213837 0.0635454 
+2.0966193 -0.2273385 0.2982678 
+0.6046513 1.1851739 0.7621032 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="1" columns="3" dataType="xs:double">
+0.1835578 1.000000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="N">
+    <dc:description>(8s,4p)->[3s,2p]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="4" columns="2" dataType="xs:double">
+671.2795 0.0175982511 
+101.2017 0.1228462410 
+22.69997 0.4337821410 
+6.040609 0.5614182170 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="3" columns="3" dataType="xs:double">
+12.3935997 -0.1174892990 0.0640203443 
+2.9223828 -0.2139940160 0.3112025550 
+0.83252808 1.1745021100 0.7527482390 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="1" columns="3" dataType="xs:double">
+0.2259640 1.000000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="O">
+    <dc:description>(8s,4p)->[3s,2p]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="4" columns="2" dataType="xs:double">
+883.27286 0.0175506 
+133.12928 0.1228292 
+29.906408 0.4348836 
+7.9786772 0.5600108 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="3" columns="3" dataType="xs:double">
+16.194447 -0.1134010 0.0685453 
+3.7800860 -0.1772865 0.3312254 
+1.0709836 1.1504079 0.7346079 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="1" columns="3" dataType="xs:double">
+0.2838798 1.000000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="F">
+    <dc:description>(8s,4p)->[3s,2p]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="4" columns="2" dataType="xs:double">
+1126.163 0.0174758 
+169.7432 0.122523 
+38.18151 0.434999 
+10.21204 0.559812 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="3" columns="3" dataType="xs:double">
+21.495370 -0.111057 0.069888 
+4.989778 -0.168322 0.339388 
+1.403574 1.143626 0.727959 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="1" columns="3" dataType="xs:double">
+0.3730318 1.000000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Ne">
+    <dc:description>(8s,4p)->[3s,2p]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="4" columns="2" dataType="xs:double">
+1397.9321 0.017423805 
+210.76978 0.122272745 
+47.467257 0.435014232 
+12.722626 0.559714642 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="3" columns="3" dataType="xs:double">
+27.213033 -0.109609439 0.070440307 
+6.2941344 -0.164124890 0.343993047 
+1.7600513 1.140151590 0.724514960 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="1" columns="3" dataType="xs:double">
+0.4618670 1.000000 1.000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="P">
+    <dc:description>(12s,8p)->[4s,3p]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="4" columns="2" dataType="xs:double">
+3018.671800 0.0185213137 
+455.1271210 0.129904864 
+102.3147300 0.455100288 
+27.61784730 0.533131861 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="4" columns="3" dataType="xs:double">
+114.4294010 -0.0247502961 0.0274140025 
+26.58229590 -0.1350924600 0.169079142 
+7.871888900 0.2277360800 0.469102089 
+2.487857250 0.8755931160 0.518153059 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="3" columns="3" dataType="xs:double">
+50.75061900 -0.045119223 0.00377907118 
+1.672862420 -0.850472990 -0.04634384050 
+0.621097412 1.596285850 1.03394429000 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="1" columns="3" dataType="xs:double">
+0.167016007 1.0000000 1.0000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="S">
+    <dc:description>(12s,8p)->[4s,3p]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="4" columns="2" dataType="xs:double">
+3442.1244 0.0184921 
+518.91310 0.1298220 
+116.69090 0.4550418 
+31.571647 0.5330084 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="4" columns="3" dataType="xs:double">
+127.44058 -0.0272646 0.0291520 
+29.747667 -0.1424834 0.1779597 
+8.8346642 0.2597043 0.4836237 
+2.8173898 0.8525473 0.4942553 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="3" columns="3" dataType="xs:double">
+3.7291854 -0.2775315 -0.0337509 
+1.4067702 -0.4576435 0.1457110 
+0.5481100 1.4316843 0.8982887 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="1" columns="3" dataType="xs:double">
+0.1703809 1.0000000 1.0000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+  <contractions elementType="Cl">
+    <dc:description>(12s,8p)->[4s,3p]</dc:description>
+    <contraction shell="S">
+      <cml:matrix rows="4" columns="2" dataType="xs:double">
+3910.3026 0.0183794 
+589.55180 0.1291401 
+132.59392 0.4540448 
+35.903542 0.5344394 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="4" columns="3" dataType="xs:double">
+147.76535 -0.0267433 0.0288645 
+34.506075 -0.1446911 0.1779647 
+10.286471 0.2517035 0.4869998 
+3.3111473 0.8598203 0.4890184 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="3" columns="3" dataType="xs:double">
+4.280284910 -0.2703963 -0.0367028 
+1.641016670 -0.3416297 0.1918492 
+0.614478503 1.3500245 0.8643376 
+       </cml:matrix>
+    </contraction>
+    <contraction shell="SP">
+      <cml:matrix rows="1" columns="3" dataType="xs:double">
+0.195659411 1.0000000 1.0000000 
+       </cml:matrix>
+    </contraction>
+  </contractions>
+
+
+</basisSet>
+

@@ -1,0 +1,24 @@
+<reference 
+  xmlns="http://purl.oclc.org/NET/EMSL/BSE"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <dc:format>chemical/x-bse-reference</dc:format>
+  <author/>
+  <title/>
+  <journal/>
+  <year/>
+  <volume/>
+  <pages/>
+  <notes>
+Elements                             References
+--------                             ----------
+H, C - F: R. Ditchfield, W.J. Hehre and J.A. Pople, J. Chem. Phys. 54, 724 
+          (1971).
+He, Ne:   Gaussian 90 
+Li, Be:   These are actually 5-21G basis sets.
+Na - Ar:  M.S. Gordon, J.S. Binkley, J.A. Pople, W.J. Pietro and W.J. Hehre,
+          J. Am. Chem. Soc. 104, 2797 (1983).
+
+  </notes>
+</reference>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<basisSet 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cml="http://www.xml-cml.org/schema/cml2/core"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns="http://purl.oclc.org/NET/EMSL/BSE">
+
+  <dc:format>chemical/x-emsl-gaussian-basisset</dc:format>
+  <dc:title>LANL2DZdp ECP</dc:title>
+  <dct:abstract>DZP     Double Zeta + Polarization + Diffuse ECP</dct:abstract>
+  <conversion>true</conversion>
+  <basisSetType>ecporb</basisSetType>
+  <harmonicType>spherical</harmonicType>
+  <contractionType>general</contractionType>
+
+  <dc:description><![CDATA[        Hay-Wadt LANL2DZdp ECP + Diffuse + Polarization Basis Sets
+        ----------------------------------------------------------
+Elements     Contraction                   References
+H      :  (5s,1p)    -> [3s,1p]     T. H. Dunning Jr. and P. J. Hay, in Methods
+                                    of Electronic Structure, Theory, Vol. 2,
+C  - F :  (10s,6p,1d)-> [3s,3p,1d]  H. F. Schaefer III, ed., Plenum Press (1977)
+Si - Cl:  (3s,4p,1d) -> [2s,3p,1d]  P. J. Hay and W. R. Wadt, J. Chem. Phys.
+                                    82, 270 (1985).
+                                    P. J. Hay and W. R. Wadt, J. Chem. Phys.
+                                    82, 284 (1985).
+Ge - Br:  (3s,4p,1d) -> [2s,3p,1d]  P. J. Hay and W. R. Wadt, J. Chem. Phys.
+                                    82, 299 (1985).
+Sn - Te:  (3s,4p,1d) -> [2s,3p,1d]
+
+The diffuse/polarization functions are taken from: C.E. Check, T.O. Faust,
+J.M. Bailey, B.J. Wright, T.M. Gilbert and L.S. Sunderlin, J. Phys. Chem. A,
+105, 8111 (2001).
+
+]]></dc:description>
+
+  <primaryBasisSetLink xlink:type="simple" xlink:href="LANL2DZ.xml" />
+  <basisSetLink xlink:type="simple" xlink:href="LANL2DZPD.xml" />
+  <effectivePotentialsLink xlink:type="simple" xlink:href="LANL2DZ-ECP.xml" />
+
+</basisSet>
+
