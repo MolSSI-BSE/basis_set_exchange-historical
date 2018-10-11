@@ -1,0 +1,34 @@
+$Basis = aug-Test
+$
+$ This is a basis used for testing of the LSDALTON code and should not be used 
+$ it is the augmentation function included in aug-cc-pVDZ which is not included in 
+$ cc-pVDZ - This code test the feature of "adding" basis sets together. 
+$
+$***********************************************************************
+$ Elements supported
+$ H O
+$
+$***********************************************************************
+a 1
+$ HYDROGEN     (4s,1p) -> [2s,1p]                                
+$ HYDROGEN     Diffuse (1s,1p)                                   
+$ S-TYPE FUNCTIONS
+    1    1    0
+      0.0297400  1.00000000
+$ P-TYPE FUNCTIONS
+    1    1    0
+      0.1410000  1.00000000
+a 8
+$ OXYGEN       (9s,4p,1d) -> [3s,2p,1d]                          
+$ OXYGEN       Diffuse (1s,1p,1d)                                
+$ S-TYPE FUNCTIONS
+    1    1    0
+      0.0789600  1.00000000
+$ P-TYPE FUNCTIONS
+    1    1    0
+      0.0685600  1.00000000
+$ D-TYPE FUNCTIONS
+    1    1    0
+      0.3320000  1.00000000
+
+$END OF BASIS
