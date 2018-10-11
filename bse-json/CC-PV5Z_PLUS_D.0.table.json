@@ -1,0 +1,32 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "table",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "cc-pV(5+d)Z",
+    "basis_set_family": "other_family",
+    "basis_set_description": "V5Z4P   Valence Quintuple Zeta + Polarization on All Atoms",
+    "basis_set_revision_description": "Original Basis Set Exchange",
+    "basis_set_role": "orbital",
+    "basis_set_auxiliaries": {},
+    "basis_set_elements": {
+        "13": {
+            "element_entry": "CC-PV5Z_PLUS_D.0.element.json"
+        },
+        "14": {
+            "element_entry": "CC-PV5Z_PLUS_D.0.element.json"
+        },
+        "15": {
+            "element_entry": "CC-PV5Z_PLUS_D.0.element.json"
+        },
+        "16": {
+            "element_entry": "CC-PV5Z_PLUS_D.0.element.json"
+        },
+        "17": {
+            "element_entry": "CC-PV5Z_PLUS_D.0.element.json"
+        },
+        "18": {
+            "element_entry": "CC-PV5Z_PLUS_D.0.element.json"
+        }
+    }
+}

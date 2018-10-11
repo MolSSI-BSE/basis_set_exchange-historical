@@ -1,0 +1,136 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "component",
+        "schema_version": "0.1"
+    },
+    "basis_set_description": "Stuttgart-Koeln MCDHF RSC ECP",
+    "basis_set_references": [
+        "peterson2003b",
+        "peterson2006a"
+    ],
+    "basis_set_elements": {
+        "53": {
+            "element_ecp_electrons": 28,
+            "element_ecp": [
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        4
+                    ],
+                    "potential_r_exponents": [
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "1.00000000"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "0.00000000"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        0
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "40.03337600",
+                        "17.30057600",
+                        "8.85172000"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "49.98964900",
+                            "281.00655600",
+                            "61.41673900"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        1
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "15.72014100",
+                        "15.20822200",
+                        "8.29418600",
+                        "7.75394900"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "67.41623900",
+                            "134.80769600",
+                            "14.56654800",
+                            "28.96842200"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        2
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "13.81775100",
+                        "13.58780500",
+                        "6.94763000",
+                        "6.96009900"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "35.53875600",
+                            "53.33975900",
+                            "9.71646600",
+                            "14.97750000"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        3
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "18.52295000",
+                        "18.25103500",
+                        "7.55790100",
+                        "7.59740400"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "-20.17661800",
+                            "-26.08807700",
+                            "-0.22043400",
+                            "-0.22164600"
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}

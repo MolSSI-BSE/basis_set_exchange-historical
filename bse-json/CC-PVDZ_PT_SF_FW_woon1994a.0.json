@@ -1,0 +1,60 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "component",
+        "schema_version": "0.1"
+    },
+    "basis_set_description": "VDZP    Relativistic Valence Double Zeta + Polarization",
+    "basis_set_references": [
+        "woon1994a"
+    ],
+    "basis_set_elements": {
+        "2": {
+            "element_electron_shells": [
+                {
+                    "shell_function_type": "gto",
+                    "shell_harmonic_type": "spherical",
+                    "shell_region": "valence",
+                    "shell_angular_momentum": [
+                        0
+                    ],
+                    "shell_exponents": [
+                        "3.8360000E+01",
+                        "5.7700000E+00",
+                        "1.2400000E+00",
+                        "2.9760000E-01"
+                    ],
+                    "shell_coefficients": [
+                        [
+                            "2.38290660819E-02",
+                            "1.54931620221E-01",
+                            "4.69996873457E-01",
+                            "5.12982071494E-01"
+                        ],
+                        [
+                            "0.00000000000E+00",
+                            "0.00000000000E+00",
+                            "0.00000000000E+00",
+                            "1.00000000000E+00"
+                        ]
+                    ]
+                },
+                {
+                    "shell_function_type": "gto",
+                    "shell_harmonic_type": "spherical",
+                    "shell_region": "valence",
+                    "shell_angular_momentum": [
+                        1
+                    ],
+                    "shell_exponents": [
+                        "1.2750000E+00"
+                    ],
+                    "shell_coefficients": [
+                        [
+                            "1.00000000000E+00"
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}

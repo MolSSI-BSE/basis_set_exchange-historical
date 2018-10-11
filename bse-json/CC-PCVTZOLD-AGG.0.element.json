@@ -1,0 +1,46 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "cc-pCVTZ(old)",
+    "basis_set_description": "TZ2P    Triple Zeta + Polarization + Tight Core",
+    "basis_set_elements": {
+        "13": {
+            "element_components": [
+                "CC-PVTZ_woon1993a.0.json",
+                "CC-PCVTZ_OLD_noref.json"
+            ]
+        },
+        "14": {
+            "element_components": [
+                "CC-PVTZ_woon1993a.0.json",
+                "CC-PCVTZ_OLD_noref.json"
+            ]
+        },
+        "15": {
+            "element_components": [
+                "CC-PVTZ_woon1993a.0.json",
+                "CC-PCVTZ_OLD_noref.json"
+            ]
+        },
+        "16": {
+            "element_components": [
+                "CC-PVTZ_woon1993a.0.json",
+                "CC-PCVTZ_OLD_noref.json"
+            ]
+        },
+        "17": {
+            "element_components": [
+                "CC-PVTZ_woon1993a.0.json",
+                "CC-PCVTZ_OLD_noref.json"
+            ]
+        },
+        "18": {
+            "element_components": [
+                "CC-PVTZ_woon1993a.0.json",
+                "CC-PCVTZ_OLD_noref.json"
+            ]
+        }
+    }
+}

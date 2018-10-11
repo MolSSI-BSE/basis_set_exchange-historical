@@ -1,0 +1,30 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "6-311G-J",
+    "basis_set_description": "6-311G-J",
+    "basis_set_elements": {
+        "1": {
+            "element_components": [
+                "6-311G-J.json"
+            ]
+        },
+        "6": {
+            "element_components": [
+                "6-311G-J.json"
+            ]
+        },
+        "7": {
+            "element_components": [
+                "6-311G-J.json"
+            ]
+        },
+        "8": {
+            "element_components": [
+                "6-311G-J.json"
+            ]
+        }
+    }
+}

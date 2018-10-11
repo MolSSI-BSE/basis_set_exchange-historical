@@ -1,0 +1,40 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "Binning-Curtiss (df) Polarization",
+    "basis_set_description": "Binning-Curtiss (df) Polarization",
+    "basis_set_elements": {
+        "31": {
+            "element_components": [
+                "BINCURTP2_binning1990a_dunning1977a.0.json"
+            ]
+        },
+        "32": {
+            "element_components": [
+                "BINCURTP2_binning1990a_dunning1977a.0.json"
+            ]
+        },
+        "33": {
+            "element_components": [
+                "BINCURTP2_binning1990a_dunning1977a.0.json"
+            ]
+        },
+        "34": {
+            "element_components": [
+                "BINCURTP2_binning1990a_dunning1977a.0.json"
+            ]
+        },
+        "35": {
+            "element_components": [
+                "BINCURTP2_binning1990a_dunning1977a.0.json"
+            ]
+        },
+        "36": {
+            "element_components": [
+                "BINCURTP2_binning1990a_dunning1977a.0.json"
+            ]
+        }
+    }
+}

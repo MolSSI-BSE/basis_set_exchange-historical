@@ -1,0 +1,40 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "cc-pV(T+d)Z+",
+    "basis_set_description": "cc-pV(T+d)Z+",
+    "basis_set_elements": {
+        "1": {
+            "element_components": [
+                "CC-PVTPDZP.json"
+            ]
+        },
+        "6": {
+            "element_components": [
+                "CC-PVTPDZP.json"
+            ]
+        },
+        "7": {
+            "element_components": [
+                "CC-PVTPDZP.json"
+            ]
+        },
+        "8": {
+            "element_components": [
+                "CC-PVTPDZP.json"
+            ]
+        },
+        "16": {
+            "element_components": [
+                "CC-PVTPDZP.json"
+            ]
+        },
+        "17": {
+            "element_components": [
+                "CC-PVTPDZP.json"
+            ]
+        }
+    }
+}

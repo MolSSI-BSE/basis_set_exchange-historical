@@ -1,0 +1,736 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "component",
+        "schema_version": "0.1"
+    },
+    "basis_set_description": "Stuttgart-Koeln MCDHF RSC ECP",
+    "basis_set_references": [
+        "figgen2005a"
+    ],
+    "basis_set_elements": {
+        "29": {
+            "element_ecp_electrons": 10,
+            "element_ecp": [
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        4
+                    ],
+                    "potential_r_exponents": [
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "1.0000000"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "0.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        0
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "30.1105430",
+                        "13.0763100"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "355.7505120",
+                            "70.9309060"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        1
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "32.6926140",
+                        "32.7703390",
+                        "13.7510670",
+                        "13.3221660"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "77.9699310",
+                            "155.9274480",
+                            "18.0211320",
+                            "36.0943720"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        2
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "38.9965110",
+                        "39.5397880",
+                        "12.2875110",
+                        "11.4593000"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "-12.3434100",
+                            "-18.2733620",
+                            "-0.9847050",
+                            "-1.3187470"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        3
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "6.1901020",
+                        "8.1187800"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "-0.2272640",
+                            "-0.4687730"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "30": {
+            "element_ecp_electrons": 10,
+            "element_ecp": [
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        4
+                    ],
+                    "potential_r_exponents": [
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "1.0000000"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "0.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        0
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "34.1740010",
+                        "14.4563710"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "399.9863990",
+                            "85.4897500"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        1
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "39.8886830",
+                        "39.6550170",
+                        "15.2905460",
+                        "14.9035240"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "92.3810770",
+                            "184.7711760",
+                            "23.0025410",
+                            "46.0574270"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        2
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "43.7082960",
+                        "43.6985360",
+                        "15.1507180",
+                        "15.2824410"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "-13.6907340",
+                            "-20.5439800",
+                            "-1.3161540",
+                            "-1.8387150"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        3
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "8.1600140",
+                        "12.2284220"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "-0.3703600",
+                            "-1.0629430"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "47": {
+            "element_ecp_electrons": 28,
+            "element_ecp": [
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        4
+                    ],
+                    "potential_r_exponents": [
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "1.0000000"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "0.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        0
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "12.5677140",
+                        "6.9976620"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "255.0547710",
+                            "36.9833930"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        1
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "11.3164960",
+                        "10.9580630",
+                        "7.1114000",
+                        "6.7733190"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "60.7157050",
+                            "121.4438890",
+                            "10.1718660",
+                            "20.4865640"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        2
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "8.9284370",
+                        "11.1025670",
+                        "5.5432120",
+                        "3.9288350"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "29.5049380",
+                            "44.0187360",
+                            "5.3683330",
+                            "7.4083750"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        3
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "11.0129130",
+                        "11.0198980"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "-12.6234030",
+                            "-16.7643270"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "48": {
+            "element_ecp_electrons": 28,
+            "element_ecp": [
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        4
+                    ],
+                    "potential_r_exponents": [
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "1.0000000"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "0.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        0
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "13.3551760",
+                        "7.3083780"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "270.0394480",
+                            "38.8777660"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        1
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "12.6597280",
+                        "12.2896390",
+                        "6.7861760",
+                        "6.4007430"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "64.6074700",
+                            "129.2194450",
+                            "10.6225580",
+                            "21.2650460"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        2
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "11.1617220",
+                        "11.2196150",
+                        "4.5377330",
+                        "4.3357270"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "31.6639650",
+                            "47.4892160",
+                            "5.1862000",
+                            "7.5660630"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        3
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "11.4789860",
+                        "11.4870270"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "-12.6327850",
+                            "-16.7601710"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "79": {
+            "element_ecp_electrons": 60,
+            "element_ecp": [
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        5
+                    ],
+                    "potential_r_exponents": [
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "1.0000000"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "0.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        0
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "13.5232180",
+                        "6.2643840"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "426.6418670",
+                            "36.8006680"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        1
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "11.4138670",
+                        "10.3292150",
+                        "5.7074240",
+                        "4.8281650"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "87.0020910",
+                            "174.0043700",
+                            "8.8706100",
+                            "17.9024380"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        2
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "7.4309630",
+                        "8.3219900",
+                        "4.6096420",
+                        "3.5115070"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "49.8836550",
+                            "74.6845490",
+                            "6.4862270",
+                            "9.5468210"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        3
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "3.0846390",
+                        "3.0247430"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "8.7916400",
+                            "11.6584560"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        4
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "3.9784420",
+                        "4.0114910"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "-5.2343370",
+                            "-6.7381420"
+                        ]
+                    ]
+                }
+            ]
+        },
+        "80": {
+            "element_ecp_electrons": 60,
+            "element_ecp": [
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        5
+                    ],
+                    "potential_r_exponents": [
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "1.0000000"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "0.0000000"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        0
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "12.4130710",
+                        "6.8979130"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "275.7747970",
+                            "49.2678980"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        1
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "11.3103200",
+                        "10.2107730",
+                        "5.9398040",
+                        "5.0197550"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "80.5069840",
+                            "161.0348240",
+                            "9.0834160",
+                            "18.3677730"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        2
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "8.4078950",
+                        "8.2140860",
+                        "4.0126120",
+                        "3.7953980"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "51.1372560",
+                            "76.7074590",
+                            "6.5618210",
+                            "9.8180700"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        3
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "3.2731060",
+                        "3.2083210"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "9.4290010",
+                            "12.4948560"
+                        ]
+                    ]
+                },
+                {
+                    "potential_ecp_type": "scalar",
+                    "potential_angular_momentum": [
+                        4
+                    ],
+                    "potential_r_exponents": [
+                        2,
+                        2
+                    ],
+                    "potential_gaussian_exponents": [
+                        "4.4852960",
+                        "4.5132000"
+                    ],
+                    "potential_coefficients": [
+                        [
+                            "-6.3384140",
+                            "-8.0998630"
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}

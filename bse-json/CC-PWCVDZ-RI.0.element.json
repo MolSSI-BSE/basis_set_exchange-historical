@@ -1,0 +1,40 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "cc-pwCVDZ-RI",
+    "basis_set_description": "cc-pwCVDZ-RI",
+    "basis_set_elements": {
+        "29": {
+            "element_components": [
+                "CC-PWCVDZ-RI_CC-PWCVDZ-RI-BS-REF.json"
+            ]
+        },
+        "30": {
+            "element_components": [
+                "CC-PWCVDZ-RI_CC-PWCVDZ-RI-BS-REF.json"
+            ]
+        },
+        "47": {
+            "element_components": [
+                "CC-PWCVDZ-RI_CC-PWCVDZ-RI-BS-REF.json"
+            ]
+        },
+        "48": {
+            "element_components": [
+                "CC-PWCVDZ-RI_CC-PWCVDZ-RI-BS-REF.json"
+            ]
+        },
+        "79": {
+            "element_components": [
+                "CC-PWCVDZ-RI_CC-PWCVDZ-RI-BS-REF.json"
+            ]
+        },
+        "80": {
+            "element_components": [
+                "CC-PWCVDZ-RI_CC-PWCVDZ-RI-BS-REF.json"
+            ]
+        }
+    }
+}

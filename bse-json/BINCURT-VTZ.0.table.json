@@ -1,0 +1,32 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "table",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "Binning/Curtiss VTZ",
+    "basis_set_family": "other_family",
+    "basis_set_description": "VTZ     Valence Triple Zeta: 3 Functions/valence AO",
+    "basis_set_revision_description": "Original Basis Set Exchange",
+    "basis_set_role": "orbital",
+    "basis_set_auxiliaries": {},
+    "basis_set_elements": {
+        "31": {
+            "element_entry": "BINCURT-VTZ.0.element.json"
+        },
+        "32": {
+            "element_entry": "BINCURT-VTZ.0.element.json"
+        },
+        "33": {
+            "element_entry": "BINCURT-VTZ.0.element.json"
+        },
+        "34": {
+            "element_entry": "BINCURT-VTZ.0.element.json"
+        },
+        "35": {
+            "element_entry": "BINCURT-VTZ.0.element.json"
+        },
+        "36": {
+            "element_entry": "BINCURT-VTZ.0.element.json"
+        }
+    }
+}

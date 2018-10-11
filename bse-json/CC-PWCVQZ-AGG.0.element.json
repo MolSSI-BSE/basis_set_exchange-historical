@@ -1,0 +1,88 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "cc-pwCVQZ",
+    "basis_set_description": "QZ3P    Quadruple Zeta + Polarization + Tight Core",
+    "basis_set_elements": {
+        "5": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        },
+        "6": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        },
+        "7": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        },
+        "8": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        },
+        "9": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        },
+        "10": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        },
+        "13": {
+            "element_components": [
+                "CC-PVQZ_woon1993a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        },
+        "14": {
+            "element_components": [
+                "CC-PVQZ_woon1993a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        },
+        "15": {
+            "element_components": [
+                "CC-PVQZ_woon1993a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        },
+        "16": {
+            "element_components": [
+                "CC-PVQZ_woon1993a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        },
+        "17": {
+            "element_components": [
+                "CC-PVQZ_woon1993a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        },
+        "18": {
+            "element_components": [
+                "CC-PVQZ_woon1993a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        },
+        "35": {
+            "element_components": [
+                "CC-PVQZ_wilson1999a.0.json",
+                "CC-PWCVQZ_noref.json"
+            ]
+        }
+    }
+}

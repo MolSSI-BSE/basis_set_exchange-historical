@@ -1,0 +1,15 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "cc-pV9Z",
+    "basis_set_description": "V7Z6P   Valence Octuple Zeta + Polarization on All Atoms",
+    "basis_set_elements": {
+        "10": {
+            "element_components": [
+                "CC-PV9Z_noref.json"
+            ]
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "aug-mcc-pVTZ",
+    "basis_set_description": "aug-mcc-pVTZ",
+    "basis_set_elements": {
+        "1": {
+            "element_components": [
+                "AUG-MCC-PVTZ_mielke1999a.0.json"
+            ]
+        }
+    }
+}

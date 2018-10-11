@@ -1,0 +1,122 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "aug-cc-pCVQZ",
+    "basis_set_description": "QZ3PD   Quadruple Zeta + Polarization +Diffuse on All Atoms",
+    "basis_set_elements": {
+        "3": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PCVQZ_dunning1989a_woon1995a.0.json",
+                "AUG-CC-PVQZ_noref.json"
+            ]
+        },
+        "4": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PCVQZ_dunning1989a_woon1995a.0.json",
+                "AUG-CC-PVQZ_noref.json"
+            ]
+        },
+        "5": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PCVQZ_dunning1989a_woon1995a.0.json",
+                "AUG-CC-PVQZ_kendall1992a.0.json"
+            ]
+        },
+        "6": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PCVQZ_dunning1989a_woon1995a.0.json",
+                "AUG-CC-PVQZ_kendall1992a.0.json"
+            ]
+        },
+        "7": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PCVQZ_dunning1989a_woon1995a.0.json",
+                "AUG-CC-PVQZ_kendall1992a.0.json"
+            ]
+        },
+        "8": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PCVQZ_dunning1989a_woon1995a.0.json",
+                "AUG-CC-PVQZ_kendall1992a.0.json"
+            ]
+        },
+        "9": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PCVQZ_dunning1989a_woon1995a.0.json",
+                "AUG-CC-PVQZ_kendall1992a.0.json"
+            ]
+        },
+        "10": {
+            "element_components": [
+                "CC-PVQZ_dunning1989a.0.json",
+                "CC-PCVQZ_dunning1989a_woon1995a.0.json",
+                "AUG-CC-PVQZ_noref.json"
+            ]
+        },
+        "11": {
+            "element_components": [
+                "CC-PVQZ_noref.json",
+                "CC-PCVQZ_noref.json",
+                "AUG-CC-PVQZ_noref.json"
+            ]
+        },
+        "12": {
+            "element_components": [
+                "CC-PVQZ_noref.json",
+                "CC-PCVQZ_noref.json",
+                "AUG-CC-PVQZ_noref.json"
+            ]
+        },
+        "13": {
+            "element_components": [
+                "CC-PVQZ_woon1993a.0.json",
+                "CC-PCVQZ_peterson2002a.0.json",
+                "AUG-CC-PVQZ_woon1993a.0.json"
+            ]
+        },
+        "14": {
+            "element_components": [
+                "CC-PVQZ_woon1993a.0.json",
+                "CC-PCVQZ_peterson2002a.0.json",
+                "AUG-CC-PVQZ_woon1993a.0.json"
+            ]
+        },
+        "15": {
+            "element_components": [
+                "CC-PVQZ_woon1993a.0.json",
+                "CC-PCVQZ_peterson2002a.0.json",
+                "AUG-CC-PVQZ_woon1993a.0.json"
+            ]
+        },
+        "16": {
+            "element_components": [
+                "CC-PVQZ_woon1993a.0.json",
+                "CC-PCVQZ_peterson2002a.0.json",
+                "AUG-CC-PVQZ_woon1993a.0.json"
+            ]
+        },
+        "17": {
+            "element_components": [
+                "CC-PVQZ_woon1993a.0.json",
+                "CC-PCVQZ_peterson2002a.0.json",
+                "AUG-CC-PVQZ_woon1993a.0.json"
+            ]
+        },
+        "18": {
+            "element_components": [
+                "CC-PVQZ_woon1993a.0.json",
+                "CC-PCVQZ_peterson2002a.0.json",
+                "AUG-CC-PVQZ_noref.json"
+            ]
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "table",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "aug-pV7Z Diffuse",
+    "basis_set_family": "other_family",
+    "basis_set_description": "1D      Diffuse Functions",
+    "basis_set_revision_description": "Original Basis Set Exchange",
+    "basis_set_role": "orbital",
+    "basis_set_auxiliaries": {},
+    "basis_set_elements": {
+        "6": {
+            "element_entry": "AUG-PV7Z.0.element.json"
+        },
+        "7": {
+            "element_entry": "AUG-PV7Z.0.element.json"
+        },
+        "8": {
+            "element_entry": "AUG-PV7Z.0.element.json"
+        },
+        "9": {
+            "element_entry": "AUG-PV7Z.0.element.json"
+        },
+        "16": {
+            "element_entry": "AUG-PV7Z.0.element.json"
+        }
+    }
+}

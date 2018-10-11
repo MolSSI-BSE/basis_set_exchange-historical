@@ -1,0 +1,15 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "Core/valence Functions (cc-pCV6Z(old))",
+    "basis_set_description": "Core/valence Functions (cc-pCV6Z(old))",
+    "basis_set_elements": {
+        "8": {
+            "element_components": [
+                "CC-PCV6Z-OLD_noref.json"
+            ]
+        }
+    }
+}

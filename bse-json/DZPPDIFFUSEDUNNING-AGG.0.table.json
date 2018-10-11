@@ -1,0 +1,41 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "table",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "DZP + Diffuse (Dunning)",
+    "basis_set_family": "other_family",
+    "basis_set_description": "DZPD    Double Zeta + Polarization + Diffuse",
+    "basis_set_revision_description": "Original Basis Set Exchange",
+    "basis_set_role": "orbital",
+    "basis_set_auxiliaries": {},
+    "basis_set_elements": {
+        "1": {
+            "element_entry": "DZPPDIFFUSEDUNNING-AGG.0.element.json"
+        },
+        "2": {
+            "element_entry": "DUNHAYPOL.0.element.json"
+        },
+        "3": {
+            "element_entry": "DZPPDIFFUSEDUNNING-AGG.0.element.json"
+        },
+        "5": {
+            "element_entry": "DZPPDIFFUSEDUNNING-AGG.0.element.json"
+        },
+        "6": {
+            "element_entry": "DZPPDIFFUSEDUNNING-AGG.0.element.json"
+        },
+        "7": {
+            "element_entry": "DZPPDIFFUSEDUNNING-AGG.0.element.json"
+        },
+        "8": {
+            "element_entry": "DZPPDIFFUSEDUNNING-AGG.0.element.json"
+        },
+        "9": {
+            "element_entry": "DZPPDIFFUSEDUNNING-AGG.0.element.json"
+        },
+        "10": {
+            "element_entry": "DZPPDIFFUSEDUNNING-AGG.0.element.json"
+        }
+    }
+}

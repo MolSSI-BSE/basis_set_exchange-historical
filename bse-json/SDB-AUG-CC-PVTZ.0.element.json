@@ -1,0 +1,60 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "SDB-aug-cc-pVTZ Diffuse",
+    "basis_set_description": "1D      Diffuse Functions",
+    "basis_set_elements": {
+        "31": {
+            "element_components": [
+                "SDB-AUG-CC-PVTZ_martin2001a.0.json"
+            ]
+        },
+        "32": {
+            "element_components": [
+                "SDB-AUG-CC-PVTZ_martin2001a.0.json"
+            ]
+        },
+        "33": {
+            "element_components": [
+                "SDB-AUG-CC-PVTZ_martin2001a.0.json"
+            ]
+        },
+        "34": {
+            "element_components": [
+                "SDB-AUG-CC-PVTZ_martin2001a.0.json"
+            ]
+        },
+        "35": {
+            "element_components": [
+                "SDB-AUG-CC-PVTZ_martin2001a.0.json"
+            ]
+        },
+        "49": {
+            "element_components": [
+                "SDB-AUG-CC-PVTZ_noref.json"
+            ]
+        },
+        "50": {
+            "element_components": [
+                "SDB-AUG-CC-PVTZ_noref.json"
+            ]
+        },
+        "51": {
+            "element_components": [
+                "SDB-AUG-CC-PVTZ_noref.json"
+            ]
+        },
+        "52": {
+            "element_components": [
+                "SDB-AUG-CC-PVTZ_noref.json"
+            ]
+        },
+        "53": {
+            "element_components": [
+                "SDB-AUG-CC-PVTZ_noref.json"
+            ]
+        }
+    }
+}

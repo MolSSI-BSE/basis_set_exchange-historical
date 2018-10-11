@@ -1,0 +1,35 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "aug-cc-pV(7+d)Z",
+    "basis_set_description": "aug-cc-pV(7+d)Z",
+    "basis_set_elements": {
+        "13": {
+            "element_components": [
+                "AUG-CC-PV7PDZ_noref.json"
+            ]
+        },
+        "14": {
+            "element_components": [
+                "AUG-CC-PV7PDZ_feller2013a.0.json"
+            ]
+        },
+        "15": {
+            "element_components": [
+                "AUG-CC-PV7PDZ_feller2013a.0.json"
+            ]
+        },
+        "16": {
+            "element_components": [
+                "AUG-CC-PV7PDZ_feller2011a.0.json"
+            ]
+        },
+        "17": {
+            "element_components": [
+                "AUG-CC-PV7PDZ_feller2011a.0.json"
+            ]
+        }
+    }
+}

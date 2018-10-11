@@ -1,0 +1,60 @@
+{
+    "molssi_bse_schema": {
+        "schema_type": "element",
+        "schema_version": "0.1"
+    },
+    "basis_set_name": "NLO-V",
+    "basis_set_description": "NLO-V",
+    "basis_set_elements": {
+        "1": {
+            "element_components": [
+                "NLO-V_paschoal2013a.0.json"
+            ]
+        },
+        "5": {
+            "element_components": [
+                "NLO-V_paschoal2013a.0.json"
+            ]
+        },
+        "6": {
+            "element_components": [
+                "NLO-V_paschoal2013a.0.json"
+            ]
+        },
+        "7": {
+            "element_components": [
+                "NLO-V_paschoal2013a.0.json"
+            ]
+        },
+        "8": {
+            "element_components": [
+                "NLO-V_paschoal2013a.0.json"
+            ]
+        },
+        "9": {
+            "element_components": [
+                "NLO-V_paschoal2013a.0.json"
+            ]
+        },
+        "14": {
+            "element_components": [
+                "NLO-V_paschoal2013a.0.json"
+            ]
+        },
+        "15": {
+            "element_components": [
+                "NLO-V_paschoal2013a.0.json"
+            ]
+        },
+        "16": {
+            "element_components": [
+                "NLO-V_paschoal2013a.0.json"
+            ]
+        },
+        "17": {
+            "element_components": [
+                "NLO-V_paschoal2013a.0.json"
+            ]
+        }
+    }
+}
