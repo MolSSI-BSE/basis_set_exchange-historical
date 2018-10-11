@@ -1,0 +1,78 @@
+$jkbas
+*
+be def2-TZVP
+be dhf-TZVP
+be def2-TZVPP
+be dhf-TZVPP
+be def2-QZVP
+be dhf-QZVP
+be def2-QZVPP
+be dhf-QZVPP
+be dhf-SV(P)
+be dhf-SVP
+be dhf-SV(P)-2c
+be dhf-SVP-2c
+be dhf-TZVP-2c
+be dhf-TZVPP-2c
+be dhf-QZVP-2c
+be dhf-QZVPP-2c
+be def2-SV(P)
+be def2-SVP
+be def-SVP
+be def-SV(P)
+be SVP
+be SV(P)
+be universal
+be small
+be cc-pVDZ-F12
+be cc-pVTZ-F12
+be cc-pVQZ-F12
+# be (10s7p4d2f) / [7s5p3d2f]
+# errors per atom /uH for [J+K]-HF(def2-QZVPP):
+# Be2F4:27 Be2H4:-7 Be4:-4 BeC2H6:2 BeF2O2H4:14 BeH2:-11 BeS:27
+# ...leading to errors per atom for MP2(-only-)energies:
+# Be2F4:57 Be2H4:12 Be4:38 BeC2H6:11 BeF2O2H4:34 BeH2:11 BeS:37
+# F. Weigend 07/06 J. Comput. Chem. 29(2), 167-75 (2008)
+*
+   4  s
+  145.42535500      0.17030048260
+  43.759339000      0.40797801530
+  14.810954000      0.76631120560
+  5.6210223000      0.46617466770
+   1  s
+  2.3772683000       1.0000000000
+   1  s
+  1.1092020000       1.0000000000
+   1  s
+ 0.56272400000       1.0000000000
+   1  s
+ 0.30447050000       1.0000000000
+   1  s
+ 0.17158580000       1.0000000000
+   1  s
+ 0.98056500000E-01   1.0000000000
+   3  p
+  13.964325300      0.41683978250
+  4.5963247000      0.70594351900
+  1.7195766000      0.57261535410
+   1  p
+ 0.71982320000       1.0000000000
+   1  p
+ 0.32928900000       1.0000000000
+   1  p
+ 0.15951950000       1.0000000000
+   1  p
+ 0.78826500000E-01   1.0000000000
+   2  d
+  2.4566484000      0.13079692550
+ 0.85308120000      0.99140918110
+   1  d
+ 0.29624180000       1.0000000000
+   1  d
+ 0.10287390000       1.0000000000
+   1  f
+ 0.70900800000       1.0000000000
+   1  f
+ 0.20257371400       1.0000000000
+*
+$end

@@ -1,0 +1,80 @@
+$jkbas
+*
+li def2-TZVP
+li dhf-TZVP
+li def2-TZVPP
+li dhf-TZVPP
+li def2-QZVP
+li dhf-QZVP
+li def2-QZVPP
+li dhf-QZVPP
+li dhf-SV(P)
+li dhf-SVP
+li dhf-SV(P)-2c
+li dhf-SVP-2c
+li dhf-TZVP-2c
+li dhf-TZVPP-2c
+li dhf-QZVP-2c
+li dhf-QZVPP-2c
+li def2-SV(P)
+li def2-SVP
+li def-SVP
+li def-SV(P)
+li SVP
+li SV(P)
+li universal
+li small
+li cc-pVDZ-F12
+li cc-pVTZ-F12
+li cc-pVQZ-F12
+# li (10s7p4d2f) / [7s5p3d2f]
+# errors per atom /uH for [J+K]-HF(def2-QZVPP):
+# Li2:-2 Li2O:8 Li4C4H12:1 Li4Cl4:10 Li4H4:-2 Li8:-6 LiBH4:0
+# LiCl:8 LiF:7 LiH:-5 LiSLi:8 PLi3:3
+# ...leading to errors per atom for MP2(-only-)energies:
+# Li2:40 Li2O:44 Li4C4H12:15 Li4Cl4:56 Li4H4:21 Li8:41 LiBH4:13
+# LiCl:59 LiF:61 LiH:24 LiSLi:46 PLi3:45
+# F. Weigend 07/06 J. Comput. Chem. 29(2), 167-75 (2008)
+*
+   4  s
+  188.56998650      0.59285056600E-01
+  57.062030900      0.18260726540
+  19.061045700      0.49617981420
+  6.9971625000      0.73513933910
+   1  s
+  2.8033030000      0.42013761170
+   1  s
+  1.2138450000       1.0000000000
+   1  s
+ 0.56084720000       1.0000000000
+   1  s
+ 0.27217160000       1.0000000000
+   1  s
+ 0.13619220000       1.0000000000
+   1  s
+ 0.68863800000E-01   1.0000000000
+   3  p
+  9.0816823000      0.31000416350
+  3.4212207000      0.56098701260
+  1.4152012000      0.65679012740
+   1  p
+ 0.63373280000      0.39114812890
+   1  p
+ 0.30157170000     -0.69432414300E-01
+   1  p
+ 0.14911410000       1.0000000000
+   1  p
+ 0.74703300000E-01   1.0000000000
+   2  d
+  1.3650595000      0.64326056650
+ 0.67666500000      0.66866171520
+   1  d
+ 0.33881780000     -0.21562669730
+   1  d
+ 0.17022570000      0.25229505830
+   1  f
+ 0.60590120000       1.0000000000
+   1  f
+ 0.17311460000       1.0000000000
+*
+$end

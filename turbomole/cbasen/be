@@ -1,0 +1,946 @@
+$cbas
+*
+############################# TURBOMOLE basis sets #############################
+*                                                                               
+be SVP   
+be def-SVP   
+be SV(P)
+be def-SV(P)
+be def2-SVP
+be def2-SV(P)
+# be    (9s5p3d) / [5s4p2d]     {51111/2111/21}                                 
+# be atom:
+#  MP2-energy (RI):    -0.02274891 H
+#  EMP2(RI) - EMP2:    24.474799   uH
+#  delta/|EMP2|:        2.951310   ppm
+# beh2 molecule, r(be-h)=2.5223 bohr, for SVP: 
+#  MP2-energy (RI):    -0.04407136 H
+#  EMP2(RI) - EMP2:    88.655084   uH
+#  delta/|EMP2|:        3.649780   ppm
+# Ref.: Weigend, Haeser, Patzelt, Ahlrichs, CPL 294 (1998) 143.
+*                                                                               
+   5  s                                                                         
+   86.81101212            1.18820240                                            
+   17.98174975            1.71284790                                            
+    7.76958894            1.07129590                                            
+    2.77177455            -.21982450                                            
+    1.14846369            -.58936217                                            
+   1  s                                                                         
+     .39330203            1.00000000                                            
+   1  s                                                                         
+     .23135414            1.00000000                                            
+   1  s                                                                         
+     .09682460            1.00000000                                            
+   1  s                                                                         
+     .05658797            1.00000000                                            
+   2  p                                                                         
+    8.77639612            2.28316930                                            
+    2.91244194            2.27145280                                            
+   1  p                                                                         
+     .64524808            1.00000000                                            
+   1  p                                                                         
+     .23829384            1.00000000                                            
+   1  p                                                                         
+     .14017285            1.00000000                                            
+   2  d                                                                         
+    3.46723845             .63489064                                            
+     .58304893            1.95150326                                            
+   1  d                                                                         
+     .17384257            1.00000000                                            
+*                                                                               
+be TZVP                                                                         
+be def-TZVP                                                                     
+# be    (9s5p3d) / [8s4p2d]     {21111111/2111/21}                              
+# be atom:
+#  MP2-energy (RI):    -0.03550275 H
+#  EMP2(RI) - EMP2:    15.678202   uH
+#  delta/|EMP2|:        0.094096   ppm
+# beh2 molecule, r(be-h)=2.5223 bohr: 
+#  MP2-energy (RI):    -0.05795618 H
+#  EMP2(RI) - EMP2:    57.451786   uH
+#  delta/|EMP2|:        4.155510   ppm
+# Ref.: Weigend, Haeser, Patzelt, Ahlrichs, CPL 294 (1998) 143.
+*                                                                               
+   2  s                                                                         
+   86.81101212            1.18820240                                            
+   17.98174975            1.71284790                                            
+   1  s                                                                         
+    7.76958894            1.07129590                                            
+   1  s                                                                         
+    2.77177455            -.21982450                                            
+   1  s                                                                         
+    1.14846369            -.58936217                                            
+   1  s                                                                         
+     .39330203            1.00000000                                            
+   1  s                                                                         
+     .23135414            1.00000000                                            
+   1  s                                                                         
+     .09682460            1.00000000                                            
+   1  s                                                                         
+     .05658797            1.00000000                                            
+   2  p                                                                         
+    8.77639612            2.28316930                                            
+    2.91244194            2.27145280                                            
+   1  p                                                                         
+     .64524808            1.00000000                                            
+   1  p                                                                         
+     .23829384            1.00000000                                            
+   1  p                                                                         
+     .14017285            1.00000000                                            
+   2  d                                                                         
+    3.46723845             .63489064                                            
+     .58304893            1.95150326                                            
+   1  d                                                                         
+     .17384257            1.00000000                                            
+*                                                                               
+be TZVPP                                                                        
+be def-TZVPP   
+# be    (9s5p3d) / [9s5p3d]     {111111111/11111/111}                           
+# be atom:
+#  MP2-energy (RI):    -0.05178144 H
+#  EMP2(RI) - EMP2:    33.206995   uH
+#  delta/|EMP2|:        0.254889   ppm
+# beh2 molecule, r(be-h)=2.5223 bohr: 
+#  MP2-energy (RI):    -0.08432189 H
+#  EMP2(RI) - EMP2:    55.132290   uH
+#  delta/|EMP2|:        1.417770   ppm
+# Ref.: Weigend, Haeser, Patzelt, Ahlrichs, CPL 294 (1998) 143.
+*                                                                               
+   1  s                                                                         
+   86.81101212            1.18820240                                            
+   1  s                                                                         
+   17.98174975            1.71284790                                            
+   1  s                                                                         
+    7.76958894            1.07129590                                            
+   1  s                                                                         
+    2.77177455            -.21982450                                            
+   1  s                                                                         
+    1.14846369            -.58936217                                            
+   1  s                                                                         
+     .39330203            1.00000000                                            
+   1  s                                                                         
+     .23135414            1.00000000                                            
+   1  s                                                                         
+     .09682460            1.00000000                                            
+   1  s                                                                         
+     .05658797            1.00000000                                            
+   1  p                                                                         
+    8.77639612            2.28316930                                            
+   1  p                                                                         
+    2.91244194            2.27145280                                            
+   1  p                                                                         
+     .64524808            1.00000000                                            
+   1  p                                                                         
+     .23829384            1.00000000                                            
+   1  p                                                                         
+     .14017285            1.00000000                                            
+   1  d                                                                         
+    3.46723845             .63489064                                            
+   1  d                                                                         
+     .58304893            1.95150326                                            
+   1  d                                                                         
+     .17384257            1.00000000                                            
+*
+be def2-TZVPP
+be def2-TZVP
+# be    (9s6p3d1f) / [9s6p3d1f]     {111111111/111111/111/1}
+#  MP2-energy (RI):    -0.05468123 H
+#  EMP2(RI) - EMP2:     3.904233   uH
+#  delta/|EMP2|:        0.005242   ppm
+# Ref.: Hellweg, Haettig, Hoefener, Klopper, TCA 117 (2007) 587 
+*
+   1  s
+ 86.811    1.0
+   1  s
+ 17.9817   1.0
+   1  s
+ 7.76959   1.0
+   1  s
+ 2.77177   1.0
+   1  s
+ 1.14846   1.0
+   1  s
+ 0.393302  1.0
+   1  s
+ 0.231354  1.0
+   1  s
+ 0.0968246  1.0
+   1  s
+ 0.056588  1.0
+   1  p
+ 17.1963   1.0
+   1  p
+ 6.33913   1.0
+   1  p
+ 2.72354   1.0
+   1  p
+ 0.747063  1.0
+   1  p
+ 0.304757  1.0
+   1  p
+ 0.127151  1.0
+   1  d
+ 2.75539   1.0
+   1  d
+ 0.464602  1.0
+   1  d
+ 0.270137  1.0
+   1  f
+ 0.222911  1.0
+*
+be QZVPP
+be QZVP
+be def-QZVPP
+be def-QZVP
+be def2-QZVPP
+be def2-QZVPPD
+be def2-QZVP
+# be    (9s7p5d4f2g) 
+# be atom:
+#  MP2-energy (RI):    -0.06195640 H
+#  EMP2(RI) - EMP2:     2.666906   uH
+#  delta/|EMP2|:        0.002805   ppm
+# beh2 molecule, r(be-h)=2.5223 bohr: 
+#  MP2-energy (RI):    -0.09793957 H
+#  EMP2(RI) - EMP2:    20.658345   uH
+#  delta/|EMP2|:        1.049340   ppm
+# Ref.: C. Haettig, PCCP 7 (2005) 59-66.
+*
+   1  s
+ 176.628   1.0
+   1  s
+ 39.6977   1.0
+   1  s
+ 11.056    1.0
+   1  s
+ 5.34933   1.0
+   1  s
+ 2.22641   1.0
+   1  s
+ 1.10326   1.0
+   1  s
+ 0.388735  1.0
+   1  s
+ 0.182593  1.0
+   1  s
+ 0.0955477  1.0
+   1  p
+ 21.9362   1.0
+   1  p
+ 9.17346   1.0
+   1  p
+ 3.03509   1.0
+   1  p
+ 0.702228  1.0
+   1  p
+ 0.33018   1.0
+   1  p
+ 0.179826  1.0
+   1  p
+ 0.0961955  1.0
+   1  d
+ 2.39961   1.0
+   1  d
+ 1.09198   1.0
+   1  d
+ 0.470667  1.0
+   1  d
+ 0.19337   1.0
+   1  d
+ 0.104236  1.0
+   1  f
+ 1.52696   1.0
+   1  f
+ 0.406414  1.0
+   1  f
+ 0.143921  1.0
+   1  f
+ 0.0579176  1.0
+   1  g
+ 0.389438  1.0
+   1  g
+ 0.151419  1.0
+*
+###############################  Dunning DZ sets  ##############################
+*
+be aug-cc-pVDZ
+# be    (8s6p5d3f)
+# be atom:
+#  MP2-energy (RI):    -0.02651435 H
+#  EMP2(RI) - EMP2:     0.402390   uH
+#  delta/|EMP2|:        0.001095   ppm
+# Ref.: C. Haettig, to be published
+*
+-> be cc-pVDZ
+-> be aug-D
+*
+be cc-pCVDZ
+# be    (10s7p5d2f) 
+# be atom:
+#  MP2-energy (RI):    -0.05756783 H
+#  EMP2(RI) - EMP2:     1.489540   uH
+#  delta/|EMP2|:        0.000363   ppm
+# Ref.: C. Haettig, to be published
+*
+-> be cc-pVDZ
+-> be pol-CD
+*
+be aug-cc-pCVDZ
+# be    (11s8p6d3f) 
+# be atom:
+#  MP2-energy (RI):    -0.05776736 H
+#  EMP2(RI) - EMP2:     1.406340   uH
+#  delta/|EMP2|:        0.000698   ppm
+# Ref.: C. Haettig, to be published
+*
+-> be cc-pVDZ
+-> be pol-CD
+-> be aug-D
+*
+be cc-pVDZ
+# be    (7s5p4d2f) 
+# be atom:
+#  MP2-energy (RI):    -0.02633548 H
+#  EMP2(RI) - EMP2:     0.463302   uH
+#  delta/|EMP2|:        0.000307   ppm
+# beh2 molecule, r(be-h)=2.5223 bohr: 
+#  MP2-energy (RI):    -0.05174150 H
+#  EMP2(RI) - EMP2:    25.451917   uH
+#  delta/|EMP2|:        0.932429   ppm
+# Ref.: C. Haettig, PCCP 7 (2005) 59-66.
+*
+   1  s
+ 41.8746   1.0
+   1  s
+ 8.51217   1.0
+   1  s
+ 3.10685   1.0
+   1  s
+ 1.0695    1.0
+   1  s
+ 0.43143   1.0
+   1  s
+ 0.213349  1.0
+   1  s
+ 0.124175  1.0
+   1  p
+ 9.76007   1.0
+   1  p
+ 2.64058   1.0
+   1  p
+ 0.788905  1.0
+   1  p
+ 0.316492  1.0
+   1  p
+ 0.126019  1.0
+   1  d
+ 2.31369   1.0
+   1  d
+ 0.700086  1.0
+   1  d
+ 0.353642  1.0
+   1  d
+ 0.170008  1.0
+   1  f
+ 2.02219   1.0
+   1  f
+ 0.452039  1.0
+*
+be aug-D
+# be (1s1p1d1f)
+# Ref.: C. Haettig, to be published
+*
+   1  s
+ 0.0722733  1.0
+   1  p
+ 0.0501775  1.0
+   1  d
+ 0.0817288  1.0
+   1  f
+ 0.140927  1.0
+*
+be pol-CD
+# be (3s2p1d)
+# Ref.: C. Haettig, to be published
+*
+   1  s
+ 118.592   1.0
+   1  s
+ 18.8797   1.0
+   1  s
+ 5.14257   1.0
+   1  p
+ 26.7721   1.0
+   1  p
+ 5.07664   1.0
+   1  d
+ 5.00445   1.0
+*
+###############################  Dunning TZ sets  ##############################
+*
+be aug-cc-pVTZ
+# be (9s7p6d4f2g) 
+# be atom:
+#  MP2-energy (RI):    -0.03427103 H
+#  EMP2(RI) - EMP2:     0.749226   uH
+#  delta/|EMP2|:        0.030667   ppm
+# Ref.: C. Haettig, to be published
+*
+-> be cc-pVTZ
+-> be aug-T
+*
+be cc-pCVTZ
+# be    (12s9p7d4f1g)
+# be atom:
+#  MP2-energy (RI):    -0.06934922 H
+#  EMP2(RI) - EMP2:     1.467040   uH
+#  delta/|EMP2|:        0.000975   ppm
+# Ref.: C. Haettig, to be published
+*
+-> be cc-pVTZ
+-> be pol-CT
+*
+be aug-cc-pCVTZ
+# be (13s10p8d5f2g)
+# be atom:
+#  MP2-energy (RI):    -0.06953735 H
+#  EMP2(RI) - EMP2:     1.628570   uH
+#  delta/|EMP2|:        0.014496   ppm
+# Ref.: C. Haettig, to be published
+*
+-> be cc-pVTZ
+-> be pol-CT
+-> be aug-T
+*
+be cc-pVTZ
+be cc-pVDZ-F12
+# be    (8s6p5d3f1g) 
+# be atom:
+#  MP2-energy (RI):    -0.03356100 H
+#  EMP2(RI) - EMP2:     0.528044   uH
+#  delta/|EMP2|:        0.000360   ppm
+# beh2 molecule, r(be-h)=2.5223 bohr: 
+#  MP2-energy (RI):    -0.06864653 H
+#  EMP2(RI) - EMP2:    20.134446   uH
+#  delta/|EMP2|:        1.284610   ppm
+# Ref.: C. Haettig, PCCP 7 (2005) 59-66.
+*
+   1  s
+ 115.41    1.0
+   1  s
+ 27.4201   1.0
+   1  s
+ 8.95789   1.0
+   1  s
+ 3.30036   1.0
+   1  s
+ 1.07939   1.0
+   1  s
+ 0.450645  1.0
+   1  s
+ 0.186293  1.0
+   1  s
+ 0.102049  1.0
+   1  p
+ 12.9585   1.0
+   1  p
+ 3.56324   1.0
+   1  p
+ 1.15263   1.0
+   1  p
+ 0.550086  1.0
+   1  p
+ 0.2445    1.0
+   1  p
+ 0.107562  1.0
+   1  d
+ 5.02291   1.0
+   1  d
+ 1.698     1.0
+   1  d
+ 0.488912  1.0
+   1  d
+ 0.265357  1.0
+   1  d
+ 0.100698  1.0
+   1  f
+ 1.67053   1.0
+   1  f
+ 0.452696  1.0
+   1  f
+ 0.254672  1.0
+   1  g
+ 0.5       1.0
+*
+be aug-T
+# be (1s1p1d1f1g)
+# Ref.: C. Haettig, to be published
+*
+   1  s
+ 0.0559    1.0
+   1  p
+ 0.047319  1.0
+   1  d
+ 0.038213  1.0
+   1  f
+ 0.152565  1.0
+   1  g
+ 0.177348  1.0
+*
+be pol-CT
+# be (4s3p2d1f)
+# Ref.: C. Haettig, to be published
+*
+   1  s
+ 376.85    1.0
+   1  s
+ 56.2544   1.0
+   1  s
+ 15.6725   1.0
+   1  s
+ 5.4373    1.0
+   1  p
+ 30.2113   1.0
+   1  p
+ 6.79516   1.0
+   1  p
+ 2.0266    1.0
+   1  d
+ 24.4608   1.0
+   1  d
+ 12.0435   1.0
+   1  f
+ 3.40838   1.0
+*
+###############################  Dunning QZ sets  ##############################
+*
+be aug-cc-pVQZ
+# be (9s8p7d6f4g2h)
+# be atom:
+#  MP2-energy (RI):    -0.04904885 H
+#  EMP2(RI) - EMP2:     1.003050   uH
+#  delta/|EMP2|:        0.002689   ppm
+# Ref.: C. Haettig, to be published
+*
+-> be cc-pVQZ
+-> be aug-Q
+*
+be cc-pCVQZ
+# be (12s11p9d7f4g1h)
+# be atom:
+#  MP2-energy (RI):    -0.07334256 H
+#  EMP2(RI) - EMP2:     1.282680   uH
+#  delta/|EMP2|:        0.001742   ppm
+# Ref.: C. Haettig, to be published
+*
+-> be cc-pVQZ
+-> be pol-CQ
+*
+be aug-cc-pCVQZ
+# be (13s12p10d8f5g2h)
+# be atom:
+#  MP2-energy (RI):    -0.07347837 H
+#  EMP2(RI) - EMP2:     1.317390   uH
+#  delta/|EMP2|:        0.003038   ppm
+# Ref.: C. Haettig, to be published
+*
+-> be cc-pVQZ
+-> be pol-CQ
+-> be aug-Q
+*
+be cc-pVQZ
+be cc-pVTZ-F12
+# be    (8s7p6d5f3g1h) 
+# be atom:
+#  MP2-energy (RI):    -0.04887757 H
+#  EMP2(RI) - EMP2:     0.950559   uH
+#  delta/|EMP2|:        0.000363   ppm
+# beh2 molecule, r(be-h)=2.5223 bohr: 
+#  MP2-energy (RI):    -0.08644010 H
+#  EMP2(RI) - EMP2:    15.185602   uH
+#  delta/|EMP2|:        0.840101   ppm
+# Ref.: C. Haettig, PCCP 7 (2005) 59-66.
+*
+   1  s
+ 136.646   1.0
+   1  s
+ 28.3921   1.0
+   1  s
+ 8.68918   1.0
+   1  s
+ 3.7802    1.0
+   1  s
+ 1.16278   1.0
+   1  s
+ 0.430644  1.0
+   1  s
+ 0.18601   1.0
+   1  s
+ 0.0973907  1.0
+   1  p
+ 22.2394   1.0
+   1  p
+ 6.38157   1.0
+   1  p
+ 2.5546    1.0
+   1  p
+ 1.01598   1.0
+   1  p
+ 0.444495  1.0
+   1  p
+ 0.201832  1.0
+   1  p
+ 0.0948127  1.0
+   1  d
+ 8.49613   1.0
+   1  d
+ 3.04272   1.0
+   1  d
+ 1.18451   1.0
+   1  d
+ 0.584073  1.0
+   1  d
+ 0.278041  1.0
+   1  d
+ 0.162619  1.0
+   1  f
+ 3.40182   1.0
+   1  f
+ 1.48135   1.0
+   1  f
+ 0.623318  1.0
+   1  f
+ 0.344031  1.0
+   1  f
+ 0.140547  1.0
+   1  g
+ 1.86007   1.0
+   1  g
+ 0.53622   1.0
+   1  g
+ 0.272843  1.0
+   1  h
+ 0.535704  1.0
+*
+be aug-Q
+# c (1s1p1d1f1g1h)
+# Ref.: C. Haettig, to be published
+*
+   1  s
+ 0.0509916  1.0
+   1  p
+ 0.044539  1.0
+   1  d
+ 0.09511   1.0
+   1  f
+ 0.0741722  1.0
+   1  g
+ 0.26063   1.0
+   1  h
+ 0.224207  1.0
+*
+be pol-CQ
+# be (4s4p3d2f1g)
+# Ref.: C. Haettig, to be published
+*
+   1  s
+ 354.938   1.0
+   1  s
+ 62.287    1.0
+   1  s
+ 15.7068   1.0
+   1  s
+ 2.09655   1.0
+   1  p
+ 49.5135   1.0
+   1  p
+ 11.9131   1.0
+   1  p
+ 4.03762   1.0
+   1  p
+ 1.61103   1.0
+   1  d
+ 41.4806   1.0
+   1  d
+ 17.1654   1.0
+   1  d
+ 5.08442   1.0
+   1  f
+ 18.4887   1.0
+   1  f
+ 8.56385   1.0
+   1  g
+ 5.00168   1.0
+*
+###############################  Dunning 5Z sets  ##############################
+*
+be cc-pV5Z
+be cc-pVQZ-F12
+# be    (10s8p7d6f4g3h1i) 
+# be atom:
+#  MP2-energy (RI):    -0.05499656 H
+#  EMP2(RI) - EMP2:     0.804913   uH
+#  delta/|EMP2|:        0.000223   ppm
+# beh2 molecule, r(be-h)=2.5223 bohr: 
+#  MP2-energy (RI):    -0.09478050 H
+#  EMP2(RI) - EMP2:     5.894837   uH
+#  delta/|EMP2|:        0.362666   ppm  
+# Ref.: C. Haettig, PCCP 7 (2005) 59-66.
+*
+   1  s
+ 155.476   1.0
+   1  s
+ 33.6165   1.0
+   1  s
+ 9.86575   1.0
+   1  s
+ 5.18723   1.0
+   1  s
+ 2.04825   1.0
+   1  s
+ 0.941824  1.0
+   1  s
+ 0.494373  1.0
+   1  s
+ 0.304521  1.0
+   1  s
+ 0.168188  1.0
+   1  s
+ 0.0908364  1.0
+   1  p
+ 29.2263   1.0
+   1  p
+ 8.19087   1.0
+   1  p
+ 3.2447    1.0
+   1  p
+ 1.27464   1.0
+   1  p
+ 0.594885  1.0
+   1  p
+ 0.289372  1.0
+   1  p
+ 0.148487  1.0
+   1  p
+ 0.0785465  1.0
+   1  d
+ 9.7761    1.0
+   1  d
+ 3.81802   1.0
+   1  d
+ 1.73383   1.0
+   1  d
+ 0.897386  1.0
+   1  d
+ 0.453927  1.0
+   1  d
+ 0.238389  1.0
+   1  d
+ 0.136955  1.0
+   1  f
+ 4.09104   1.0
+   1  f
+ 1.76139   1.0
+   1  f
+ 0.874992  1.0
+   1  f
+ 0.497082  1.0
+   1  f
+ 0.330842  1.0
+   1  f
+ 0.205294  1.0
+   1  g
+ 2.35614   1.0
+   1  g
+ 0.727039  1.0
+   1  g
+ 0.51533   1.0
+   1  g
+ 0.380351  1.0
+   1  h
+ 1.50462   1.0
+   1  h
+ 0.672211  1.0
+   1  h
+ 0.511708  1.0
+   1  i
+ 0.672211  1.0
+*
+be aug-cc-pV5Z
+# be (11s9p8d7f5g4h2i)
+# be atom:
+#  MP2-energy (RI):    -0.05510921 H
+#  EMP2(RI) - EMP2:     0.791546   uH
+#  delta/|EMP2|:        0.000233   ppm
+# Ref.: C. Haettig, to be published
+*
+-> be cc-pV5Z
+-> be aug-5
+*
+be cc-pwCV5Z
+# be (14s12p11d9f6g4h1i)
+# be atom:
+#  MP2-energy (RI):    -0.07440988 H
+#  EMP2(RI) - EMP2:     0.531417   uH
+#  delta/|EMP2|:        0.001785   ppm
+# Ref.: C. Haettig, to be published
+*
+-> be cc-pV5Z
+-> be wC5
+*
+be aug-cc-pwCV5Z
+# be (15s13p12d10f7g5h2i)
+# be atom:
+#  MP2-energy (RI):    -0.07449936 H
+#  EMP2(RI) - EMP2:     0.511369   uH
+#  delta/|EMP2|:        0.001716   ppm
+# Ref.: C. Haettig, to be published
+*
+-> be wC5
+-> be cc-pV5Z
+-> be aug-5
+*
+be wC5
+# be (4s4p4d3f2g1h)
+# Ref.: C. Haettig, to be published
+*
+   1  s
+ 958.879   1.0
+   1  s
+ 72.2949   1.0
+   1  s
+ 18.2113   1.0
+   1  s
+ 3.25956   1.0
+   1  p
+ 62.8542   1.0
+   1  p
+ 14.1354   1.0
+   1  p
+ 5.15528   1.0
+   1  p
+ 2.03367   1.0
+   1  d
+ 56.7361   1.0
+   1  d
+ 30.7634   1.0
+   1  d
+ 18.7174   1.0
+   1  d
+ 6.10945   1.0
+   1  f
+ 30.6107   1.0
+   1  f
+ 18.7795   1.0
+   1  f
+ 9.50193   1.0
+   1  g
+ 5.26504   1.0
+   1  g
+ 1.47713   1.0
+   1  h
+ 3.04282   1.0
+*
+be aug-5
+# be (1s1p1d1f1g1h1i)
+# Ref.: C. Haettig, to be published
+*
+   1  s
+ 0.0442897  1.0
+   1  p
+ 0.0515741  1.0
+   1  d
+ 0.0809202  1.0
+   1  f
+ 0.128523  1.0
+   1  g
+ 0.190993  1.0
+   1  h
+ 0.344441  1.0
+   1  i
+ 0.424356  1.0
+*
+################################## OLD STUFF  ##################################
+*
+be prel-SVP
+# be TZVP decontracted from 62111/31 to 61111/211 and one d added
+# be atom:
+#  MP2-energy (RI):    -0.02240346 H
+#  EMP2(RI) - EMP2:   335.321237   uH
+#  delta/|EMP2|:      1522.270000   ppm
+# beh2 molecule, r(be-h)=2.5223 bohr: 
+#  MP2-energy (RI):    -0.04382168 H
+#  EMP2(RI) - EMP2:   303.965457   uH
+#  delta/|EMP2|:      781.860000   ppm 
+*
+   6  s
+  4700.2365626      .23584389316E-03
+  704.82845622      .18243791019E-02
+  160.43110478      .93966148224E-02
+  45.425347336      .36908924159E-01
+  14.798334125      .10897561281
+  5.3512452537      .21694284551
+   1  s
+  2.1542044819      .44695408857
+   1  s
+  .93363744400      .20866985771
+   1  s
+  .18791432989      1.0000000000
+   1  s
+  .74648267947E-01  1.0000000000
+   1  s
+  .32650484598E-01  1.0000000000
+   2  p
+  3.6316917145     -.29033998305E-01
+  .71695694366     -.16877854032
+   1  p
+  .19541932860     -.51403419628
+   1  p
+  .60515465890E-01  1.0000000000
+   1  d
+  .32000000000      1.0000000000
+*
+###################################################################
+# extensions for the augmented basis sets of Rappoport and Furche #
+###################################################################
+be D(SVP)
+# A.Hellweg 05/12; additional functions for the
+# augmented basis set fitted at the atomic anion
+*
+   1  s
+ 0.03535   1.0
+   1  p
+ 0.0555837  1.0
+   1  d
+ 0.0509244  1.0
+*
+be def2-SVPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> be def2-SVP
+-> be D(SVP)
+*
+be D(TZVPP)
+# A.Hellweg 05/12; additional functions for the
+# augmented basis set fitted at the atomic anion
+*
+   1  s
+ 0.00148388  1.0
+   1  p
+ 0.0558677  1.0
+   1  d
+ 0.150925  1.0
+*
+be def2-TZVPPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> be def2-TZVPP
+-> be D(TZVPP)
+*
+be def2-TZVPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> be def2-TZVP
+-> be D(TZVPP)
+*
+$end

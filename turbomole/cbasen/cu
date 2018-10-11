@@ -1,0 +1,1927 @@
+$cbas
+*                                                                               
+cu SVP                                                                          
+cu def-SVP
+cu SV(P)
+cu def-SV(P)
+cu def2-SV(P)
+# cu    (11s9p7d6f4g) / [9s7p5d3f2g]     {311111111/2211111/22111/411/31}       
+# cu atom, ^2S state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.20848769 H
+#  EMP2(RI) - EMP2:   -41.950529   uH
+#  delta/|EMP2|:        0.368795   ppm
+# cu2+ kation, ^2D state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.10356482 H
+#  EMP2(RI) - EMP2:   -42.289414   uH
+#  delta/|EMP2|:        2.929370   ppm
+# Ref.: Weigend, Hser, Patzelt, Ahlrichs, CPL 294 (1998) 143.
+*                                                                               
+   3  s                                                                         
+   76.61888700             .22127009                                            
+   35.84420500            1.10771089                                            
+   17.43598000           -1.23596756                                            
+   1  s                                                                         
+    8.79010800            1.00000000                                            
+   1  s                                                                         
+    4.57569200            1.00000000                                            
+   1  s                                                                         
+    2.44935700            1.00000000                                            
+   1  s                                                                         
+    1.34224700            1.00000000                                            
+   1  s                                                                         
+     .74938200            1.00000000                                            
+   1  s                                                                         
+     .42407900            1.00000000                                            
+   1  s                                                                         
+     .24196400            1.00000000                                            
+   1  s                                                                         
+     .13843600            1.00000000                                            
+   2  p                                                                         
+  214.96507000            -.38582926                                            
+   49.56055100            1.55957840                                            
+   2  p                                                                         
+   21.13481700           -1.17913540                                            
+    5.35438120            1.89982860                                            
+   1  p                                                                         
+    2.19793250            1.00000000                                            
+   1  p                                                                         
+    1.36618190            1.00000000                                            
+   1  p                                                                         
+     .60037788            1.00000000                                            
+   1  p                                                                         
+     .33277531            1.00000000                                            
+   1  p                                                                         
+     .14673856            1.00000000                                            
+   2  d                                                                         
+  106.44265000            2.09841882                                            
+   23.19483600           10.00024900                                            
+   2  d                                                                         
+    8.84118380             .94747908                                            
+    4.57102270            1.26590806                                            
+   1  d                                                                         
+    1.82217990            1.00000000                                            
+   1  d                                                                         
+     .85046261            1.00000000                                            
+   1  d                                                                         
+     .38749958            1.00000000                                            
+   4  f                                                                         
+   52.13364200           -1.27232142                                            
+   13.24690900            1.15816535                                            
+    6.28481480            2.20111275                                            
+    3.05058080             .70886158                                            
+   1  f                                                                         
+    1.47003350            1.00000000                                            
+   1  f                                                                         
+     .50664456            1.00000000                                            
+   3  g                                                                         
+   17.80510400            1.25317348                                            
+    6.02365790            1.31975806                                            
+    2.06261490            -.16398042                                            
+   1  g                                                                         
+     .70220936            1.00000000                                            
+*                                                                               
+cu def2-SVP
+# cu    (9s9p6d4f3g2h) / [9s9p6d4f3g2h]     {111111111/111111111/111111/1111/111
+# cu atom, ^2S state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.35531390 H
+#  EMP2(RI) - EMP2:   -70.509865   uH
+#  delta/|EMP2|:        0.532359   ppm
+# cu2+ kation, ^2D state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.24049217 H
+#  EMP2(RI) - EMP2:   -41.947664   uH
+#  delta/|EMP2|:        0.812526   ppm
+# Ref.: Hellweg, Haettig, Hoefener, Klopper, TCA 117 (2007) 587 
+*
+   1  s
+ 36.6845   1.0
+   1  s
+ 18.0224   1.0
+   1  s
+ 8.68339   1.0
+   1  s
+ 3.85072   1.0
+   1  s
+ 1.92093   1.0
+   1  s
+ 0.968853  1.0
+   1  s
+ 0.486998  1.0
+   1  s
+ 0.229     1.0
+   1  s
+ 0.0805763  1.0
+   1  p
+ 70.9822   1.0
+   1  p
+ 31.1314   1.0
+   1  p
+ 15.5657   1.0
+   1  p                                    
+ 4.65986   1.0
+   1  p
+ 2.21168   1.0
+   1  p
+ 0.915491  1.0
+   1  p
+ 0.443714  1.0
+   1  p
+ 0.244509  1.0
+   1  p
+ 0.129265  1.0
+   1  d
+ 36.3665   1.0
+   1  d
+ 14.4476   1.0
+   1  d
+ 7.04662   1.0
+   1  d
+ 2.69169   1.0
+   1  d
+ 1.08555   1.0
+   1  d
+ 0.474946  1.0
+   1  f
+ 7.33524   1.0
+   1  f
+ 3.46926   1.0
+   1  f
+ 1.40493   1.0
+   1  f
+ 0.575394  1.0
+   1  g
+ 13.4372   1.0
+   1  g
+ 4.33064   1.0
+   1  g
+ 0.942651  1.0
+   1  h
+ 7.54769   1.0
+   1  h
+ 3.45734   1.0
+*
+cu TZVP                                                                         
+cu def-TZVP
+# cu    (11s9p7d6f4g) / [9s8p7d4f4g]     {311111111/21111111/1111111/3111/1111} 
+# cu atom, ^2S state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.50969756 H
+#  EMP2(RI) - EMP2:   -31.774631   uH
+#  delta/|EMP2|:        0.159367   ppm
+# cu2+ kation, ^2D state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.35719437 H
+#  EMP2(RI) - EMP2:   -26.542416   uH
+#  delta/|EMP2|:        0.202902   ppm
+# Ref.: Weigend, Hser, Patzelt, Ahlrichs, CPL 294 (1998) 143.
+*
+-> cu TZVP-sp-kernel
+-> cu TZVP-pol
+*
+cu TZVP-sp-kernel
+*                                                                               
+   3  s                                                                         
+   76.61888700             .22127009                                            
+   35.84420500            1.10771089                                            
+   17.43598000           -1.23596756                                            
+   1  s                                                                         
+    8.79010800            1.00000000                                            
+   1  s                                                                         
+    4.57569200            1.00000000                                            
+   1  s                                                                         
+    2.44935700            1.00000000                                            
+   1  s                                                                         
+    1.34224700            1.00000000                                            
+   1  s                                                                         
+     .74938200            1.00000000                                            
+   1  s                                                                         
+     .42407900            1.00000000                                            
+   1  s                                                                         
+     .24196400            1.00000000                                            
+   1  s                                                                         
+     .13843600            1.00000000                                            
+   2  p                                                                         
+  214.96507000            -.38582926                                            
+   49.56055100            1.55957840                                            
+   1  p                                                                         
+   21.13481700           -1.17913540                                            
+   1  p                                                                         
+    5.35438120            1.89982860                                            
+   1  p                                                                         
+    2.19793250            1.00000000                                            
+   1  p                                                                         
+    1.36618190            1.00000000                                            
+   1  p                                                                         
+     .60037788            1.00000000                                            
+   1  p                                                                         
+     .33277531            1.00000000                                            
+   1  p                                                                         
+     .14673856            1.00000000                                            
+*
+cu TZVP-pol
+*
+   1  d                                                                         
+  106.44265000            2.09841882                                            
+   1  d                                                                         
+   23.19483600           10.00024900                                            
+   1  d                                                                         
+    8.84118380             .94747908                                            
+   1  d                                                                         
+    4.57102270            1.26590806                                            
+   1  d                                                                         
+    1.82217990            1.00000000                                            
+   1  d                                                                         
+     .85046261            1.00000000                                            
+   1  d                                                                         
+     .38749958            1.00000000                                            
+   3  f                                                                         
+   52.13364200           -1.27232142                                            
+   13.24690900            1.15816535                                            
+    6.28481480            2.20111275                                            
+   1  f                                                                         
+    3.05058080             .70886158                                            
+   1  f                                                                         
+    1.47003350            1.00000000                                            
+   1  f                                                                         
+     .50664456            1.00000000                                            
+   1  g                                                                         
+   17.80510400            1.25317348                                            
+   1  g                                                                         
+    6.02365790            1.31975806                                            
+   1  g                                                                         
+    2.06261490            -.16398042                                            
+   1  g                                                                         
+     .70220936            1.00000000                                            
+*                       
+cu def2-TZVP
+# [9s8p8d6f5g2h|11s9p8d6f5g2h]
+# cu atom, ^2S state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.66409106 H
+#  EMP2(RI) - EMP2:    -7.818006   uH
+#  delta/|EMP2|:        0.228077   ppm
+# cu2+ kation, ^2D state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.49369484 H
+#  EMP2(RI) - EMP2:    -4.108733   uH
+#  delta/|EMP2|:        0.110729   ppm
+# Ref.: Hellweg, Haettig, Hoefener, Klopper, TCA 117 (2007) 587 
+*
+-> cu TZVP-sp-kernel
+-> cu def2-TZVP-pol
+*
+cu def2-TZVP-pol
+*
+   1  d
+ 101.2     1.0
+   1  d
+ 27.9788   1.0
+   1  d
+ 8.69836   1.0
+   1  d
+ 3.99789   1.0
+   1  d
+ 2.53176   1.0
+   1  d
+ 1.27116   1.0
+   1  d
+ 0.474687  1.0
+   1  d
+ 0.195979  1.0
+   1  f
+ 60.9985   1.0
+   1  f
+ 9.37265   1.0
+   1  f
+ 4.52581   1.0
+   1  f
+ 2.49067   1.0
+   1  f
+ 1.40211   1.0
+   1  f
+ 0.480416  1.0
+   1  g
+ 23.4453   1.0
+   1  g
+ 7.4589    1.0
+   1  g
+ 3.45143   1.0
+   1  g
+ 1.43368   1.0
+   1  g
+ 0.621348  1.0
+   1  h
+ 7.85186   1.0
+   1  h
+ 3.52638   1.0
+*                                                        
+cu TZVPP                                                                        
+cu def-TZVPP  
+# cu    (11s9p7d6f4g1h) / [9s8p7d6f4g1h]                                        
+#       {311111111/21111111/1111111/111111/1111/1}                              
+# cu atom, ^2S state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.67588636 H
+#  EMP2(RI) - EMP2:    -3.193832   uH
+#  delta/|EMP2|:        0.419847   ppm
+# cu2+ kation, ^2D state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.51970403 H
+#  EMP2(RI) - EMP2:     7.452126   uH
+#  delta/|EMP2|:        0.480913   ppm
+# Ref.: Weigend, Hser, Patzelt, Ahlrichs, CPL 294 (1998) 143.
+*                                                                               
+   3  s                                                                         
+   76.61888700             .22127009                                            
+   35.84420500            1.10771089                                            
+   17.43598000           -1.23596756                                            
+   1  s                                                                         
+    8.79010800            1.00000000                                            
+   1  s                                                                         
+    4.57569200            1.00000000                                            
+   1  s                                                                         
+    2.44935700            1.00000000                                            
+   1  s                                                                         
+    1.34224700            1.00000000                                            
+   1  s                                                                         
+     .74938200            1.00000000                                            
+   1  s                                                                         
+     .42407900            1.00000000                                            
+   1  s                                                                         
+     .24196400            1.00000000                                            
+   1  s                                                                         
+     .13843600            1.00000000                                            
+   2  p                                                                         
+  214.96507000            -.38582926                                            
+   49.56055100            1.55957840                                            
+   1  p                                                                         
+   21.13481700           -1.17913540                                            
+   1  p                                                                         
+    5.35438120            1.89982860                                            
+   1  p                                                                         
+    2.19793250            1.00000000                                            
+   1  p                                                                         
+    1.36618190            1.00000000                                            
+   1  p                                                                         
+     .60037788            1.00000000                                            
+   1  p                                                                         
+     .33277531            1.00000000                                            
+   1  p                                                                         
+     .14673856            1.00000000                                            
+   1  d                                                                         
+  106.44265000            2.09841882                                            
+   1  d                                                                         
+   23.19483600           10.00024900                                            
+   1  d                                                                         
+    8.84118380             .94747908                                            
+   1  d                                                                         
+    4.57102270            1.26590806                                            
+   1  d                                                                         
+    1.82217990            1.00000000                                            
+   1  d                                                                         
+     .85046261            1.00000000                                            
+   1  d                                                                         
+     .38749958            1.00000000                                            
+   1  f                                                                         
+   52.13364200           -1.27232142                                            
+   1  f                                                                         
+   13.24690900            1.15816535                                            
+   1  f                                                                         
+    6.28481480            2.20111275                                            
+   1  f                                                                         
+    3.05058080             .70886158                                            
+   1  f                                                                         
+    1.47003350            1.00000000                                            
+   1  f                                                                         
+     .50664456            1.00000000                                            
+   1  g                                                                         
+   17.80510400            1.25317348                                            
+   1  g                                                                         
+    6.02365790            1.31975806                                            
+   1  g                                                                         
+    2.06261490            -.16398042                                            
+   1  g                                                                         
+     .70220936            1.00000000                                            
+   1  h                                                                         
+    6.40924271            1.00000000                                            
+*
+cu def2-TZVPP
+# cu    (9s9p8d7f5g3h1i) / [9s9p8d7f5g3h1i]     {111111111/111111111/11111111/11
+# cu atom, ^2S state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.82999764 H
+#  EMP2(RI) - EMP2:   -11.265474   uH
+#  delta/|EMP2|:        0.450617   ppm
+# cu2+ kation, ^2D state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.64265654 H
+#  EMP2(RI) - EMP2:     9.542509   uH
+#  delta/|EMP2|:        0.295590   ppm
+# Ref.: Hellweg, Haettig, Hoefener, Klopper, TCA 117 (2007) 587 
+*
+   1  s
+ 36.032    1.0
+   1  s
+ 16.0742   1.0
+   1  s
+ 6.47695   1.0
+   1  s
+ 2.70866   1.0
+   1  s
+ 1.47865   1.0
+   1  s
+ 0.815681  1.0
+   1  s
+ 0.433104  1.0
+   1  s
+ 0.241467  1.0
+   1  s
+ 0.13512   1.0
+   1  p
+ 43.3702   1.0
+   1  p
+ 17.4703   1.0
+   1  p
+ 5.35438   1.0
+   1  p
+ 2.90228   1.0
+   1  p
+ 1.36618   1.0
+   1  p
+ 0.600378  1.0
+   1  p
+ 0.332775  1.0
+   1  p
+ 0.176555  1.0
+   1  p
+ 0.100937  1.0
+   1  d
+ 99.906    1.0
+   1  d
+ 18.2797   1.0
+   1  d
+ 8.84118   1.0
+   1  d
+ 4.57102   1.0
+   1  d
+ 1.82218   1.0
+   1  d
+ 0.850463  1.0
+   1  d
+ 0.442339  1.0
+   1  d
+ 0.142023  1.0
+   1  f
+ 52.6762   1.0
+   1  f
+ 12.2231   1.0
+   1  f
+ 6.6171    1.0
+   1  f
+ 3.46241   1.0
+   1  f
+ 1.62944   1.0
+   1  f
+ 0.738619  1.0
+   1  f
+ 0.30478   1.0
+   1  g
+ 20.3484   1.0
+   1  g
+ 7.16066   1.0
+   1  g
+ 3.54489   1.0
+   1  g
+ 1.71055   1.0
+   1  g
+ 0.76293   1.0
+   1  h
+ 11.5191   1.0
+   1  h
+ 5.53311   1.0
+   1  h
+ 2.16569   1.0
+   1  i
+ 5.55715   1.0
+*
+cu QZVPP
+cu def-QZVPP
+cu def2-QZVPP
+cu def2-QZVPPD
+# cu (15s13p11d9f7g5h2i)
+# cu atom, ^2S state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.85110377 H
+#  EMP2(RI) - EMP2:    -8.757894   uH
+#  delta/|EMP2|:        0.041432   ppm
+# cu2+ kation, ^2D state, 1s 2s2p frozen:
+#  MP2-energy (RI):    -0.65397581 H
+#  EMP2(RI) - EMP2:    -7.548819   uH
+#  delta/|EMP2|:        0.041627   ppm
+# Ref.: C. Httig, PCCP 7 (2005) 59-66.
+*
+   1  s
+ 4392.26   1.0
+   1  s
+ 939.994   1.0
+   1  s
+ 383.727   1.0
+   1  s
+ 119.311   1.0
+   1  s
+ 59.4589   1.0
+   1  s
+ 33.7872   1.0
+   1  s
+ 17.9721   1.0
+   1  s
+ 11.4233   1.0
+   1  s
+ 6.70042   1.0
+   1  s
+ 3.34065   1.0
+   1  s
+ 1.11579   1.0
+   1  s
+ 0.563722  1.0
+   1  s
+ 0.320206  1.0
+   1  s
+ 0.137640  1.0
+   1  s
+ 0.0683115  1.0
+   1  p
+ 870.167   1.0
+   1  p
+ 202.352   1.0
+   1  p
+ 87.4176   1.0
+   1  p
+ 39.9768   1.0
+   1  p
+ 21.6722   1.0
+   1  p
+ 12.5458   1.0
+   1  p
+ 7.18400   1.0
+   1  p
+ 3.36133   1.0
+   1  p
+ 2.02363   1.0
+   1  p
+ 0.830284  1.0
+   1  p
+ 0.418378  1.0
+   1  p
+ 0.211011  1.0
+   1  p
+ 0.106424  1.0
+   1  d
+ 145.078   1.0
+   1  d
+ 51.3169   1.0
+   1  d
+ 29.9481   1.0
+   1  d
+ 13.8350   1.0
+   1  d
+ 7.51811   1.0
+   1  d
+ 3.19853   1.0
+   1  d
+ 1.81332   1.0
+   1  d
+ 0.783963  1.0
+   1  d
+ 0.430357  1.0
+   1  d
+ 0.220642  1.0
+   1  d
+ 0.115572  1.0
+   1  f
+ 59.0238   1.0
+   1  f
+ 17.1361   1.0
+   1  f
+ 9.31737   1.0
+   1  f
+ 5.52550   1.0
+   1  f
+ 2.92964   1.0
+   1  f
+ 1.68780   1.0
+   1  f
+ 0.861135  1.0
+   1  f
+ 0.498758  1.0
+   1  f
+ 0.296894  1.0
+   1  g
+ 30.0267   1.0
+   1  g
+ 12.0464   1.0
+   1  g
+ 8.56624   1.0
+   1  g
+ 3.97857   1.0
+   1  g
+ 2.01141   1.0
+   1  g
+ 0.856364  1.0
+   1  g
+ 0.39184   1.0
+   1  h
+ 15.3559   1.0
+   1  h
+ 8.46595   1.0
+   1  h
+ 3.73601   1.0
+   1  h
+ 1.47196   1.0
+   1  h
+ 0.543297  1.0
+   1  i
+ 9.81260   1.0
+   1  i
+ 3.03326   1.0
+*
+################   correlation consistent DZ sets ##############################
+*
+cu cc-pVDZ-PP
+# cu (8s8p6d6f5g2h)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.67486663 H
+#  EMP2(RI) - EMP2:    -1.476550   uH
+#  delta/|EMP2|:        0.005594   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.51558489 H
+#  EMP2(RI) - EMP2:    -0.958335   uH
+#  delta/|EMP2|:        0.006121   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pVDZ-PP-steep
+-> cu cc-pVDZ-PP-kernel
+*
+cu aug-cc-pVDZ-PP
+# cu (9s9p7d7f6g3h)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.73250883 H
+#  EMP2(RI) - EMP2:    -2.431870   uH
+#  delta/|EMP2|:        0.008045   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.54488858 H
+#  EMP2(RI) - EMP2:    -1.793500   uH
+#  delta/|EMP2|:        0.013679   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pVDZ-PP-steep
+-> cu cc-pVDZ-PP-kernel
+-> cu aug-D-PP
+*
+cu cc-pwCVDZ-PP
+# cu (9s9p7d7f6g3h)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.83026657 H
+#  EMP2(RI) - EMP2:    -3.828280   uH
+#  delta/|EMP2|:        0.011639   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.66790872 H
+#  EMP2(RI) - EMP2:    -2.259820   uH
+#  delta/|EMP2|:        0.013677   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pwCVDZ-PP-steep
+-> cu cc-pVDZ-PP-kernel
+*
+cu aug-cc-pwCVDZ-PP
+# cu (10s10p8d8f7g4h)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.88770762 H
+#  EMP2(RI) - EMP2:    -2.803890   uH
+#  delta/|EMP2|:        0.012752   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.69629820 H
+#  EMP2(RI) - EMP2:    -1.097460   uH
+#  delta/|EMP2|:        0.018236   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pwCVDZ-PP-steep
+-> cu cc-pVDZ-PP-kernel
+-> cu aug-D-PP
+*
+cu cc-pVDZ-PP-steep
+# cu (2s3p2d1f2g)
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+   1  s
+ 19.3077   1.0
+   1  s
+ 5.17823   1.0
+   1  p
+ 16.7563   1.0
+   1  p
+ 11.2937   1.0
+   1  p
+ 5.96309   1.0
+   1  d
+ 17.6437   1.0
+   1  d
+ 7.95945   1.0
+   1  f
+ 11.058    1.0
+   1  g
+ 29.6059   1.0
+   1  g
+ 10.9857   1.0
+*
+cu cc-pVDZ-PP-kernel
+# cu (6s5p4d5f3g1h)
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+   1  s
+ 11.0451   1.0
+   1  s
+ 2.09775   1.0
+   1  s
+ 1.09501   1.0
+   1  s
+ 0.480172  1.0
+   1  s
+ 0.242373  1.0
+   1  s
+ 0.115569  1.0
+   1  p
+ 2.61244   1.0
+   1  p
+ 1.28809   1.0
+   1  p
+ 0.506623  1.0
+   1  p
+ 0.279427  1.0
+   1  p
+ 0.131776  1.0
+   1  d
+ 3.69677   1.0
+   1  d
+ 1.73347   1.0
+   1  d
+ 0.73565   1.0
+   1  d
+ 0.384588  1.0
+   1  f
+ 4.61226   1.0
+   1  f
+ 2.51567   1.0
+   1  f
+ 1.17107   1.0
+   1  f
+ 0.55118   1.0
+   1  f
+ 0.244467  1.0
+   1  g
+ 4.64681   1.0
+   1  g
+ 1.88713   1.0
+   1  g
+ 0.667009  1.0
+   1  h
+ 9.00025   1.0
+   1  h
+ 4.18727   1.0
+*
+cu cc-pwCVDZ-PP-steep
+# cu (3s4p3d2f3g1h)
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+   1  s
+ 22.0544   1.0
+   1  s
+ 5.97735   1.0
+   1  s
+ 3.49832   1.0
+   1  p
+ 31.7631   1.0
+   1  p
+ 14.2934   1.0
+   1  p
+ 6.77918   1.0
+   1  p
+ 3.83085   1.0
+   1  d
+ 19.1921   1.0
+   1  d
+ 8.91195   1.0
+   1  d
+ 6.72445   1.0
+   1  f
+ 23.3017   1.0
+   1  f
+ 10.0143   1.0
+   1  g
+ 33.9459   1.0
+   1  g
+ 13.6833   1.0
+   1  g
+ 8.71168   1.0
+   1  h
+ 16.3051   1.0
+*
+cu aug-D-PP
+# cu (1s1p1d1f1g1h)
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+   1  s
+ 0.0557041  1.0
+   1  p
+ 0.0649872  1.0
+   1  d
+ 0.145461  1.0
+   1  f
+ 0.121799  1.0
+   1  g
+ 0.321548  1.0
+   1  h
+ 1.66327   1.0
+*
+################   correlation consistent TZ sets ##############################
+*
+cu cc-pVTZ-PP
+# cu (10s10p9d7f6g3h2i)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.90908021 H
+#  EMP2(RI) - EMP2:   -10.915200   uH
+#  delta/|EMP2|:        0.013260   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.72107644 H
+#  EMP2(RI) - EMP2:    -5.515860   uH
+#  delta/|EMP2|:        0.010048   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pVTZ-PP-steep
+-> cu cc-pVTZ-PP-kernel
+*
+cu aug-cc-pVTZ-PP
+# cu (11s11p10d8f7g4h3i)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.93562896 H
+#  EMP2(RI) - EMP2:    -7.496570   uH
+#  delta/|EMP2|:        0.019060   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.73424549 H
+#  EMP2(RI) - EMP2:    -6.159840   uH
+#  delta/|EMP2|:        0.026864   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pVTZ-PP-steep
+-> cu cc-pVTZ-PP-kernel
+-> cu aug-T-PP
+*
+cu cc-pwCVTZ-PP
+# cu (12s12p11d9f7g4h3i)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -1.00755957 H
+#  EMP2(RI) - EMP2:    -1.712950   uH
+#  delta/|EMP2|:        0.015887   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.81900330 H
+#  EMP2(RI) - EMP2:     0.785520   uH
+#  delta/|EMP2|:        0.011790   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pwCVTZ-PP-steep
+-> cu cc-pVTZ-PP-kernel
+*
+cu aug-cc-pwCVTZ-PP
+# cu (13s13p12d10f8g5h4i)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -1.03221029 H
+#  EMP2(RI) - EMP2:     1.100470   uH
+#  delta/|EMP2|:        0.018277   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.82982987 H
+#  EMP2(RI) - EMP2:     0.810194   uH
+#  delta/|EMP2|:        0.023966   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pwCVTZ-PP-steep
+-> cu cc-pVTZ-PP-kernel
+-> cu aug-T-PP
+*
+cu cc-pVTZ-PP-steep
+# cu 
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+   1  s
+ 23.4241   1.0
+   1  s
+ 12.2137   1.0
+   1  s
+ 6.30255   1.0
+   1  p
+ 22.5527   1.0
+   1  p
+ 12.1647   1.0
+   1  p
+ 6.84258   1.0
+   1  d
+ 17.9137   1.0
+   1  d
+ 11.3545   1.0
+   1  f
+ 13.6961   1.0
+   1  f
+ 7.07009   1.0
+   1  f
+ 4.13113   1.0
+   1  g
+ 24.1188   1.0
+*
+cu cc-pVTZ-PP-kernel
+# cu 
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+   1  s
+ 3.28524   1.0
+   1  s
+ 1.92787   1.0
+   1  s
+ 0.93842   1.0
+   1  s
+ 0.434583  1.0
+   1  s
+ 0.220691  1.0
+   1  s
+ 0.102256  1.0
+   1  s
+ 0.0613373  1.0
+   1  p
+ 3.17457   1.0
+   1  p
+ 1.6452    1.0
+   1  p
+ 0.889082  1.0
+   1  p
+ 0.520351  1.0
+   1  p
+ 0.311852  1.0
+   1  p
+ 0.165501  1.0
+   1  p
+ 0.0829216  1.0
+   1  d
+ 5.50492   1.0
+   1  d
+ 3.07456   1.0
+   1  d
+ 1.50745   1.0
+   1  d
+ 0.75226   1.0
+   1  d
+ 0.462323  1.0
+   1  d
+ 0.257015  1.0
+   1  d
+ 0.14039   1.0
+   1  f
+ 1.90861   1.0
+   1  f
+ 0.907243  1.0
+   1  f
+ 0.419937  1.0
+   1  f
+ 0.212722  1.0
+   1  g
+ 8.94437   1.0
+   1  g
+ 5.12139   1.0
+   1  g
+ 2.36325   1.0
+   1  g
+ 1.10618   1.0
+   1  g
+ 0.517776  1.0
+   1  h
+ 10.8579   1.0
+   1  h
+ 5.57907   1.0
+   1  h
+ 2.27073   1.0
+   1  i
+ 10.1051   1.0
+   1  i
+ 5.00524   1.0
+*
+cu cc-pwCVTZ-PP-steep
+# cu 
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+   1  s
+ 36.2338   1.0
+   1  s
+ 22.3933   1.0
+   1  s
+ 15.7348   1.0
+   1  s
+ 10.6458   1.0
+   1  s
+ 5.99384   1.0
+   1  p
+ 32.1397   1.0
+   1  p
+ 19.4008   1.0
+   1  p
+ 13.0196   1.0
+   1  p
+ 8.92844   1.0
+   1  p
+ 5.77171   1.0
+   1  d
+ 33.7847   1.0
+   1  d
+ 22.1746   1.0
+   1  d
+ 13.3526   1.0
+   1  d
+ 8.68268   1.0
+   1  f
+ 32.7214   1.0
+   1  f
+ 14.5435   1.0
+   1  f
+ 9.43956   1.0
+   1  f
+ 5.66955   1.0
+   1  f
+ 3.36881   1.0
+   1  g
+ 37.0936   1.0
+   1  g
+ 16.1188   1.0
+   1  h
+ 19.1131   1.0
+   1  i
+ 16.7799   1.0
+*
+cu aug-T-PP
+# cu 
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+   1  s
+ 0.0331513  1.0
+   1  p
+ 0.0403456  1.0
+   1  d
+ 0.0737752  1.0
+   1  f
+ 0.121629  1.0
+   1  g
+ 0.242358  1.0
+   1  h
+ 0.916677  1.0
+   1  i
+ 2.23709   1.0
+*
+################   correlation consistent QZ sets ##############################
+*
+cu cc-pVQZ-PP
+# cu (10s10p9d7f6g3h2i)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -1.02125188 H
+#  EMP2(RI) - EMP2:    -4.981680   uH
+#  delta/|EMP2|:        0.005766   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.82072189 H
+#  EMP2(RI) - EMP2:    -3.391150   uH
+#  delta/|EMP2|:        0.005915   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pVQZ-PP-steep
+-> cu cc-pVQZ-PP-kernel
+*
+cu aug-cc-pVQZ-PP
+# cu (11s11p10d8f7g4h3i)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -1.03326901 H
+#  EMP2(RI) - EMP2:    -2.828000   uH
+#  delta/|EMP2|:        0.020489   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.82660019 H
+#  EMP2(RI) - EMP2:    -2.348710   uH
+#  delta/|EMP2|:        0.022285   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pVQZ-PP-steep
+-> cu cc-pVQZ-PP-kernel
+-> cu aug-Q-PP
+*
+cu cc-pwCVQZ-PP
+# cu (9s9p7d7f6g3h)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -1.07429975 H
+#  EMP2(RI) - EMP2:     0.525730   uH
+#  delta/|EMP2|:        0.008366   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.87320125 H
+#  EMP2(RI) - EMP2:     1.010250   uH
+#  delta/|EMP2|:        0.008796   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pwCVQZ-PP-steep
+-> cu cc-pVQZ-PP-kernel
+*
+cu aug-cc-pwCVQZ-PP
+# cu (10s10p8d8f7g4h)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -1.08463027 H
+#  EMP2(RI) - EMP2:     1.790150   uH
+#  delta/|EMP2|:        0.010117   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.87737324 H
+#  EMP2(RI) - EMP2:     1.721260   uH
+#  delta/|EMP2|:        0.012449   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pwCVQZ-PP-steep
+-> cu cc-pVQZ-PP-kernel
+-> cu aug-Q-PP
+*
+cu cc-pVQZ-PP-steep
+# cu 
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+   1  s
+ 26.0341   1.0
+   1  s
+ 15.7767   1.0
+   1  s
+ 9.9559    1.0
+   1  s
+ 6.17203   1.0
+   1  p
+ 26.3804   1.0
+   1  p
+ 16.2411   1.0
+   1  p
+ 9.51334   1.0
+   1  p
+ 4.6219    1.0
+   1  d
+ 23.7735   1.0
+   1  d
+ 14.6124   1.0
+   1  d
+ 8.30817   1.0
+   1  f
+ 14.8922   1.0
+   1  f
+ 10.3868   1.0
+   1  f
+ 5.51533   1.0
+   1  g
+ 27.5594   1.0
+   1  g
+ 10.6128   1.0
+   1  g
+ 6.87971   1.0
+   1  g
+ 3.53094   1.0
+   1  g
+ 1.808     1.0
+   1  h
+ 16.3954   1.0
+   1  h
+ 8.44796   1.0
+   1  i
+ 11.3114   1.0
+*
+cu cc-pVQZ-PP-kernel
+# cu 
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+   1  s
+ 3.23541   1.0
+   1  s
+ 1.53292   1.0
+   1  s
+ 0.805891  1.0
+   1  s
+ 0.412438  1.0
+   1  s
+ 0.20134   1.0
+   1  s
+ 0.111715  1.0
+   1  s
+ 0.0614943  1.0
+   1  p
+ 2.86933   1.0
+   1  p
+ 1.5525    1.0
+   1  p
+ 0.898939  1.0
+   1  p
+ 0.520825  1.0
+   1  p
+ 0.310679  1.0
+   1  p
+ 0.160996  1.0
+   1  p
+ 0.0795632  1.0
+   1  d
+ 4.00261   1.0
+   1  d
+ 2.71506   1.0
+   1  d
+ 1.48497   1.0
+   1  d
+ 0.762042  1.0
+   1  d
+ 0.442048  1.0
+   1  d
+ 0.256528  1.0
+   1  d
+ 0.146063  1.0
+   1  f
+ 3.35554   1.0
+   1  f
+ 1.55999   1.0
+   1  f
+ 0.935799  1.0
+   1  f
+ 0.452255  1.0
+   1  f
+ 0.245211  1.0
+   1  g
+ 0.699672  1.0
+   1  g
+ 0.338916  1.0
+   1  h
+ 4.68324   1.0
+   1  h
+ 2.80244   1.0
+   1  h
+ 1.29558   1.0
+   1  i
+ 6.11471   1.0
+   1  i
+ 2.85492   1.0
+   1  k
+ 8.86982   1.0
+   1  k
+ 5.01787   1.0
+*
+cu cc-pwCVQZ-PP-steep
+# cu 
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+   1  s
+ 39.5261   1.0
+   1  s
+ 25.1571   1.0
+   1  s
+ 13.1904   1.0
+   1  s
+ 7.07351   1.0
+   1  s
+ 4.89308   1.0
+   1  p
+ 29.9799   1.0
+   1  p
+ 18.847    1.0
+   1  p
+ 13.8308   1.0
+   1  p
+ 9.73028   1.0
+   1  p
+ 5.08032   1.0
+   1  d
+ 25.3218   1.0
+   1  d
+ 18.6987   1.0
+   1  d
+ 11.6079   1.0
+   1  d
+ 7.13027   1.0
+   1  f
+ 29.1529   1.0
+   1  f
+ 13.7591   1.0
+   1  f
+ 9.70355   1.0
+   1  f
+ 6.29479   1.0
+   1  g
+ 46.8365   1.0
+   1  g
+ 18.3075   1.0
+   1  g
+ 11.7683   1.0
+   1  g
+ 7.39982   1.0
+   1  g
+ 4.93614   1.0
+   1  g
+ 2.85835   1.0
+   1  g
+ 1.3629    1.0
+   1  h
+ 23.6916   1.0
+   1  h
+ 12.3224   1.0
+   1  h
+ 7.75339   1.0
+   1  i
+ 18.2106   1.0
+   1  i
+ 11.0437   1.0
+   1  k
+ 15.0636   1.0
+*
+cu aug-Q-PP
+# cu (1s1p1d1f1g1h1i)
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+   1  s
+ 0.0307027  1.0
+   1  p
+ 0.0400055  1.0
+   1  d
+ 0.0700933  1.0
+   1  f
+ 0.124208  1.0
+   1  g
+ 0.19048   1.0
+   1  h
+ 0.58142   1.0
+   1  i
+ 1.2456    1.0
+   1  k
+ 2.43325   1.0
+*
+################   correlation consistent 5Z sets ##############################
+*
+cu cc-pV5Z-PP
+# cu (12s12p11d10f9g6h5i3k2l)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -1.07905585 H
+#  EMP2(RI) - EMP2:    -0.832966   uH
+#  delta/|EMP2|:        0.001768   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.87311180 H
+#  EMP2(RI) - EMP2:    -0.436891   uH
+#  delta/|EMP2|:        0.002713   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pV5Z-PP-steep
+-> cu cc-pV5Z-PP-kernel
+*
+cu aug-cc-pV5Z-PP
+# cu (13s13p12d11f10g7h6i4k3l)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -1.08527761 H
+#  EMP2(RI) - EMP2:     0.321083   uH
+#  delta/|EMP2|:        0.010632   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.87634649 H
+#  EMP2(RI) - EMP2:     0.635654   uH
+#  delta/|EMP2|:        0.017902   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pV5Z-PP-steep
+-> cu cc-pV5Z-PP-kernel
+-> cu aug-5-PP
+*
+cu cc-pwCV5Z-PP
+# cu (13s13p12d11f10g7h6i4k3l) 
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -1.10483702 H
+#  EMP2(RI) - EMP2:    -0.286601   uH
+#  delta/|EMP2|:        0.002123   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.89843729 H
+#  EMP2(RI) - EMP2:    -0.014917   uH
+#  delta/|EMP2|:        0.001924   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pwCV5Z-PP-steep
+-> cu cc-pV5Z-PP-kernel
+*
+cu aug-cc-pwCV5Z-PP
+# cu (14s14p13d12f11g8h7i5k4l)
+# cu atom, ^2S state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -1.11006203 H
+#  EMP2(RI) - EMP2:     0.467949   uH
+#  delta/|EMP2|:        0.005686   ppm
+# cu2+ kation, ^2D state, 1s 2s2p in ECP:
+#  MP2-energy (RI):    -0.90079105 H
+#  EMP2(RI) - EMP2:     0.707163   uH
+#  delta/|EMP2|:        0.008917   ppm
+# Ref.: C. Hättig,A. Hellweg, unpublished
+*
+-> cu cc-pwCV5Z-PP-steep
+-> cu cc-pV5Z-PP-kernel
+-> cu aug-5-PP
+*
+cu cc-pV5Z-PP-steep
+# cu
+*
+   1  s
+ 35.4858   1.0
+   1  s
+ 19.6363   1.0
+   1  s
+ 11.8195   1.0
+   1  s
+ 7.12666   1.0
+   1  s
+ 4.19645   1.0
+   1  p
+ 34.6802   1.0
+   1  p
+ 18.7862   1.0
+   1  p             
+ 11.466    1.0
+   1  p             
+ 6.93607   1.0
+   1  d
+ 30.3535   1.0
+   1  d
+ 18.3524   1.0
+   1  d
+ 11.0099   1.0
+   1  d
+ 5.89128   1.0
+   1  f
+ 30.0116   1.0
+   1  f
+ 18.5998   1.0
+   1  f
+ 11.5478   1.0
+   1  f
+ 7.27147   1.0
+   1  g
+ 42.2243   1.0
+   1  g
+ 17.878    1.0
+   1  g
+ 11.9282   1.0
+   1  g
+ 6.6407    1.0
+   1  h
+ 21.6163   1.0
+   1  h               
+ 11.7096   1.0
+   1  h               
+ 6.77317   1.0
+   1  i
+ 17.1478   1.0
+   1  i
+ 9.34211   1.0
+*
+cu cc-pV5Z-PP-kernel
+# cu
+*
+   1  s
+ 2.28498   1.0
+   1  s
+ 1.18262   1.0
+   1  s
+ 0.629883  1.0
+   1  s
+ 0.319176  1.0
+   1  s
+ 0.153878  1.0
+   1  s
+ 0.0846138  1.0
+   1  s
+ 0.0467074  1.0
+   1  p
+ 3.63067   1.0
+   1  p
+ 2.2483    1.0
+   1  p
+ 1.20106   1.0
+   1  p
+ 0.684211  1.0
+   1  p
+ 0.390412  1.0
+   1  p
+ 0.231376  1.0
+   1  p
+ 0.120098  1.0
+   1  p
+ 0.0597326  1.0
+   1  d
+ 3.28233   1.0
+   1  d
+ 2.14061   1.0
+   1  d
+ 1.11414   1.0
+   1  d
+ 0.570481  1.0
+   1  d
+ 0.328284  1.0
+   1  d
+ 0.19177   1.0
+   1  d
+ 0.111262  1.0
+   1  f
+ 4.04245   1.0
+   1  f
+ 2.37932   1.0
+   1  f
+ 1.28837   1.0
+   1  f
+ 0.700094  1.0
+   1  f
+ 0.346304  1.0
+   1  f
+ 0.197791  1.0
+   1  g
+ 4.24001   1.0
+   1  g
+ 2.22417   1.0
+   1  g
+ 1.21401   1.0
+   1  g
+ 0.539847  1.0
+   1  g
+ 0.304775  1.0
+   1  h
+ 4.29739   1.0
+   1  h
+ 2.28281   1.0
+   1  h
+ 0.938732  1.0
+   1  i
+ 5.69731   1.0
+   1  i
+ 3.41473   1.0
+   1  i
+ 1.71845   1.0
+   1  k
+ 12.8134   1.0
+   1  k
+ 6.98751   1.0
+   1  k
+ 3.17967   1.0
+   1  l
+ 9.45574   1.0
+   1  l
+ 6.18029   1.0
+*
+cu cc-pwCV5Z-PP-steep
+# cu
+*
+   1  s
+ 42.877    1.0
+   1  s
+ 25.4628   1.0
+   1  s
+ 15.2751   1.0
+   1  s
+ 9.12489   1.0
+   1  s
+ 6.05263   1.0
+   1  s
+ 3.64703   1.0
+   1  p
+ 47.3975   1.0
+   1  p
+ 27.8273   1.0
+   1  p
+ 16.3624   1.0
+   1  p
+ 10.6339   1.0
+   1  p
+ 6.87864   1.0
+   1  d
+ 39.851    1.0
+   1  d
+ 21.7888   1.0
+   1  d
+ 12.5054   1.0
+   1  d
+ 8.08292   1.0
+   1  d
+ 5.00543   1.0
+   1  f
+ 42.3719   1.0
+   1  f
+ 23.35     1.0
+   1  f
+ 14.0968   1.0
+   1  f
+ 9.54183   1.0
+   1  f
+ 6.25746   1.0
+   1  g
+ 59.1164   1.0
+   1  g
+ 26.4626   1.0
+   1  g
+ 15.4947   1.0
+   1  g
+ 9.8343    1.0
+   1  g
+ 6.41944   1.0
+   1  h
+ 28.9057   1.0
+   1  h
+ 15.5736   1.0
+   1  h
+ 10.6509   1.0
+   1  h
+ 6.54285   1.0
+   1  i
+ 20.3057   1.0
+   1  i
+ 12.3335   1.0
+   1  i
+ 7.77992   1.0
+   1  k
+ 19.5368   1.0
+   1  l
+ 16.0125   1.0
+*
+cu aug-5-PP
+# cu
+*
+   1  s
+ 0.0232889  1.0
+   1  p
+ 0.0298835  1.0
+   1  d
+ 0.0556809  1.0
+   1  f
+ 0.0947778  1.0
+   1  g
+ 0.151113  1.0
+   1  h
+ 0.455989  1.0
+   1  i
+ 0.78727   1.0
+   1  k
+ 1.45746   1.0
+   1  l
+ 3.32723   1.0
+*
+#######correlation consistent all electron TZ sets ##############################
+*
+cu cc-pVTZ
+# Ref.: J.G. Hill, J.A. Platts, J. Chem. Phys. 128, 044104 (2008).
+# Ref.: downloaded from Basis Set Exchange Library  9/2/11 4:00 AM
+*
+    1  s
+   1989.8442284              1.0000000        
+    1  s
+   1099.1821595              1.0000000        
+    1  s
+    489.24591409             1.0000000        
+    1  s
+    190.67771441             1.0000000        
+    1  s
+     89.659837230            1.0000000        
+    1  s
+     43.561669805            1.0000000        
+    1  s
+     13.818747221            1.0000000        
+    1  s
+      4.0531945343           1.0000000        
+    1  s
+      2.4825335230           1.0000000        
+    1  s
+      1.0385959358           1.0000000        
+    1  s
+      0.64586753328          1.0000000        
+    1  s
+      0.25733171364          1.0000000        
+    1  s
+      0.14235554835          1.0000000        
+    1  p
+    551.84062390             1.0000000        
+    1  p
+    171.53878246             1.0000000        
+    1  p
+     46.718917626            1.0000000        
+    1  p
+     17.994412589            1.0000000        
+    1  p
+      6.8613676394           1.0000000        
+    1  p
+      4.2422257285           1.0000000        
+    1  p
+      1.6469239386           1.0000000        
+    1  p
+      1.0661440298           1.0000000        
+    1  p
+      0.47392463185          1.0000000        
+    1  p
+      0.20637480741          1.0000000        
+    1  p
+      0.92362763570E-01            1.0000000        
+    1  d
+    152.86424703             1.0000000        
+    1  d
+     45.360919088            1.0000000        
+    1  d
+     17.361558462            1.0000000        
+    1  d
+     12.305715759            1.0000000        
+    1  d
+      4.5145510029           1.0000000        
+    1  d
+      2.9894775496           1.0000000        
+    1  d
+      1.1623467499           1.0000000        
+    1  d
+      0.67133977507          1.0000000        
+    1  d
+      0.25914055087          1.0000000        
+    1  f
+     57.363728452            1.0000000        
+    1  f
+     12.458705005            1.0000000        
+    1  f
+      6.7168718399           1.0000000        
+    1  f
+      3.5906356059           1.0000000        
+    1  f
+      1.6107232146           1.0000000        
+    1  f
+      0.81548413376          1.0000000        
+    1  f
+      0.34962438020          1.0000000        
+    1  g
+     21.326579225            1.0000000        
+    1  g
+      7.2891062979           1.0000000        
+    1  g
+      3.5722718000           1.0000000        
+    1  g
+      1.3135972169           1.0000000        
+    1  g
+      0.54086964465          1.0000000        
+    1  h
+     10.853374411            1.0000000        
+    1  h
+      5.5795302535           1.0000000        
+    1  h
+      2.2716457145           1.0000000        
+    1  i
+      9.6118985121           1.0000000        
+    1  i
+      5.0542964769           1.0000000        
+*
+cu aug-cc-pVTZ
+# Ref.: J.G. Hill, J.A. Platts, J. Chem. Phys. 128, 044104 (2008).
+# Ref.: downloaded from Basis Set Exchange Library  9/2/11 4:00 AM
+*
+    1  s
+   1988.3943331              1.0000000        
+    1  s
+   1097.6031754              1.0000000        
+    1  s
+    487.37158842             1.0000000        
+    1  s
+    188.99742634             1.0000000        
+    1  s
+     88.296191501            1.0000000        
+    1  s
+     41.741334470            1.0000000        
+    1  s
+     11.348373925            1.0000000        
+    1  s
+      5.1923780765           1.0000000        
+    1  s
+      2.4030648701           1.0000000        
+    1  s
+      1.3038730326           1.0000000        
+    1  s
+      0.65644550072          1.0000000        
+    1  s
+      0.26113372227          1.0000000        
+    1  s
+      0.15633704072          1.0000000        
+    1  s
+      0.88486014425E-01            1.0000000        
+    1  p
+    544.37919462             1.0000000        
+    1  p
+    169.94322582             1.0000000        
+    1  p
+     46.298367013            1.0000000        
+    1  p
+     18.709714488            1.0000000        
+    1  p
+     10.919530994            1.0000000        
+    1  p
+      5.0483956555           1.0000000        
+    1  p
+      2.4642084474           1.0000000        
+    1  p
+      1.3923761990           1.0000000        
+    1  p
+      0.60123889547          1.0000000        
+    1  p
+      0.28424810230          1.0000000        
+    1  p
+      0.15664865850          1.0000000        
+    1  p
+      0.81004901106E-01            1.0000000        
+    1  d
+    143.23328678             1.0000000        
+    1  d
+     35.079616426            1.0000000        
+    1  d
+     14.343136515            1.0000000        
+    1  d
+      8.8025938565           1.0000000        
+    1  d
+      4.4503116420           1.0000000        
+    1  d
+      2.3012884705           1.0000000        
+    1  d
+      1.4858584764           1.0000000        
+    1  d
+      0.66345007976          1.0000000        
+    1  d
+      0.27729818911          1.0000000        
+    1  d
+      0.11908368207          1.0000000        
+    1  f
+     60.474497698            1.0000000        
+    1  f
+     11.827049352            1.0000000        
+    1  f
+      7.9573367981           1.0000000        
+    1  f
+      4.0635911790           1.0000000        
+    1  f
+      2.0095561906           1.0000000        
+    1  f
+      0.92059006097          1.0000000        
+    1  f
+      0.54126196249          1.0000000        
+    1  f
+      0.27300843581          1.0000000        
+    1  g
+     23.344023298            1.0000000        
+    1  g
+      8.2968740238           1.0000000        
+    1  g
+      4.8120260243           1.0000000        
+    1  g
+      2.1788387939           1.0000000        
+    1  g
+      1.1629222161           1.0000000        
+    1  g
+      0.44552809251          1.0000000        
+    1  h
+     11.128671950            1.0000000        
+    1  h
+      5.7735262465           1.0000000        
+    1  h
+      2.4851190600           1.0000000        
+    1  h
+      0.91520105376          1.0000000        
+    1  i
+      8.8104756455           1.0000000        
+    1  i
+      4.7968659582           1.0000000        
+    1  i
+      2.2959415073           1.0000000        
+*
+###################################################################
+# extensions for the augmented basis sets of Rappoport and Furche #
+###################################################################
+cu D(SVP)
+# A.Hellweg 05/12; additional functions for the
+# augmented basis set fitted at the atomic anion
+*
+   1  s
+ 0.0409979  1.0
+   1  p
+ 0.0747792  1.0
+   1  d
+ 0.143497  1.0
+*
+cu def2-SVPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> cu def2-SVP
+-> cu D(SVP)
+*
+cu D(TZVPP)
+# A.Hellweg 05/12; additional functions for the
+# augmented basis set fitted at the atomic anion
+*
+   1  s
+ 0.0409979  1.0
+   1  p
+ 0.0218053  1.0
+   1  d
+ 0.0890713  1.0
+*
+cu def2-TZVPPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> cu def2-TZVPP
+-> cu D(TZVPP)
+*
+cu def2-TZVPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> cu def2-TZVP
+-> cu D(TZVPP)
+*
+$end

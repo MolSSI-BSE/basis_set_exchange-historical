@@ -1,0 +1,1102 @@
+$cbas
+*
+at ecp-60-mdf-SVP
+at def2-SV(P)
+at def2-SVP
+# at    (9s8p7d5f2g) / [9s8p7d5f2g]     {111111111/11111111/1111111/11111/11}
+#  MP2-energy (RI):    -0.09812889 H
+#  EMP2(RI) - EMP2:     0.744487   uH
+#  delta/|EMP2|:        0.006891   ppm
+# Ref.: Hellweg, Haettig, Hoefener, Klopper, TCA 117 (2007) 587 
+*
+   1  s
+ 16.4482   1.0
+   1  s
+ 10.282    1.0
+   1  s
+ 7.57018   1.0
+   1  s
+ 4.75439   1.0
+   1  s
+ 2.18389   1.0
+   1  s
+ 0.972912  1.0
+   1  s
+ 0.500654  1.0
+   1  s
+ 0.255193  1.0
+   1  s
+ 0.184717  1.0
+   1  p
+ 8.65236   1.0
+   1  p
+ 6.82939   1.0
+   1  p
+ 4.63686   1.0
+   1  p
+ 2.6701    1.0
+   1  p
+ 1.28439   1.0
+   1  p
+ 0.603088  1.0
+   1  p
+ 0.426569  1.0
+   1  p
+ 0.224372  1.0
+   1  d
+ 13.3073   1.0
+   1  d
+ 7.51844   1.0
+   1  d
+ 4.64679   1.0
+   1  d
+ 2.23144   1.0
+   1  d
+ 1.15522   1.0
+   1  d
+ 0.518217  1.0
+   1  d
+ 0.221684  1.0
+   1  f
+ 5.86502   1.0
+   1  f
+ 4.32209   1.0
+   1  f
+ 1.75299   1.0
+   1  f
+ 0.954842  1.0
+   1  f
+ 0.396485  1.0
+   1  g
+ 3.64517   1.0
+   1  g
+ 0.795024  1.0
+*
+at ecp-60-mdf-TZVP
+at ecp-60-mdf-TZVPP
+at def2-TZVP
+at def2-TZVPP
+# at    (9s8p8d6f4g3h) / [9s8p8d6f4g3h]     {111111111/11111111/11111111/111111/
+#  MP2-energy (RI):    -0.59229190 H
+#  EMP2(RI) - EMP2:     5.410885   uH
+#  delta/|EMP2|:        0.012299   ppm
+# Ref.: Hellweg, Haettig, Hoefener, Klopper, TCA 117 (2007) 587 
+*
+   1  s
+ 16.5975   1.0
+   1  s
+ 10.4792   1.0
+   1  s
+ 7.80745   1.0
+   1  s
+ 5.02638   1.0
+   1  s
+ 2.42636   1.0
+   1  s
+ 1.13928   1.0
+   1  s
+ 0.596594  1.0
+   1  s
+ 0.234125  1.0
+   1  s
+ 0.138213  1.0
+   1  p
+ 8.75796   1.0
+   1  p
+ 6.82328   1.0
+   1  p
+ 4.61412   1.0
+   1  p
+ 2.68631   1.0
+   1  p
+ 1.28426   1.0
+   1  p
+ 0.598513  1.0
+   1  p
+ 0.42929   1.0
+   1  p
+ 0.23589   1.0
+   1  d
+ 13.6931   1.0
+   1  d
+ 7.60971   1.0
+   1  d
+ 4.50997   1.0
+   1  d
+ 2.25607   1.0
+   1  d
+ 1.39276   1.0
+   1  d
+ 0.585763  1.0
+   1  d
+ 0.382746  1.0
+   1  d
+ 0.153833  1.0
+   1  f
+ 6.5359    1.0
+   1  f
+ 4.47341   1.0
+   1  f
+ 2.50391   1.0
+   1  f
+ 1.26434   1.0
+   1  f
+ 0.630058  1.0
+   1  f
+ 0.307059  1.0
+   1  g
+ 0.555538  1.0
+   1  g
+ 3.15146   1.0
+   1  g
+ 2.54517   1.0
+   1  g
+ 0.901377  1.0
+   1  h
+ 3.66777   1.0
+   1  h
+ 2.18814   1.0
+   1  h
+ 0.992127  1.0
+*
+at ecp-60-mdf-QZVPP
+at ecp-60-mdf-QZVP
+at def2-QZVPP
+at def2-QZVP
+# Ref.: Hellweg, Haettig, Hoefener, Klopper, TCA 117 (2007) 587 
+# at    (10s10p9d8f6g4h2i) / [10s10p9d8f6g4h2i]     {1111111111/1111111111/11111
+#  MP2-energy (RI):    -0.70794153 H
+#  EMP2(RI) - EMP2:     2.162175   uH
+#  delta/|EMP2|:        0.011898   ppm
+*
+   1  s
+ 9.60943   1.0
+   1  s
+ 7.79528   1.0
+   1  s
+ 6.08677   1.0
+   1  s
+ 4.2563    1.0
+   1  s
+ 1.89054   1.0
+   1  s
+ 1.05625   1.0
+   1  s
+ 0.731403  1.0
+   1  s
+ 0.221302  1.0
+   1  s
+ 0.346314  1.0
+   1  s
+ 0.113356  1.0
+   1  p
+ 13.7283   1.0
+   1  p
+ 9.30374   1.0
+   1  p
+ 8.00403   1.0
+   1  p
+ 4.74661   1.0
+   1  p
+ 2.69206   1.0
+   1  p
+ 1.72441   1.0
+   1  p
+ 0.786584  1.0
+   1  p
+ 0.534327  1.0
+   1  p
+ 0.297601  1.0
+   1  p
+ 0.173158  1.0
+   1  d
+ 9.56773   1.0
+   1  d
+ 7.54301   1.0
+   1  d
+ 5.75569   1.0
+   1  d
+ 2.20774   1.0
+   1  d
+ 1.41144   1.0
+   1  d
+ 0.678107  1.0
+   1  d
+ 0.497571  1.0
+   1  d
+ 0.285225  1.0
+   1  d
+ 0.138454  1.0
+   1  f
+ 9.47528   1.0
+   1  f
+ 8.04428   1.0
+   1  f
+ 4.91724   1.0
+   1  f
+ 2.732     1.0
+   1  f
+ 1.75037   1.0
+   1  f
+ 0.721953  1.0
+   1  f
+ 0.440812  1.0
+   1  f
+ 0.215134  1.0
+   1  g
+ 7.1861    1.0
+   1  g
+ 5.72062   1.0
+   1  g
+ 2.78727   1.0
+   1  g
+ 1.57856   1.0
+   1  g
+ 0.760057  1.0
+   1  g
+ 0.376251  1.0
+   1  h
+ 4.72476   1.0
+   1  h
+ 2.78951   1.0
+   1  h
+ 1.30092   1.0
+   1  h
+ 0.621692  1.0
+   1  i
+ 2.66237   1.0
+   1  i
+ 1.0992    1.0
+*
+##########################  Peterson DZ sets  ##############################
+*
+at aug-cc-pwCVDZ-PP
+# at ()
+# at atom (1s 2s2p 3s3p3d 4s4p4d4f in ECP):
+# at anion (1s 2s2p 3s3p3d 4s4p4d4f in ECP):
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pVDZ-PP
+-> at cc-pwCVDZ-PP-pol
+-> at aug-D-PP
+*
+at cc-pwCVDZ-PP
+# at ()
+# at atom (1s 2s2p 3s3p3d 4s4p4d4f in ECP):
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pVDZ-PP
+-> at cc-pwCVDZ-PP-pol
+*
+at aug-cc-pVDZ-PP
+# at    (8s7p6d4f3g) / [8s7p6d4f3g]
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pVDZ-PP
+-> at aug-D-PP
+*
+at cc-pVDZ-PP
+# at    (7s6p5d3f2g) / [7s6p5d3f2g]  
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 10.2438   1.0
+   1  s
+ 6.06327   1.0
+   1  s
+ 3.58651   1.0
+   1  s
+ 1.73124   1.0
+   1  s
+ 0.675743  1.0
+   1  s
+ 0.312508  1.0
+   1  s
+ 0.184435  1.0
+   1  p
+ 4.42713   1.0
+   1  p
+ 3.40449   1.0
+   1  p
+ 2.34249   1.0
+   1  p
+ 0.948409  1.0
+   1  p
+ 0.415732  1.0
+   1  p
+ 0.256775  1.0
+   1  d
+ 6.32599   1.0
+   1  d
+ 3.16675   1.0
+   1  d
+ 1.9355    1.0
+   1  d
+ 0.508977  1.0
+   1  d
+ 0.238674  1.0
+   1  f
+ 3.32677   1.0
+   1  f
+ 1.44735   1.0
+   1  f
+ 0.434621  1.0
+   1  g
+ 3.66691   1.0
+   1  g
+ 0.814114  1.0
+*
+at aug-D-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 0.0596959  1.0
+   1  p
+ 0.120348  1.0
+   1  d
+ 0.0903966  1.0
+   1  f
+ 0.204645  1.0
+   1  g
+ 0.544163  1.0
+*
+at cc-pwCVDZ-PP-pol
+# at (2s2p3d3f2g2h)
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 2.49181   1.0
+   1  s
+ 1.08161   1.0
+   1  p
+ 5.75695   1.0
+   1  p
+ 1.49052   1.0
+   1  d
+ 4.4758    1.0
+   1  d
+ 0.992535  1.0
+   1  f
+ 5.04368   1.0
+   1  f
+ 2.19431   1.0
+   1  f
+ 0.793126  1.0
+   1  g
+ 2.22039   1.0
+   1  g
+ 1.34449   1.0
+   1  h
+ 4.14105   1.0
+   1  h
+ 2.28568   1.0
+*
+##########################  Peterson TZ sets  ##############################
+*
+at aug-cc-pwCVTZ-PP
+# at ()
+# at atom (1s 2s2p 3s3p3d 4s4p4d4f in ECP):
+# at anion (1s 2s2p 3s3p3d 4s4p4d4f in ECP):
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pVTZ-PP-kernel
+-> at cc-pwCVTZ-PP-pol
+-> at aug-T-PP
+*
+at cc-pwCVTZ-PP
+# at ()
+# at atom (1s 2s2p 3s3p3d 4s4p4d4f in ECP):
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pVTZ-PP-kernel
+-> at cc-pwCVTZ-PP-pol
+*
+at aug-cc-pVTZ-PP
+# at    (9s9p8d6f4g3h) / [9s9p8d6f4g3h]
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pVTZ-PP-steep
+-> at cc-pVTZ-PP-kernel
+-> at aug-T-PP
+*
+at cc-pVTZ-PP
+# at    (8s8p7d5f3g2h) / [8s8p7d5f3g2h]  
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pVTZ-PP-steep
+-> at cc-pVTZ-PP-kernel
+*
+at cc-pVTZ-PP-kernel
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 7.3585    1.0
+   1  s
+ 5.34501   1.0
+   1  s
+ 3.77645   1.0
+   1  s
+ 2.71229   1.0
+   1  s
+ 1.15281   1.0
+   1  s
+ 0.654714  1.0
+   1  s
+ 0.363419  1.0
+   1  s
+ 0.156674  1.0
+   1  p
+ 10.4474   1.0
+   1  p
+ 6.8971    1.0
+   1  p
+ 4.11083   1.0
+   1  p
+ 2.45564   1.0
+   1  p
+ 1.02006   1.0
+   1  p
+ 0.538075  1.0
+   1  p
+ 0.34923   1.0
+   1  p
+ 0.19635   1.0
+   1  d
+ 1.27073   1.0
+   1  d
+ 0.716535  1.0
+   1  d
+ 0.39663   1.0
+   1  d
+ 0.2043    1.0
+   1  f
+ 10.0551   1.0
+   1  f
+ 3.80298   1.0
+   1  f
+ 1.61907   1.0
+   1  f
+ 0.638434  1.0
+   1  f
+ 0.309276  1.0
+   1  g
+ 3.60509   1.0
+   1  g
+ 1.2944    1.0
+   1  g
+ 0.573508  1.0
+   1  h
+ 2.34144   1.0
+   1  h
+ 1.00628   1.0
+*
+at cc-pVTZ-PP-steep
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  d
+ 5.28072   1.0
+   1  d
+ 4.24366   1.0
+   1  d
+ 2.82427   1.0
+*
+at aug-T-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 0.0653001  1.0
+   1  p
+ 0.0937602  1.0
+   1  d
+ 0.0849026  1.0
+   1  f
+ 0.137688  1.0
+   1  g
+ 0.282093  1.0
+   1  h
+ 0.512953  1.0
+*
+at cc-pwCVTZ-PP-pol
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 10.1305   1.0
+   1  s
+ 2.03928   1.0
+   1  s
+ 1.53326   1.0
+   1  p
+ 15.8252   1.0
+   1  p
+ 3.17722   1.0
+   1  p
+ 1.58269   1.0
+   1  d
+ 14.7809   1.0
+   1  d
+ 7.00235   1.0
+   1  d
+ 5.25344   1.0
+   1  d
+ 3.55436   1.0
+   1  d
+ 2.34647   1.0
+   1  f
+ 6.1838    1.0
+   1  f
+ 2.48139   1.0
+   1  g
+ 9.07741   1.0
+   1  g
+ 5.06781   1.0
+   1  g
+ 2.16019   1.0
+   1  h
+ 4.16221   1.0
+   1  i
+ 3.31786   1.0
+   1  i
+ 1.97874   1.0
+*
+##########################  Peterson QZ sets  ##############################
+*
+at aug-cc-pwCVQZ-PP
+# at ()
+# at atom (1s 2s2p 3s3p3d 4s4p4d4f in ECP):
+# at anion (1s 2s2p 3s3p3d 4s4p4d4f in ECP):
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pVQZ-PP-kernel
+-> at cc-pwCVQZ-PP-pol
+-> at aug-Q-PP
+*
+at cc-pwCVQZ-PP
+# at ()
+# at atom (1s 2s2p 3s3p3d 4s4p4d4f in ECP):
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pVQZ-PP-kernel
+-> at cc-pwCVQZ-PP-pol
+*
+at aug-cc-pVQZ-PP
+# at    (12s12p10d8f6g4h3i) / [12s12p10d8f6g4h3i]
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pVQZ-PP-steep
+-> at cc-pVQZ-PP-kernel
+-> at aug-Q-PP
+*
+at cc-pVQZ-PP
+# at    (11s11p9d7f5g3h2i) / [11s11p9d7f5g3h2i]    
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pVQZ-PP-steep
+-> at cc-pVQZ-PP-kernel
+*
+at cc-pVQZ-PP-kernel
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 11.2101   1.0
+   1  s
+ 9.13112   1.0
+   1  s
+ 7.30554   1.0
+   1  s
+ 4.38251   1.0
+   1  s
+ 1.94395   1.0
+   1  s
+ 0.902324  1.0
+   1  s
+ 0.643665  1.0
+   1  s
+ 0.435317  1.0
+   1  s
+ 0.200414  1.0
+   1  s
+ 0.101878  1.0
+   1  s
+ 0.0428889  1.0
+   1  p
+ 12.7241   1.0
+   1  p
+ 10.6854   1.0
+   1  p
+ 8.6577    1.0
+   1  p
+ 4.80222   1.0
+   1  p
+ 2.14872   1.0
+   1  p
+ 1.1836    1.0
+   1  p
+ 0.648803  1.0
+   1  p
+ 0.450317  1.0
+   1  p
+ 0.306651  1.0
+   1  p
+ 0.160052  1.0
+   1  p
+ 0.0688135  1.0
+   1  d
+ 10.8001   1.0
+   1  d
+ 8.07607   1.0
+   1  d
+ 4.69988   1.0
+   1  d
+ 2.1288    1.0
+   1  d
+ 1.18083   1.0
+   1  d
+ 0.710783  1.0
+   1  d
+ 0.465185  1.0
+   1  d
+ 0.274302  1.0
+   1  d
+ 0.125003  1.0
+   1  f
+ 0.693098  1.0
+   1  f
+ 1.10189   1.0
+   1  f
+ 0.433347  1.0
+   1  f
+ 0.229465  1.0
+   1  g
+ 0.988159  1.0
+   1  g
+ 0.667378  1.0
+   1  g
+ 0.360632  1.0
+   1  h
+ 1.15723   1.0
+   1  h
+ 0.614915  1.0
+   1  i
+ 1.80184   1.0
+   1  i
+ 0.901434  1.0
+*
+at cc-pVQZ-PP-steep
+# at (3f2g1h)
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  f
+ 6.51545   1.0
+   1  f
+ 5.16681   1.0
+   1  f
+ 1.8819    1.0
+   1  g
+ 3.57819   1.0
+   1  g
+ 2.13187   1.0
+   1  h
+ 2.27643   1.0
+*
+at aug-Q-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 0.0219939  1.0
+   1  p
+ 0.0416227  1.0
+   1  d
+ 0.067122  1.0
+   1  f
+ 0.109803  1.0
+   1  g
+ 0.181635  1.0
+   1  h
+ 0.333352  1.0
+   1  i
+ 0.46235   1.0
+*
+at cc-pwCVQZ-PP-pol
+# at (2s2p2d6f5g3h2i2k)
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 2.9188    1.0
+   1  s
+ 1.32441   1.0
+   1  p
+ 3.23499   1.0
+   1  p
+ 1.59931   1.0
+   1  d
+ 6.16089   1.0
+   1  d
+ 3.16308   1.0
+   1  f
+ 11.3197   1.0
+   1  f
+ 9.28017   1.0
+   1  f
+ 6.20272   1.0
+   1  f
+ 4.00609   1.0
+   1  f
+ 2.3606    1.0
+   1  f
+ 1.61527   1.0
+   1  g
+ 7.15809   1.0
+   1  g
+ 6.03388   1.0
+   1  g
+ 4.11996   1.0
+   1  g
+ 2.52335   1.0
+   1  g
+ 1.4738    1.0
+   1  h
+ 4.74276   1.0
+   1  h
+ 3.89928   1.0
+   1  h
+ 2.02679   1.0
+   1  i
+ 5.43015   1.0
+   1  i
+ 2.84131   1.0
+   1  k
+ 2.88525   1.0
+   1  k
+ 1.7494    1.0
+*
+##########################  Peterson 5Z sets  ##############################
+*
+at aug-cc-pwCV5Z-PP
+# at ()
+# at atom (1s 2s2p 3s3p3d 4s4p4d4f in ECP):
+# at anion (1s 2s2p 3s3p3d 4s4p4d4f in ECP):
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pV5Z-PP-kernel
+-> at cc-pwCV5Z-PP-pol
+-> at aug-5-PP
+*
+at cc-pwCV5Z-PP
+# at ()
+# at atom (1s 2s2p 3s3p3d 4s4p4d4f in ECP):
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pV5Z-PP-kernel
+-> at cc-pwCV5Z-PP-pol
+*
+at aug-cc-pV5Z-PP
+# at    (14s13p12d10f8g6h4i2k) / [14s13p12d10f8g6h4i2k] 
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pV5Z-PP-steep
+-> at cc-pV5Z-PP-kernel
+-> at aug-5-PP
+*
+at cc-pV5Z-PP
+# at    (13s12p11d9f7g5h3i1k) / [13s12p11d9f7g5h3i1k]   
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> at cc-pV5Z-PP-steep
+-> at cc-pV5Z-PP-kernel
+*
+at cc-pV5Z-PP-kernel
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 44.1243   1.0
+   1  s
+ 29.4319   1.0
+   1  s
+ 16.825    1.0
+   1  s
+ 8.88948   1.0
+   1  s
+ 6.20855   1.0
+   1  s
+ 1.80097   1.0
+   1  s
+ 1.05881   1.0
+   1  s
+ 0.671171  1.0
+   1  s
+ 0.424491  1.0
+   1  s
+ 0.304608  1.0
+   1  s
+ 0.163383  1.0
+   1  s
+ 0.0846243  1.0
+   1  p
+ 28.7825   1.0
+   1  p
+ 12.3058   1.0
+   1  p
+ 8.07824   1.0
+   1  p
+ 5.9714    1.0
+   1  p
+ 3.13028   1.0
+   1  p
+ 1.07751   1.0
+   1  p
+ 0.668253  1.0
+   1  p
+ 0.44441   1.0
+   1  p
+ 0.280988  1.0
+   1  p
+ 0.151019  1.0
+   1  p
+ 0.0845952  1.0
+   1  d
+ 23.9608   1.0
+   1  d
+ 12.8524   1.0
+   1  d
+ 8.6961    1.0
+   1  d
+ 4.4175    1.0
+   1  d
+ 2.62343   1.0
+   1  d
+ 1.3323    1.0
+   1  d
+ 0.793629  1.0
+   1  d
+ 0.542667  1.0
+   1  d
+ 0.375831  1.0
+   1  d
+ 0.213337  1.0
+   1  d
+ 0.101069  1.0
+   1  f
+ 16.6025   1.0
+   1  f
+ 8.64929   1.0
+   1  f
+ 4.32768   1.0
+   1  f
+ 0.572756  1.0
+   1  f
+ 0.342507  1.0
+   1  f
+ 0.181434  1.0
+   1  g
+ 0.825869  1.0
+   1  g
+ 0.524093  1.0
+   1  g
+ 0.295455  1.0
+   1  h
+ 0.775746  1.0
+   1  h
+ 0.442421  1.0
+   1  i
+ 0.720921  1.0
+   1  k
+ 1.36283   1.0
+*
+at cc-pV5Z-PP-steep
+# at (1s1p3f4g3h2i)
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 3.35551   1.0
+   1  p
+ 1.92715   1.0
+   1  f
+ 2.62493   1.0
+   1  f
+ 1.37738   1.0
+   1  f
+ 0.79913   1.0
+   1  g
+ 8.76339   1.0
+   1  g
+ 4.27622   1.0
+   1  g
+ 2.45744   1.0
+   1  g
+ 1.39996   1.0
+   1  h
+ 5.32344   1.0
+   1  h
+ 2.27751   1.0
+   1  h
+ 1.17768   1.0
+   1  i
+ 2.42073   1.0
+   1  i
+ 1.28457   1.0
+*
+at aug-5-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 0.042262  1.0
+   1  p
+ 0.0427552  1.0
+   1  d
+ 0.0642123  1.0
+   1  f
+ 0.0930519  1.0
+   1  g
+ 0.164516  1.0
+   1  h
+ 0.230183  1.0
+   1  i
+ 0.425703  1.0
+   1  k
+ 0.990312  1.0
+*
+at cc-pwCV5Z-PP-pol
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 22.2529   1.0
+   1  s
+ 12.2297   1.0
+   1  s
+ 4.10988   1.0
+   1  s
+ 2.72062   1.0
+   1  p
+ 18.82     1.0
+   1  p
+ 4.32344   1.0
+   1  p
+ 2.19379   1.0
+   1  p
+ 1.53748   1.0
+   1  d
+ 17.5486   1.0
+   1  d
+ 6.19799   1.0
+   1  d
+ 1.86954   1.0
+   1  f
+ 11.9833   1.0
+   1  f
+ 6.11812   1.0
+   1  f
+ 2.88801   1.0
+   1  f
+ 1.92726   1.0
+   1  f
+ 1.28613   1.0
+   1  f
+ 0.858276  1.0
+   1  g
+ 12.4851   1.0
+   1  g
+ 6.43277   1.0
+   1  g
+ 4.21713   1.0
+   1  g
+ 2.70347   1.0
+   1  g
+ 1.8004    1.0
+   1  g
+ 1.2008    1.0
+   1  h
+ 9.46356   1.0
+   1  h
+ 7.00693   1.0
+   1  h
+ 5.1585    1.0
+   1  h
+ 3.32199   1.0
+   1  h
+ 2.01165   1.0
+   1  h
+ 1.33384   1.0
+   1  i
+ 5.93559   1.0
+   1  i
+ 4.75076   1.0
+   1  i
+ 2.32119   1.0
+   1  i
+ 1.61151   1.0
+   1  k
+ 5.97189   1.0
+   1  k
+ 3.23887   1.0
+   1  k
+ 1.84052   1.0
+   1  l
+ 2.56615   1.0
+*
+###################################################################
+# extensions for the augmented basis sets of Rappoport and Furche #
+###################################################################
+at D(SVP)
+# A.Hellweg 05/12; additional functions for the
+# augmented basis set fitted at the atomic anion
+*
+   1  s
+ 0.0557748  1.0
+   1  p
+ 0.10001   1.0
+   1  d
+ 0.0796596  1.0
+   1  f
+ 0.147443  1.0
+*
+at def2-SVPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> at def2-SVP
+-> at D(SVP)
+*
+at D(TZVPP)
+# A.Hellweg 05/12; additional functions for the
+# augmented basis set fitted at the atomic anion
+*
+   1  s
+ 0.0434871  1.0
+   1  p
+ 0.0983939  1.0
+   1  d
+ 0.0625465  1.0
+   1  f
+ 0.125888  1.0
+*
+at def2-TZVPPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> at def2-TZVPP
+-> at D(TZVPP)
+*
+at def2-TZVPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> at def2-TZVP
+-> at D(TZVPP)
+*
+at D(QZVPP)
+# A.Hellweg 05/12; additional functions for the
+# augmented basis set fitted at the atomic anion
+*
+   1  s
+ 0.0431589  1.0
+   1  p
+ 0.0784212  1.0
+   1  d
+ 0.0623859  1.0
+   1  f
+ 0.104267  1.0
+*
+at def2-QZVPPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> at def2-QZVPP
+-> at D(QZVPP)
+*
+$end

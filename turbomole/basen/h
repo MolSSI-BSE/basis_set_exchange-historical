@@ -1,0 +1,1279 @@
+$basis
+#
+#                    BASIS SET LIBRARY FOR HYDROGEN
+#            ECPs, HONDO-BASIS SETS FROM basen AND
+#     FULLY OPTIMIZED BASIS SETS FROM newbas MERGED 02/6/93
+#
+#         abbreviation hondo refers to the version 7.0 of HONDO
+#
+###############################################################################
+#       HF limit : E(2S) = -0.5 a.u. 
+###############################################################################
+#       Roothaan parameters for H(2S):
+#        a = 0      b = 0
+###############################################################################
+#
+*
+#
+#  available basis sets and corresponding atomic H(2S) energies:
+#
+#     Basis                   HF(equiv) / a.u.    
+#    ------------------------------------------------------------- 
+#     CBSB5                     -0.49994556812
+#     DZ                        -0.49927840571
+#     SV                        -0.49927840571
+#     SV(P)                     -0.49927840571
+#     def-SV(P)                 -0.49927840571
+#     def2-SV(P)                -0.49927840571
+#     dhf-SV(P)                 -0.49927840571
+#     dhf-SV(P)-2c              -0.49927840571
+#     DZP                       -0.49927840571
+#     SVP                       -0.49927840571
+#     def-SVP                   -0.49927840571
+#     def2-SVP                  -0.49927840571
+#     dhf-SVP                   -0.49927840571
+#     dhf-SVP-2c                -0.49927840571
+#     TZ                        -0.49980983223
+#     TZV                       -0.49980983223
+#     TZP                       -0.49980983223
+#     TZVP                      -0.49980983223
+#     def-TZVP                  -0.49980983223
+#     def2-TZVP                 -0.49980983223
+#     dhf-TZVP                  -0.49980983223
+#     dhf-TZVP-2c               -0.49980983223
+#     TZVPP                     -0.49980983223
+#     def-TZVPP                 -0.49980983223
+#     def2-TZVPP                -0.49980983223
+#     dhf-TZVPP                 -0.49980983223
+#     dhf-TZVPP-2c              -0.49980983223
+#     TZVPPP                    -0.49980983223
+#     def-QZV                   -0.49998329779
+#     def2-QZV                  -0.49998329779
+#     QZV                       -0.49998329779
+#     QZ                        -0.49998329779
+#     def-QZVP                  -0.49998329779
+#     def2-QZVP                 -0.49998329779
+#     dhf-QZVP                  -0.49998329779
+#     dhf-QZVP-2c               -0.49998329779
+#     QZVP                      -0.49998329779
+#     QZP                       -0.49998329779
+#     def-QZVPP                 -0.49998329779
+#     def2-QZVPP                -0.49998329779
+#     dhf-QZVPP                 -0.49998329779
+#     dhf-QZVPP-2c              -0.49998329779
+#     QZVPP                     -0.49998329779
+#     QZPP                      -0.49998329779
+#     (6s)[3s]                  -0.49994557040
+#     minix                     -0.46591564868
+#     sto-3g                    -0.46658184606
+#     dzp                       -0.49818901972
+#     3-21g                     -0.49619863602
+#     4-31g                     -0.49823290922
+#     tzp                       -0.49980932931
+#     6-31G                     -0.49823291073
+#     6-31G*                    -0.49823291073
+#     6-31G**                   -0.49823291073
+#     6-311G                    -0.49980981527
+#     6-311G*                   -0.49980981527
+#     6-311G**                  -0.49980981527
+#     6-311++G**                -0.49981791563
+#     6-311G(2df,2pd)           -0.49980981527
+#     cc-pVDZ                   -0.49927840342
+#     aug-cc-pVDZ               -0.49933431544
+#     YP-aug-cc-pVDZ            -0.49933431544
+#     d-aug-cc-pVDZ             -0.49933466027
+#     cc-pVTZ                   -0.49980981130
+#     cc-pVTZ-kernel            -0.49980981128
+#     aug-cc-pVTZ               -0.49982117602
+#     YP-aug-cc-pVTZ            -0.49982117602
+#     d-aug-cc-pVTZ             -0.49982129550
+#     d-aug-cc-pVTZ-oep         -0.49982350278
+#     cc-pVQZ                   -0.49994556858
+#     aug-cc-pVQZ               -0.49994832147
+#     YP-aug-cc-pVQZ            -0.49994832147
+#     d-aug-cc-pVQZ             -0.49994841838
+#     cc-pV5Z                   -0.49999453516
+#     aug-cc-pV5Z               -0.49999478458
+#     YP-aug-cc-pV5Z            -0.49999478458
+#     d-aug-cc-pV5Z             -0.49999480093
+#     cc-pV6Z                   -0.49999924451
+#     aug-cc-pV6Z               -0.49999927640
+#     r12                       -0.49998393981
+#     cc-pVDZ-F12               -0.49980981130
+#     cc-pVTZ-F12               -0.49994556858
+#     cc-pVQZ-F12               -0.49999453516
+#     def2-SVPD                 -0.49927840571
+#     def2-TZVPPD               -0.49980983223
+#     def2-TZVPD                -0.49980983223
+#     def2-QZVPPD               -0.49998329779
+#     def2-QZVPD                -0.49998329779
+#     pob-TZVP
+#    ------------------------------------------------------------------ 
+#
+*
+h CBSB5
+# HF(equiv) energy is -0.49994556812 a.u.  (virial theorem = 1.99999972552) 
+# J.A. Montgomery, Jr., J.W. Ochterski, and G.A. Petersson, 
+# J. Chem. Phys. 101, 5900 (1994).
+*
+   3  s
+   82.6363740000      0.229508860600E-01
+   12.4095580000      0.175563981400    
+   2.82385400000      0.864685501400    
+   1  s
+  0.797670000000       1.00000000000    
+   1  s
+  0.258053000000       1.00000000000    
+   1  s
+  0.898910000000E-01   1.00000000000    
+   2  p
+   1.84800000000      0.190826193400    
+  0.705600000000      0.847833500400    
+   1  p
+  0.272000000000       1.00000000000    
+   1  d
+   1.17900000000       1.00000000000 
+*
+h DZ
+h SV
+h SV(P)
+h def-SV(P) 
+h def2-SV(P)
+h dhf-SV(P)
+h dhf-SV(P)-2c
+h x2c-SV(P)all
+h x2c-SV(P)all-2c
+# HF(equiv) energy is -0.49927840571 a.u.  (virial theorem = 2.00000000184) 
+# (4s)/[2s] {31} 
+# H. Horn, Aug. 91
+*
+    3  s
+    13.010701      .19682158E-01
+    1.9622572      .13796524
+    .44453796      .47831935
+    1  s
+    .12194962      1.0000000
+*
+h DZP
+h SVP
+h def-SVP
+h def2-SVP
+h dhf-SVP
+h dhf-SVP-2c
+h x2c-SVPall
+h x2c-SVPall-2c
+# HF(equiv) energy is -0.49927840571 a.u.  (virial theorem = 2.00000000184) 
+# (4s1p)/[2s1p] {31/1} 
+*
+-> h DZ
+-> h P
+*
+h TZ
+h TZV
+h def2-mTZVP
+# h     (5s) / [3s]     {311}
+# HF(equiv) energy is -0.49980983223 a.u.  (virial theorem = 2.00000004241) 
+# H. Horn, Aug. 91
+*
+    3  s
+    34.061341      .60251978E-02
+    5.1235746      .45021094E-01
+    1.1646626      .20189726
+    1  s
+    .32723041      1.0000000
+    1  s
+    .10307241      1.0000000
+*
+h TZP
+h TZVP
+h def-TZVP
+h def2-TZVP
+h dhf-TZVP
+h dhf-TZVP-2c
+h x2c-TZVPall
+h x2c-TZVPall-2c
+# h (5s1p)/[3s1p] {311/1} 
+# HF(equiv) energy is -0.49980983223 a.u.  (virial theorem = 2.00000007588) 
+*
+-> h TZ
+-> h P
+*
+h TZVPP
+h def-TZVPP
+h def2-TZVPP
+h dhf-TZVPP
+h dhf-TZVPP-2c
+h x2c-TZVPPall
+h x2c-TZVPPall-2c
+# h (5s2p1d)/[3s2p1d] {311/11/1} 
+# HF(equiv) energy is -0.49980983223 a.u.  (virial theorem = 2.00000008776) 
+# TZ + cc-pVTZ polarization functions 
+*
+-> h TZ
+-> h PP
+*
+h TZVPPP
+# HF(equiv) energy is -0.49980983223 a.u.  (virial theorem = 2.00000009780) 
+# TZ + cc-pVQZ polarization functions
+*
+-> h TZ
+-> h PPP
+*
+h def-QZV
+h def2-QZV
+h QZV
+h QZ
+# HF(equiv) energy is -0.49998329779 a.u.  (virial theorem = 2.00000005132) 
+# atomic SCF calculation of --->  H(2S) (7s) / [4s]           <---
+*
+  4  s
+    190.69169      .70815167E-03
+    28.605532      .54678827E-02
+    6.5095943      .27966605E-01
+    1.8412455      .10764538
+  1  s
+    .59853725      1.0000000
+  1  s
+    .21397624      1.0000000
+  1  s
+    .80316286E-01  1.0000000
+*  
+h def-QZVP  
+h def2-QZVP  
+h dhf-QZVP  
+h dhf-QZVP-2c
+h QZVP  
+h QZP  
+h def-QZVPP  
+h def2-QZVPP  
+h dhf-QZVPP  
+h dhf-QZVPP-2c
+h QZVPP  
+h QZPP  
+# h (7s3p2d1f)/[4s3p2d1f] {4111/111/11/1} 
+# HF(equiv) energy is -0.49998329779 a.u.  (virial theorem = 2.00000007639) 
+# QZ + cc-pVQZ polarization functions
+*
+-> h QZV
+-> h PPP
+*
+h P
+# additional p-GTO
+# Ref.: R. Ahlrichs 13.08.92
+*
+  1  p
+ .80   1.00
+*
+h PP
+# polarization functions of the cc-pVTZ basis (Dunning)
+*
+   1  p
+  1.40700000        1.0000000000
+   1  p
+  0.38800000        1.0000000000
+   1  d
+  1.05700000        1.0000000000
+*
+h PPP
+# polarization functions of the cc-pVQZ basis (Dunning)
+*
+   1  p
+  2.29200000        1.0000000000
+   1  p
+  0.83800000        1.0000000000
+   1  p
+  0.29200000        1.0000000000
+   1  d
+  2.06200000        1.0000000000
+   1  d
+  0.66200000        1.0000000000
+   1  f
+  1.39700000        1.0000000000
+*
+h (6s)[3s]
+# h     (6s) / [3s]     {411}
+# HF(equiv) energy is -0.49994557040 a.u.  (virial theorem = 2.00000005920) 
+# H. Horn, Aug. 91
+*
+    4  s
+    82.921568      .19976410E-02
+    12.452392      .15281356E-01
+    2.8330483      .75305332E-01
+    .80000884      .25632406
+    1  s
+    .25859439      .49762555
+    1  s
+    .89968919E-01  .29676903
+*
+###############################################################################
+# atomic SCF calculation of --->  H(2S) 4s (uncontracted)  <---
+# SCF energy is        -.4992784057 a.u. (virial theorem =  2.000000002)
+#     a = 0      b = 0
+# derived from Huzinaga 4s E(2S)=-.499277
+# Huzinaga JCP 42 (1965) 1293
+# H. Horn, Aug. 91
+###############################################################################
+#    exponents        coefficients
+#                      1s
+#    13.010701      .19682158E-01
+#    1.9622572      .13796524
+#    .44453796      .47831935
+#    .12194962      .50110717
+#  eigenvalue       -.4992784
+#  occupation       1.0000000
+###############################################################################
+*
+###############################################################################
+# atomic SCF calculation of --->  H(2S) 5s (uncontracted)  <---
+# SCF energy is        -.4998098322 a.u. (virial theorem =  1.999999999)
+#     a = 0      b = 0
+# derived from Huzinaga 5s E(2S)=-.499809
+# Huzinaga JCP 42 (1965) 1293
+# H. Horn, Aug. 91
+###############################################################################
+#    exponents        coefficients
+#                      1s
+#    34.061341      .60251978E-02
+#    5.1235746      .45021094E-01
+#    1.1646626      .20189726
+#    .32723041      .50304112
+#    .10307241      .38545729
+#  eigenvalue       -.4998098
+#  occupation       1.0000000
+###############################################################################
+*
+###############################################################################
+# atomic SCF calculation of --->  H(2S) 6s (uncontracted)  <---
+# SCF energy is        -.4999455704 a.u. (virial theorem =  1.999999998)
+#     a = 0      b = 0
+# derived from Huzinaga 6s E(2S)=-.499940
+# Huzinaga JCP 42 (1965) 1293
+# H. Horn, Aug. 91
+###############################################################################
+#    exponents        coefficients
+#                      1s
+#    82.921568      .19976410E-02
+#    12.452392      .15281356E-01
+#    2.8330483      .75305332E-01
+#    .80000884      .25632406
+#    .25859439      .49762555
+#    .89968919E-01  .29676903
+#  eigenvalue       -.4999456
+#  occupation       1.0000000
+###############################################################################
+*
+###############################################################################
+# atomic SCF calculation of --->  H(2S) 7s (uncontracted)  <---
+# SCF energy is        -.4999832978 a.u. (virial theorem =  1.999999998)
+#     a = 0      b = 0
+# derived from Huzinaga 7s E(2S)=-.499976
+# H. Horn, Aug. 91
+###############################################################################
+#    exponents        coefficients
+#                      1s
+#    190.69169      .70815167E-03
+#    28.605532      .54678827E-02
+#    6.5095943      .27966605E-01
+#    1.8412455      .10764538
+#    .59853725      .29889714
+#    .21397624      .47406803
+#    .80316286E-01  .22939527
+#  eigenvalue       -.4999833
+#  occupation       1.0000000
+###############################################################################
+*
+###############################################################################
+# atomic SCF calculation of --->  H(2S) 8s (uncontracted)  <---
+# SCF energy is        -.4999945614 a.u. (virial theorem =  2.000000001)
+#     a = 0      b = 0
+# derived from Huzinaga 8s E(2S)=-.4999913
+# H. Horn, Aug. 91
+###############################################################################
+#     exponents         coefficients
+#                         1s
+#    418.56108023      .26559371134E-03
+#    62.745732323      .20587539328E-02
+#    14.279648916      .10694900525E-01
+#    4.0418299129      .43337803547E-01
+#    1.3163925229      .13974307217
+#    .47346270504      .32952868476
+#    .18280016580      .44067060910
+#    .72884437787E-01  .17825479274
+#  eigenvalue          -.4999946
+#  occupation          1.0000000
+###############################################################################
+*
+###############################################################################
+# atomic SCF calculation of --->  H(2S) 10s (uncontracted)  <---
+# SCF energy is        -.4999993320 a.u. (virial theorem =  1.999999998)
+#     a = 0      b = 0
+# derived from Huzinaga 10s E(2S)=-.4999986
+# H. Horn, Aug. 91
+###############################################################################
+#    exponents        coefficients
+#                      1s
+#    1802.8548      .42878874E-04
+#    270.07261      .33319294E-03
+#    61.465661      .17480315E-02
+#    17.407481      .73196598E-02
+#    5.6768096      .25973617E-01
+#    2.0477698      .78920148E-01
+#    .79739918      .19730189
+#    .32953444      .35975171
+#    .14224675      .36399990
+#    .62123669E-01  .10947415
+#  eigenvalue       -.4999993
+#  occupation       1.0000000
+###############################################################################
+*
+###############################################################################
+# atomic SCF calculation of --->  H(2S) 12s (uncontracted)  <---
+# SCF energy is        -.4999999038 a.u. (virial theorem =  1.999999998)
+#     a = 0      b = 0
+# H. Horn, Aug. 91
+###############################################################################
+#    exponents        coefficients
+#                      1s
+#    6880.5367      .80415227E-05
+#    1031.2066      .62447067E-04
+#    234.86095      .32802248E-03
+#    66.562207      .13826837E-02
+#    21.722975      .50097274E-02
+#    7.8436151      .16098740E-01
+#    3.0592231      .46221226E-01
+#    1.2684937      .11629703
+#    .55277992      .24112289
+#    .25077055      .35923659
+#    .11707778      .29047731
+#    .54643611E-01  .68710608E-01
+#  eigenvalue       -.4999999
+#  occupation       1.0000000
+###############################################################################
+*
+###############################################################################
+# atomic SCF calculation of --->  H(2S) 14s (uncontracted)  <---
+# SCF energy is        -.4999999843 a.u. (virial theorem =  2.000000003)
+#     a = 0      b = 0
+# H. Horn, Aug. 91
+###############################################################################
+#     exponents         coefficients
+#                         1s
+#    24376.222309      .16555054314E-05
+#    3649.5094657      .12875041554E-04
+#    830.46309990      .67738765443E-04
+#    235.22680618      .28623786993E-03
+#    76.742992645      .10431521668E-02
+#    27.704123900      .34022541510E-02
+#    10.803123401      .10126760872E-01
+#    4.4783545984      .27684663581E-01
+#    1.9517058105      .68845769965E-01
+#    .88708810772      .15061948419
+#    .41781342206      .26937923362
+#    .20263443074      .34034468511
+#    .10023537483      .22879974532
+#    .49195193604E-01  .44370019072E-01
+#  eigenvalue          -.5000000
+#  occupation          1.0000000
+###############################################################################
+*
+h def2-mSVP
+# h     (4s) / [2s]     {31}
+*
+   3  s
+  18.735410440      0.19682158000E-01
+  2.8256504000      0.13796524000
+ 0.64013470000      0.47831935000
+   1  s
+ 0.17560746000       1.0000000000
+*
+h minix
+# h     (3s) / [1s]     {3}
+# HF(equiv) energy is -0.46591564868 a.u.  (virial theorem = 2.66670101274) 
+*
+   3  s
+  7.0340630000      0.70452000000E-01
+  1.0647560000      0.40782600000
+ 0.23655900000      0.64775200000
+*
+h sto-3g hondo
+# h 3s/1s
+# HF(equiv) energy is -0.46658184606 a.u.  (virial theorem = 2.62893586265) 
+#
+# sto-3g basis set from hondo basis set library
+# default contraction   -.466582
+#
+*
+  3  s
+ 3.4252510     .15432897
+ .62391374     .53532814
+ .16885541     .44463454
+*
+h dzp hondo
+# h 4s/2s (31) 1p/1p
+# HF(equiv) energy is -0.49818901972 a.u.  (virial theorem = 2.02451596964) 
+#
+# dzp basis set from hondo basis set library
+#
+*
+  3  s
+ 19.238400    0.032828
+  2.898720    0.231204
+  0.653472    0.817226
+  1  s
+  0.16306425  1.000000
+  1  p
+  1.000000    1.000000
+*
+h 3-21g hondo
+# h 3s/2s (21)
+# HF(equiv) energy is -0.49619863602 a.u.  (virial theorem = 2.03683132932) 
+#
+# 3-21g basis set from hondo basis set library
+#
+*
+  2  s
+ 5.4471780    0.15628500    
+0.82454724    0.90469100    
+  1  s
+0.18319158     1.0000000    
+*
+h 4-31g hondo                                                                   
+# h 4s/2s (31)
+# HF(equiv) energy is -0.49823290922 a.u.  (virial theorem = 2.02334997087) 
+#
+# 4-31g basis set from hondo basis set library
+#
+*
+  3  s
+ 18.731137    0.33494604E-01
+ 2.8253944    0.23472695    
+0.64012169    0.81375733    
+  1  s
+0.16127776     1.0000000    
+*
+h tzp hondo                                                                     
+# h 5s/3s (311) 1p/1p
+# HF(equiv) energy is -0.49980932931 a.u.  (virial theorem = 1.99979204237) 
+#
+# tzp basis set from hondo basis set library
+# default contraction   -0.499809
+#
+*
+  3  s
+ 33.640000    0.25374000E-01
+ 5.0580000    0.18968400    
+ 1.1470000    0.85293300    
+  1  s
+0.32110000     1.0000000    
+  1  s
+0.10130000     1.0000000    
+  1  p
+ 1.0000000     1.0000000    
+*
+h 6-31G
+h 6-31G*
+# HF(equiv) energy is -0.49823291073 a.u.  (virial theorem = 2.02335008559) 
+# W.J. Hehre, R. Ditchfield, and J.A. Pople, J. Chem. Phys. 56, 2257 (1972)
+# obtained from EMSL  Basis Set Exchange Library 11/4/08 6:44 AM
+# antique valence double zeta
+*
+    3  s
+     18.7311370              0.03349460       
+      2.8253937              0.23472695       
+      0.6401217              0.81375733       
+    1  s
+      0.1612778              1.00000000
+*
+h 6-31G**
+# HF(equiv) energy is -0.49823291073 a.u.  (virial theorem = 2.02335008559) 
+# P.C. Hariharan and J.A. Pople, Theor. Chim. Acta 28, 213 (1973)
+# obtained from  EMSL  Basis Set Exchange Library  11/4/08 6:45 AM
+# antique valence double zeta
+*
+-> h 6-31G
+-> h 6-31G-pol
+*
+h 6-31G-pol
+*
+    1  p
+      1.1000000              1.0000000
+*
+h 6-311G
+h 6-311G*
+# HF(equiv) energy is -0.49980981527 a.u.  (virial theorem = 1.99996196488) 
+# Ref.: R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, JCP 72, 650 (1980)
+# obtained from EMSL  Basis Set Exchange Library  8/30/07 11:51 PM
+# Valence Triple Zeta
+*
+    3  s
+         33.8650000              0.0254938        
+          5.0947900              0.1903730        
+          1.1587900              0.8521610        
+    1  s
+          0.3258400              1.0000000        
+    1  s
+          0.1027410              1.0000000        
+*
+h 6-311G**
+# HF(equiv) energy is -0.49980981527 a.u.  (virial theorem = 1.99996193326) 
+# Ref.: R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, JCP 72, 650 (1980)
+# obtained from EMSL  Basis Set Exchange Library  8/30/07 11:51 PM
+# Valence Triple Zeta + Polarization on all atoms
+*
+-> h 6-311G
+-> h 6-311G-pol
+*
+h 6-311G-pol
+# Ref.: R. Krishnan, J.S. Binkley, R. Seeger and J.A. Pople, JCP 72, 650 (1980)
+# obtained from EMSL  Basis Set Exchange Library  8/30/07 11:51 PM
+# Polarization function for 6-311G** basis set
+*
+    1  p
+          0.7500000              1.0000000        
+*
+h 6-311++G**
+# HF(equiv) energy is -0.49981791563 a.u.  (virial theorem = 1.99909010278) 
+# Ref.: T. Clark, et al., J. Comp. Chem. 4, 294 (1983).
+# obtained from EMSL  Basis Set Exchange Library  8/30/07 11:51 PM
+# Valence Triple Zeta + Polarization + Diffuse on all atoms
+*
+-> h 6-311G
+-> h 6-311G-pol
+-> h 6-311G-diffuse
+*
+h 6-311G-diffuse
+# Ref.: T. Clark, et al., J. Comp. Chem. 4, 294 (1983).
+# obtained from EMSL  Basis Set Exchange Library  8/30/07 11:51 PM
+# Diffuse function for 6-311++G** basis set
+*
+    1  s
+          0.0360000              1.0000000        
+*
+h 6-311G(2df,2pd)
+# HF(equiv) energy is -0.49980981527 a.u.  (virial theorem = 1.99996213956) 
+# Ref.: M.J. Frisch, J.A. Pople and J.S. Binkley, J. Chem. Phys. 80, 3265 (1984)
+# obtained from EMSL  Basis Set Exchange Library  8/30/07 11:51 PM
+# Valence Triple Zeta + Double Polarization 
+*
+-> h 6-311G
+-> h 6-311G-dpol
+*
+h 6-311G-dpol
+# Ref.: M.J. Frisch, J.A. Pople and J.S. Binkley, J. Chem. Phys. 80, 3265 (1984)
+# obtained from EMSL  Basis Set Exchange Library  8/30/07 11:51 PM
+# Double Polarization functions for 6-311G(2df,2pd) basis set
+*
+    1  p
+          1.5000000              1.0000000        
+    1  p
+          0.3750000              1.0000000        
+    1  d
+          1.0000000              1.0000000        
+*
+###############################################################################
+# correlation consistent basis sets
+###############################################################################
+*
+h cc-pVDZ
+# h     (4s1p) / [2s1p]     
+# HF(equiv) energy is -0.49927840342 a.u.  (virial theorem = 2.00002244099) 
+# Ref.: T.H. Dunning; JCP 90, 1007 (1989). 
+# Correlation Consistent Polarized Valence Double Zeta (cc-pVDZ) Basis
+*
+   3  s
+  13.010000000      0.19685000000E-01
+  1.9620000000      0.13797700000
+ 0.44460000000      0.47814800000
+   1  s
+ 0.12200000000       1.0000000000
+   1  p
+ 0.72700000000       1.0000000000
+*
+h aug-cc-pVDZ
+h YP-aug-cc-pVDZ
+# h     (5s2p) / [3s2p]     
+# HF(equiv) energy is -0.49933431544 a.u.  (virial theorem = 1.99709584845) 
+# Ref.: T.H. Dunning; JCP 90, 1007 (1989). 
+# Diffuse Function Augmented Polarized Valence Double Zeta (aug-cc-pVDZ) 
+*
+-> h cc-pVDZ
+-> h aug-D
+*
+h aug-D
+# h     (1s1p)
+*
+ 1  s
+        0.02974000         1.00000000
+ 1  p
+        0.14100000         1.00000000
+*
+h d-aug-cc-pVDZ
+# HF energy is       -0.4993346602 a.u.  (virial theorem =  1.997136588)
+# D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994)
+*
+-> h cc-pVDZ
+-> h aug-D
+-> h d-aug-D
+*
+h d-aug-D
+# h     (1s1p)
+*
+    1  s
+      0.0072500              1.0000000        
+    1  p
+      0.0273000              1.0000000
+*
+h cc-pVTZ
+# h     (5s2p1d) / [3s2p1d]     
+# HF(equiv) energy is -0.49980981130 a.u.  (virial theorem = 1.99995469405) 
+# Correlation Consistent Polarized Valence Triple Zeta (cc-pVTZ) Basis
+*
+-> h cc-pVTZ-kernel
+-> h cc-pVTZ-pol
+*
+h cc-pVTZ-kernel
+# HF(equiv) energy is -0.49980981128 a.u.  (virial theorem = 1.99995461243) 
+*
+   3   s
+       33.8700000000        0.0060680000
+        5.0950000000        0.0453080000
+        1.1590000000        0.2028220000
+   1   s
+        0.3258000000        1.0000000000
+   1   s
+        0.1027000000        1.0000000000
+*
+h cc-pVTZ-pol
+*
+   1   p
+        1.4070000000        1.0000000000
+   1   p
+        0.3880000000        1.0000000000
+   1   d
+        1.0570000000        1.0000000000
+*
+h aug-cc-pVTZ
+h YP-aug-cc-pVTZ
+# h     (6s3p2d) / [4s3p2d]     
+# HF(equiv) energy is -0.49982117602 a.u.  (virial theorem = 1.99896910201) 
+# Diffuse Function Augmented Polarized Valence Triple Zeta (aug-cc-pVTZ) 
+*
+-> h cc-pVTZ
+-> h aug-T
+*
+h aug-T
+# h     (1s1p1d)
+*
+ 1  s
+        0.02526000         1.00000000
+ 1  p
+        0.10200000         1.00000000
+ 1  d
+        0.24700000         1.00000000
+*
+h d-aug-cc-pVTZ
+# HF energy is       -0.4998212955 a.u.  (virial theorem =  1.999004298)
+# D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994)
+*
+-> h cc-pVTZ
+-> h aug-T
+-> h d-aug-T
+*
+h d-aug-T
+# h     (1s1p1d)
+*
+    1  s
+      0.0062100              1.0000000        
+    1  p
+      0.0268000              1.0000000        
+    1  d
+      0.0577000              1.0000000 
+*
+h d-aug-cc-pVTZ-oep
+# h     (8s5p3d) / [8s5p3d]     {11111111/11111/111}
+# HF(equiv) energy is -0.49982350278 a.u.  (virial theorem = 1.99902505734) 
+# ref.: Hesselmann et al., J. Chem. Phys., 127, (2007), 054102
+*
+   1  s
+       33.8700000000        1.0000000000
+   1  s
+        5.0950000000        1.0000000000
+   1  s
+        2.4300000000        1.0000000000
+   1  s
+        1.1590000000        1.0000000000
+   1  s
+        0.3258000000        1.0000000000
+   1  s
+        0.1027000000        1.0000000000
+   1  s
+        0.0252600000        1.0000000000
+   1  s
+        0.0062100000        1.0000000000
+   1  p
+        2.6800000000        1.0000000000
+   1  p
+        1.4070000000        1.0000000000
+   1  p
+        0.3880000000        1.0000000000
+   1  p
+        0.1020000000        1.0000000000
+   1  p
+        0.0268000000        1.0000000000
+   1  d
+        1.0570000000        1.0000000000
+   1  d
+        0.2470000000        1.0000000000
+   1  d
+        0.0577000000        1.0000000000
+*
+h cc-pVQZ
+# h     (6s3p2d1f) / [4s3p2d1f]     
+# HF(equiv) energy is -0.49994556858 a.u.  (virial theorem = 1.99999850135) 
+# Correlation Consistent Polarized Valence Quadruple Zeta (cc-pVQZ) Basis
+*
+   3   s
+       82.6400000000        0.0020060000
+       12.4100000000        0.0153430000
+        2.8240000000        0.0755790000
+   1   s
+        0.7977000000        1.0000000000
+   1   s
+        0.2581000000        1.0000000000
+   1   s
+        0.0898900000        1.0000000000
+   1   p
+        2.2920000000        1.0000000000
+   1   p
+        0.8380000000        1.0000000000
+   1   p
+        0.2920000000        1.0000000000
+   1   d
+        2.0620000000        1.0000000000
+   1   d
+        0.6620000000        1.0000000000
+   1   f
+        1.3970000000        1.0000000000
+*
+h aug-cc-pVQZ
+h YP-aug-cc-pVQZ
+# h     (7s4p3d2f) / [5s4p3d2f]     
+# HF(equiv) energy is -0.49994832147 a.u.  (virial theorem = 1.99971910956) 
+# Diffuse Function Augmented Polarized Valence Quadruple Zeta (aug-cc-pVQZ) 
+*
+-> h cc-pVQZ
+-> h aug-Q
+*
+h aug-Q
+# h     (1s1p1d1f)
+*
+   1   s
+      0.236300000E-01      1.00000000
+   1   p
+      0.848000000E-01      1.00000000
+   1   d
+      0.190000000          1.00000000
+   1   f
+      0.360000000          1.00000000
+*
+h d-aug-cc-pVQZ
+# HF energy is       -0.4999484184 a.u.  (virial theorem =  1.999738344)
+# D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994)
+*
+-> h cc-pVQZ
+-> h aug-Q
+-> h d-aug-Q
+*
+h d-aug-Q
+# h     (1s1p1d1f)
+*
+    1  s
+      0.0062100              1.0000000        
+    1  p
+      0.0246000              1.0000000        
+    1  d
+      0.0545000              1.0000000        
+    1  f
+      0.0928000              1.0000000
+*
+h cc-pV5Z
+# h (8s4p3d2f1g) / [5s4p3d2f1g]
+# HF(equiv) energy is -0.49999453516 a.u.  (virial theorem = 2.00000367168) 
+# Ref.: T.H. Dunning, D. Woon, K.A. Peterson (unpublished) 
+# Correlation Consistent Polarized Valence Quintuple Zeta (cc-pV5Z) Basis
+*
+   4   s
+      402.0000000000        0.0002790000
+       60.2400000000        0.0021650000
+       13.7300000000        0.0112010000
+        3.9050000000        0.0448780000
+   1   s
+        1.2830000000        1.0000000000
+   1   s
+        0.4655000000        1.0000000000
+   1   s
+        0.1811000000        1.0000000000
+   1   s
+        0.0727900000        1.0000000000
+   1   p
+        4.5160000000        1.0000000000
+   1   p
+        1.7120000000        1.0000000000
+   1   p
+        0.6490000000        1.0000000000
+   1   p
+        0.2460000000        1.0000000000
+   1   d
+        2.9500000000        1.0000000000
+   1   d
+        1.2060000000        1.0000000000
+   1   d
+        0.4930000000        1.0000000000
+   1   f
+        2.5060000000        1.0000000000
+   1   f
+        0.8750000000        1.0000000000
+   1   g
+        2.3580000000        1.0000000000
+*
+h aug-cc-pV5Z
+h YP-aug-cc-pV5Z
+# h (9s5p4d3f2g) / [6s5p4d3f2g]
+# HF(equiv) energy is -0.49999478458 a.u.  (virial theorem = 1.99997121795) 
+# Ref.: T.H. Dunning, D. Woon, K.A. Peterson (unpublished) 
+# Diffuse Function Augmented Polarized Valence Quintuple Zeta (aug-cc-pV5Z) 
+*
+-> h cc-pV5Z
+-> h aug-5
+*
+h aug-5
+# h (1s1p1d1f1g)
+*
+    1  s
+      0.207000000E-01      1.00000000
+    1  p
+      0.744000000E-01      1.00000000
+    1  d
+      0.156000000          1.00000000
+    1  f
+      0.274000000          1.00000000
+    1  g
+      0.543000000          1.00000000
+*
+h d-aug-cc-pV5Z
+# HF energy is       -0.4999948009 a.u.  (virial theorem =  1.999980607)
+# D.E. Woon and T.H. Dunning, Jr., J. Chem. Phys. 100, 2975 (1994)
+*
+-> h cc-pV5Z
+-> h aug-5
+-> h d-aug-5
+*
+h d-aug-5
+# h (1s1p1d1f1g)
+*
+    1  s
+      0.0058900              1.0000000        
+    1  p
+      0.0225000              1.0000000        
+    1  d
+      0.0494000              1.0000000        
+    1  f
+      0.0858000              1.0000000        
+    1  g
+      0.1250000              1.0000000
+*
+h cc-pV6Z
+# h (10s5p4d3f2g1h) -> [6s5p4d3f2g1h]
+# HF(equiv) energy is -0.49999924451 a.u.  (virial theorem = 2.00000110531) 
+# Ref.: K.A. Peterson, D.E. Woon, T.H. Dunning, JCP 100, 7410 (1994)
+# Ref.: K.A. Peterson, to be published
+# Correlation Consistent Polarized Valence Hextuple Zeta (cc-pV6Z) Basis
+*
+    5  s
+       1776.77556         0.440000000E-04
+       254.017712         0.372000000E-03
+       54.6980390         0.209400000E-02
+       15.0183440         0.886300000E-02
+       4.91507800         0.305400000E-01
+    1  s
+       1.79492400          1.00000000
+    1  s
+      0.710716000          1.00000000
+    1  s
+      0.304802000          1.00000000
+    1  s
+      0.138046000          1.00000000
+    1  s
+      0.621570000E-01      1.00000000
+    1  p
+       8.64900000          1.00000000
+    1  p
+       3.43000000          1.00000000
+    1  p
+       1.36000000          1.00000000
+    1  p
+      0.539000000          1.00000000
+    1  p
+      0.214000000          1.00000000
+    1  d
+       4.45300000          1.00000000
+    1  d
+       1.95800000          1.00000000
+    1  d
+      0.861000000          1.00000000
+    1  d
+      0.378000000          1.00000000
+    1  f
+       4.10000000          1.00000000
+    1  f
+       1.78000000          1.00000000
+    1  f
+      0.773000000          1.00000000
+    1  g
+       3.19900000          1.00000000
+    1  g
+       1.32600000          1.00000000
+    1  h
+       2.65300000          1.00000000 
+*
+h aug-cc-pV6Z
+# h (11s6p5d4f3g2h) -> [7s6p5d4f3g2h]
+# HF(equiv) energy is -0.49999927640 a.u.  (virial theorem = 1.99999626848) 
+# Ref.: K.A. Peterson, D.E. Woon, T.H. Dunning, JCP 100, 7410 (1994)
+# Ref.: K.A. Peterson, to be published
+# Ref.: K.A. Peterson, D.E. Woon (unpublished) 
+# Diffuse Function Augmented Polarized Valence Hextuple Zeta (aug-cc-pV6Z) 
+*
+-> h cc-pV6Z
+-> h aug-6
+*
+h aug-6
+# h (1s1p1d1f1g1h)
+# Ref.: K.A. Peterson, D.E. Woon (unpublished) 
+*
+    1  s
+      0.189000000E-01      1.00000000
+    1  p
+      0.670000000E-01      1.00000000
+    1  d
+      0.126000000          1.00000000
+    1  f
+      0.245000000          1.00000000
+    1  g
+      0.407000000          1.00000000
+    1  h
+      0.682000000          1.00000000 
+*
+################################################################################
+*
+h r12
+# h     (8s4p3d2f) / [6s4p3d2f]     {311111/1111/111/11}
+# HF(equiv) energy is -0.49998393981 a.u.  (virial theorem = 1.99991645435) 
+#
+#
+# WK/UniKA/26.10.2005
+# s subset: QZV basis with diffuse s from the aug-cc-pVQZ basis, partly decontracted
+# pdf subset: aug-cc-pVQZ
+#
+# Use same auxiliary basis as for aug-cc-pV5Z !
+#
+*
+   3  s
+  190.69169000      0.70815167000E-03
+  28.605532000      0.54678827000E-02
+  6.5095943000      0.27966605000E-01
+   1  s
+  1.8412455000      0.10764538000
+   1  s
+ 0.59853725000       1.0000000000
+   1  s
+ 0.21397624000       1.0000000000
+   1  s
+ 0.80316286000E-01   1.0000000000
+   1  s
+ 0.02363000000       1.0000000000
+   1  p
+  2.2920000000       1.0000000000
+   1  p
+ 0.83800000000       1.0000000000
+   1  p
+ 0.29200000000       1.0000000000
+   1  p
+ 0.08480000000       1.0000000000
+   1  d
+  2.0620000000       1.0000000000
+   1  d
+ 0.66200000000       1.0000000000
+   1  d
+ 0.19009000000       1.0000000000
+   1  f
+  1.3970000000       1.0000000000
+   1  f
+  0.3600000000       1.0000000000
+*
+h cc-pVDZ-F12
+# HF(equiv) energy is -0.49980981130 a.u.  (virial theorem = 1.99995461242) 
+# K.A. Peterson, T.B. Adler, H.-J. Werner, J. Chem. Phys. 128, 084102 (2008).
+# Recommended F12 exponent is 0.9.
+# Downloaded from K.A. Peterson's homepage on November 14, 2008.
+*
+   3  s
+     33.87000000        0.6068000000E-02
+     5.095000000        0.4530800000E-01
+     1.159000000        0.2028220000    
+   1  s
+    0.3258000000         1.000000000    
+   1  s
+    0.1027000000         1.000000000    
+   1  p
+     1.104600000         1.000000000    
+   1  p
+    0.2845000000         1.000000000    
+*
+h cc-pVTZ-F12
+# HF(equiv) energy is -0.49994556858 a.u.  (virial theorem = 1.99999843930) 
+# K.A. Peterson, T.B. Adler, H.-J. Werner, J. Chem. Phys. 128, 084102 (2008).
+# Recommended F12 exponent is 1.0.
+# Downloaded from K.A. Peterson's homepage on November 14, 2008.
+*
+   3  s
+     82.64000000        0.2006000000E-02
+     12.41000000        0.1534300000E-01
+     2.824000000        0.7557900000E-01
+   1  s
+    0.7977000000         1.000000000    
+   1  s
+    0.2581000000         1.000000000    
+   1  s
+    0.8989000000E-01     1.000000000    
+   1  p
+     1.551300000         1.000000000    
+   1  p
+    0.5580000000         1.000000000    
+   1  p
+    0.2007000000         1.000000000    
+   1  d
+    0.4648000000         1.000000000    
+*
+h cc-pVQZ-F12
+# HF(equiv) energy is -0.49999453516 a.u.  (virial theorem = 2.00000357116) 
+# K.A. Peterson, T.B. Adler, H.-J. Werner, J. Chem. Phys. 128, 084102 (2008).
+# Recommended F12 exponent is 1.1.
+# Downloaded from K.A. Peterson's homepage on November 14, 2008.
+*
+   4  s
+     402.0000000        0.2790000000E-03
+     60.24000000        0.2165000000E-02
+     13.73000000        0.1120100000E-01
+     3.905000000        0.4487800000E-01
+   1  s
+     1.283000000         1.000000000    
+   1  s
+    0.4655000000         1.000000000    
+   1  s
+    0.1811000000         1.000000000    
+   1  s
+    0.7279000000E-01     1.000000000    
+   1  p
+     3.259900000         1.000000000    
+   1  p
+     1.238900000         1.000000000    
+   1  p
+    0.4708000000         1.000000000    
+   1  p
+    0.1789000000         1.000000000    
+   1  d
+     1.111100000         1.000000000    
+   1  d
+    0.3501000000         1.000000000    
+   1  f
+    0.4796000000         1.000000000    
+*
+###############################################################################
+# augmented basis sets for response properties                              
+###############################################################################
+h D(SVP)
+*
+   1  p
+ 0.11704099050           1.0000000000
+*
+h def2-SVPD
+# HF(equiv) energy is -0.49927840571 a.u.  (virial theorem = 2.00000000183) 
+*
+-> h def2-SVP
+-> h D(SVP)
+*
+h D(TZVPP)
+*
+   1  p
+ 0.95774129632E-01       1.0000000000
+*
+h def2-TZVPPD
+# HF(equiv) energy is -0.49980983223 a.u.  (virial theorem = 1.99999999868) 
+*
+-> h def2-TZVPP
+-> h D(TZVPP)
+*
+h def2-TZVPD
+# HF(equiv) energy is -0.49980983223 a.u.  (virial theorem = 1.99999999868) 
+*
+-> h def2-TZVP
+-> h D(TZVPP)
+*
+h D(QZVPP)
+*
+   1  p
+ 0.84063199228E-01       1.0000000000
+*
+h def2-QZVPPD
+# HF(equiv) energy is -0.49998329779 a.u.  (virial theorem = 1.99999999504) 
+*
+-> h def2-QZVPP
+-> h D(QZVPP)
+*
+h def2-QZVPD
+# HF(equiv) energy is -0.49998329779 a.u.  (virial theorem = 1.99999999504) 
+*
+-> h def2-QZVP
+-> h D(QZVPP)
+*
+h pob-TZVP
+# h    (5s1p) / [3s1p]     {311/1}
+# def2-TZVP quality; reoptimized for periodic calculations
+# Peintinger MF, Oliveira DV, Bredow T;  J.Comput.Chem; Mar. 2013
+*
+   3  s
+  34.061341000      .60251978000E-02
+  5.1235746000      .45021094000E-01
+  1.1646626000      .20189726000
+   1  s
+  0.4157455100      1.0000000000
+   1  s
+  0.1795111000      1.0000000000
+   1  p
+  0.8000000000      1.0000000000
+*
+################################################################################
+$ehtdef   definitions=1
+2S(DZ)   basis=h DZ 
+################################################################################
+$ehtao
+*
+2S(DZ)   ehtdata   (4d20.14)
+# SCF energy is        -.4992784057 a.u.
+#
+     1  s      eigenvalue=-.49927840571435D+00   nsaos=2
+ .58778179482347D+00 .50110716746371D+00
+*
+################################################################################
+$ibodef   definitions=1
+1s(IAO-TZ)   basis=h cc-pVTZ-kernel 
+################################################################################
+$iboao
+*
+1s(IAO-TZ)   ibodata   (4d20.14)
+# SCF energy is        -0.49980981128 a.u.
+#
+     1  s      eigenvalue=-.49980981127897D+00   nsaos=3
+ .23800800744574D+00 .50390378988306D+00 .38342057841421D+00
+$end

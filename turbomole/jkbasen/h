@@ -1,0 +1,147 @@
+$jkbas
+*
+h QZVP
+h QZVPP
+h def2-TZVP
+h dhf-TZVP
+h def2-TZVPP
+h dhf-TZVPP
+h def2-QZVP
+h dhf-QZVP
+h def2-QZVPP
+h dhf-QZVPP
+h dhf-SV(P)
+h dhf-SVP
+h dhf-SV(P)-2c
+h dhf-SVP-2c
+h dhf-TZVP-2c
+h dhf-TZVPP-2c
+h dhf-QZVP-2c
+h dhf-QZVPP-2c
+h def2-SV(P)
+h def2-SVP
+h def-SVP
+h def-SV(P)
+h SVP
+h SV(P)
+h universal
+h small
+# h (4s2p2d) / [2s2p2d]
+# errors per atom /uH for [J+K]-HF(def2-QZVPP):
+# H2:-5
+# ...leading to errors per atom for MP2(-only-)energies:
+# H2:6
+# F. Weigend 07/06 J. Comput. Chem. 29(2), 167-75 (2008)
+*
+    3  s
+       22.0683430000        0.0530339860
+        4.3905712000        0.3946522022
+        1.0540787000        0.9172987712
+    1  s
+        0.2717874000        1.0000000000
+    1  p
+        1.8529979000        1.0000000000
+    1  p
+        0.3881034000        1.0000000000
+    1  d
+        2.5579933000        1.0000000000
+    1  d
+        0.3292649000        1.0000000000
+*
+h TZVPP
+h def-TZVPP
+h aug-cc-pVTZ
+h cc-pVTZ
+h d-aug-cc-pVDZ
+h d-aug-cc-pVTZ
+h cc-pVDZ-F12
+h YP-aug-cc-pVDZ
+*
+-> h corval
+-> h 3P
+*
+h aug-cc-pVQZ
+h cc-pVQZ
+h d-aug-cc-pVQZ
+h cc-pVTZ-F12
+h YP-aug-cc-pVTZ
+*
+-> h corval
+-> h 4P
+*
+h aug-cc-pV5Z
+h cc-pV5Z
+h d-aug-cc-pV5Z
+h cc-pVQZ-F12
+h YP-aug-cc-pVQZ
+h YP-aug-cc-pV5Z
+*
+-> h corval
+-> h 5P
+*
+h corval
+# h     (4s3p2d1f) / [4s3p2d1f]     {1111/111/11/1}
+*
+   1  s
+  9.5302493327       1.0000000000
+   1  s
+  1.9174506246       1.0000000000
+   1  s
+ 0.68424049142       1.0000000000
+   1  s
+ 0.28413255710       1.0000000000
+   1  p
+  2.9133232035       1.0000000000
+   1  p
+  1.2621205398       1.0000000000
+   1  p
+ 0.50199775874       1.0000000000
+*
+h 3P
+*
+   1  d
+   2.3135329149       1.0
+   1  d
+  0.71290724024       1.0
+   1  f
+   1.6565726132       1.0
+*          
+h 4P
+*
+   1  d
+   2.8832083931      1.0
+   1  d
+   1.2801701725      1.0
+   1  d
+  0.52511317770      1.0
+   1  f
+   2.7489448439      1.0
+   1  f
+   1.1900885456      1.0
+   1  g
+   1.4752662714      1.0     
+*
+h 5P
+*
+   1  d
+   4.2855836406      1.0
+   1  d
+   2.1689089187      1.0
+   1  d
+   1.0087901000      1.0
+   1  d
+  0.31898628232      1.0
+   1  f
+   3.3345032342      1.0
+   1  f
+   1.5617226077      1.0
+   1  f
+  0.59378336562      1.0
+   1  g
+   2.6722385645      1.0
+   1  g
+   1.1602620442      1.0
+   1  h
+   2.6004730858      1.0          
+*
+$end

@@ -1,0 +1,1342 @@
+$cbas
+*                                                                               
+te def-SV(P)                                                                    
+te def-SVP                                                                    
+te ecp-46-mwb-SVP
+# te    (7s5p5d4f) / [5s4p3d1f]     {31111/2111/311/4}                          
+# EMP2[H]= -.055700  |EMP2-EMP2(RI)|[uH]=   0  delta[uH]= .003
+# Ref.: Weigend, Hser, Patzelt, Ahlrichs, CPL 294 (1998) 143.
+*                                                                               
+   3  s                                                                         
+    7.66949734            -.15632293                                            
+    3.98169427             .25721347                                            
+    1.91294561             .22389244                                            
+   1  s                                                                         
+     .93512959            1.00000000                                            
+   1  s                                                                         
+     .52173867            1.00000000                                            
+   1  s                                                                         
+     .25549150            1.00000000                                            
+   1  s                                                                         
+     .11649911            1.00000000                                            
+   2  p                                                                         
+    2.55969359            -.36854564                                            
+    1.25120571            1.50083012                                            
+   1  p                                                                         
+     .62869927            1.00000000                                            
+   1  p                                                                         
+     .33030840            1.00000000                                            
+   1  p                                                                         
+     .22784263            1.00000000                                            
+   3  d                                                                         
+    2.39628956             .16773663                                            
+    1.46676341            -.42917418                                            
+     .58928206             .59577170                                            
+   1  d                                                                         
+     .34539588            1.00000000                                            
+   1  d                                                                         
+     .15117481            1.00000000                                            
+   4  f                                                                         
+    3.62561785             .03331116                                            
+    1.14885474            -.68851635                                            
+     .57401868            2.21006849                                            
+     .28805832             .81566043                                            
+*
+*                                                                               
+te def-TZVP                                                                     
+te ecp-46-mwb-TZVP
+# te      (7s5p5d4f) / [7s4p3d1f]     {1111111/2111/311/4}
+# EMP2[H]= -.055942  |EMP2-EMP2(RI)|[uH]=   1  delta[uH]= .007
+# Ref.: Weigend, Hser, Patzelt, Ahlrichs, CPL 294 (1998) 143.
+*                                                                               
+   1  s                                                                         
+    7.66949734            1.00000000                                            
+   1  s                                                                         
+    3.98169427            1.00000000                                            
+   1  s                                                                         
+    1.91294561            1.00000000                                            
+   1  s                                                                         
+     .93512959            1.00000000                                            
+   1  s                                                                         
+     .52173867            1.00000000                                            
+   1  s                                                                         
+     .25549150            1.00000000                                            
+   1  s                                                                         
+     .11649911            1.00000000                                            
+   2  p                                                                         
+    2.55969359            -.36854564                                            
+    1.25120571            1.50083012                                            
+   1  p                                                                         
+     .62869927            1.00000000                                            
+   1  p                                                                         
+     .33030840            1.00000000                                            
+   1  p                                                                         
+     .22784263            1.00000000                                            
+   3  d                                                                         
+    2.39628956             .16773663                                            
+    1.46676341            -.42917418                                            
+     .58928206             .59577170                                            
+   1  d                                                                         
+     .34539588            1.00000000                                            
+   1  d                                                                         
+     .15117481            1.00000000                                            
+   4  f                                                                         
+    3.62561785             .03331116                                            
+    1.14885474            -.68851635                                            
+     .57401868            2.21006849                                            
+     .28805832             .81566043                                            
+*
+*                                                                               
+te def-TZVPP                                                                    
+te ecp-46-mwb-TZVPP
+# te     (7s5p5d4f1g) / [7s5p5d3f1g]     {1111111/11111/11111/211/1}            
+# EMP2[H]= -.076788  |EMP2-EMP2(RI)|[uH]=   4  delta[uH]= .006
+# Ref.: Weigend, Hser, Patzelt, Ahlrichs, CPL 294 (1998) 143.
+*                                                                               
+   1  s                                                                         
+    7.66949734            1.00000000                                            
+   1  s                                                                         
+    3.98169427            1.00000000                                            
+   1  s                                                                         
+    1.91294561            1.00000000                                            
+   1  s                                                                         
+     .93512959            1.00000000                                            
+   1  s                                                                         
+     .52173867            1.00000000                                            
+   1  s                                                                         
+     .25549150            1.00000000                                            
+   1  s                                                                         
+     .11649911            1.00000000                                            
+   1  p                                                                         
+    2.55969359            1.00000000                                            
+   1  p                                                                         
+    1.25120571            1.00000000                                            
+   1  p                                                                         
+     .62869927            1.00000000                                            
+   1  p                                                                         
+     .33030840            1.00000000                                            
+   1  p                                                                         
+     .22784263            1.00000000                                            
+   1  d                                                                         
+    2.39628956            1.00000000                                            
+   1  d                                                                         
+    1.46676341            1.00000000                                            
+   1  d                                                                         
+     .58928206            1.00000000                                            
+   1  d                                                                         
+     .34539588            1.00000000                                            
+   1  d                                                                         
+     .15117481            1.00000000                                            
+   2  f                                                                         
+    3.62561785             .03331116                                            
+    1.14885474            -.68851635                                            
+   1  f                                                                         
+     .57401868            1.00000000                                            
+   1  f                                                                         
+     .28805832            1.00000000                                            
+   1  g                                                                         
+     .56495651            1.00000000                                            
+*
+te ecp-28-mdf-SVP
+te def2-SV(P)
+te def2-SVP
+# te    (9s8p7d4f2g) / [9s8p7d4f2g]     {111111111/11111111/1111111/1111/11}
+#  MP2-energy (RI):    -0.09061644 H
+#  EMP2(RI) - EMP2:    -6.173591   uH
+#  delta/|EMP2|:        0.490700   ppm
+# Ref.: Hellweg, Haettig, Hoefener, Klopper, TCA 117 (2007) 587 
+*
+   1  s
+ 16.5223   1.0
+   1  s
+ 10.1253   1.0
+   1  s
+ 7.31329   1.0
+   1  s
+ 4.10934   1.0
+   1  s
+ 1.30627   1.0
+   1  s
+ 0.699468  1.0
+   1  s
+ 0.359163  1.0
+   1  s
+ 0.146803  1.0
+   1  s
+ 0.105576  1.0
+   1  p
+ 12.2785   1.0
+   1  p
+ 9.14197   1.0
+   1  p
+ 4.19607   1.0
+   1  p
+ 2.45513   1.0
+   1  p
+ 1.27931   1.0
+   1  p
+ 0.465105  1.0
+   1  p
+ 0.302927  1.0
+   1  p
+ 0.156684  1.0
+   1  d
+ 11.4237   1.0
+   1  d
+ 7.24131   1.0
+   1  d
+ 4.36907   1.0
+   1  d
+ 1.74015   1.0
+   1  d
+ 0.814978  1.0
+   1  d
+ 0.447658  1.0
+   1  d
+ 0.2017    1.0
+   1  f
+ 8.36939   1.0
+   1  f
+ 3.65777   1.0
+   1  f
+ 1.55131   1.0
+   1  f
+ 0.426866  1.0
+   1  g
+ 5.34412   1.0
+   1  g
+ 0.872745  1.0
+*
+te ecp-28-mdf-TZVP
+te ecp-28-mdf-TZVPP
+te def2-TZVP
+te def2-TZVPP
+# te    (9s8p8d6f4g3h) / [9s8p8d6f4g3h]     {111111111/11111111/11111111/111111/
+#  MP2-energy (RI):    -0.49443137 H
+#  EMP2(RI) - EMP2:     9.421018   uH
+#  delta/|EMP2|:        0.025884   ppm
+# Ref.: Hellweg, Haettig, Hoefener, Klopper, TCA 117 (2007) 587 
+*
+   1  s
+ 19.5695   1.0
+   1  s
+ 12.2178   1.0
+   1  s
+ 8.78938   1.0
+   1  s
+ 5.24585   1.0
+   1  s
+ 2.50029   1.0
+   1  s
+ 1.10572   1.0
+   1  s
+ 0.535108  1.0
+   1  s
+ 0.222392  1.0
+   1  s
+ 0.127307  1.0
+   1  p
+ 11.4423   1.0
+   1  p
+ 9.37137   1.0
+   1  p
+ 5.73933   1.0
+   1  p
+ 2.29774   1.0
+   1  p
+ 1.45651   1.0
+   1  p
+ 0.535616  1.0
+   1  p
+ 0.358965  1.0
+   1  p
+ 0.19608   1.0
+   1  d
+ 19.738    1.0
+   1  d
+ 10.6859   1.0
+   1  d
+ 4.71851   1.0
+   1  d
+ 2.70353   1.0
+   1  d
+ 1.17369   1.0
+   1  d
+ 0.613205  1.0
+   1  d
+ 0.346479  1.0
+   1  d
+ 0.144392  1.0
+   1  f
+ 11.6969   1.0
+   1  f
+ 5.43947   1.0
+   1  f
+ 2.92138   1.0
+   1  f
+ 1.54884   1.0
+   1  f
+ 0.661474  1.0
+   1  f
+ 0.301639  1.0
+   1  g
+ 7.64542   1.0
+   1  g
+ 3.7079    1.0
+   1  g
+ 1.63669   1.0
+   1  g
+ 0.585258  1.0
+   1  h
+ 5.53584   1.0
+   1  h
+ 3.10074   1.0
+   1  h
+ 1.12162   1.0
+*
+te ecp-28-mdf-QZVPP
+te ecp-28-mdf-QZVP
+te def2-QZVPP
+te def2-QZVP
+# te    (10s10p9d8f6g5h2i) / [10s10p9d8f6g5h2i]     {1111111111/1111111111/11111
+#  MP2-energy (RI):    -0.72243543 H
+#  EMP2(RI) - EMP2:     2.024237   uH
+#  delta/|EMP2|:        0.012087   ppm
+# Ref.: Hellweg, Haettig, Hoefener, Klopper, TCA 117 (2007) 587 
+*
+   1  s
+ 13.2219   1.0
+   1  s
+ 10.7668   1.0
+   1  s
+ 8.2875    1.0
+   1  s
+ 5.43404   1.0
+   1  s
+ 2.18448   1.0
+   1  s
+ 1.2683    1.0
+   1  s
+ 0.870697  1.0
+   1  s
+ 0.23166   1.0
+   1  s
+ 0.390604  1.0
+   1  s
+ 0.107212  1.0
+   1  p
+ 12.4377   1.0
+   1  p
+ 8.70781   1.0
+   1  p
+ 6.43137   1.0
+   1  p
+ 4.40524   1.0
+   1  p
+ 2.70797   1.0
+   1  p
+ 1.76988   1.0
+   1  p
+ 0.769929  1.0
+   1  p
+ 0.505361  1.0
+   1  p
+ 0.283056  1.0
+   1  p
+ 0.161694  1.0
+   1  d
+ 12.6417   1.0
+   1  d
+ 9.72951   1.0
+   1  d
+ 7.01411   1.0
+   1  d
+ 2.87307   1.0
+   1  d
+ 1.68317   1.0
+   1  d
+ 0.797188  1.0
+   1  d
+ 0.505546  1.0
+   1  d
+ 0.279261  1.0
+   1  d
+ 0.137909  1.0
+   1  f
+ 10.4792   1.0
+   1  f
+ 8.87856   1.0
+   1  f
+ 5.00443   1.0
+   1  f
+ 2.76087   1.0
+   1  f
+ 1.61266   1.0
+   1  f
+ 0.704485  1.0
+   1  f
+ 0.415511  1.0
+   1  f
+ 0.211357  1.0
+   1  g
+ 11.3757   1.0
+   1  g
+ 8.5796    1.0
+   1  g
+ 3.71411   1.0
+   1  g
+ 1.74      1.0
+   1  g
+ 0.72675   1.0
+   1  g
+ 0.361325  1.0
+   1  h
+ 9.0838    1.0
+   1  h
+ 5.51815   1.0
+   1  h
+ 3.27263   1.0
+   1  h
+ 1.43741   1.0
+   1  h
+ 0.60616   1.0
+   1  i
+ 2.86018   1.0
+   1  i
+ 1.12366   1.0
+*
+##########################  Peterson DZ sets  ##############################
+*
+te aug-cc-pwCVDZ-PP
+# te (9s10p9d6f5g2h)
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.48684813 H
+#  EMP2(RI) - EMP2:    19.763200   uH
+#  delta/|EMP2|:        0.308325   ppm
+# te anion (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.51142141 H
+#  EMP2(RI) - EMP2:    23.764500   uH
+#  delta/|EMP2|:        0.293455   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pVDZ-PP-kernel
+-> te cc-pwCVDZ-PP-pol
+-> te aug-D-PP
+*
+te cc-pwCVDZ-PP
+# te (8s9p8d5f4g2h)
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.48305409 H
+#  EMP2(RI) - EMP2:    19.050800   uH
+#  delta/|EMP2|:        0.305536   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pVDZ-PP-kernel
+-> te cc-pwCVDZ-PP-pol
+*
+te aug-cc-pVDZ-PP
+# te    (8s7p6d4f3g) / [8s7p6d4f3g]
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.09253097 H
+#  EMP2(RI) - EMP2:    -4.632320   uH
+#  delta/|EMP2|:        0.575272   ppm
+# te anion (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.11734671 H
+#  EMP2(RI) - EMP2:     3.053890   uH
+#  delta/|EMP2|:        0.376254   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pVDZ-PP-kernel
+-> te cc-pVDZ-PP-pol
+-> te aug-D-PP
+*
+te cc-pVDZ-PP
+# te    (7s6p5d3f2g) / [7s6p5d3f2g]    
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.08534847 H
+#  EMP2(RI) - EMP2:    -5.231950   uH
+#  delta/|EMP2|:        0.328683   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pVDZ-PP-kernel
+-> te cc-pVDZ-PP-pol
+*
+te cc-pVDZ-PP-kernel
+# te    (7s6p5d2f2g)
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 12.1585   1.0
+   1  s
+ 6.49705   1.0
+   1  s
+ 3.26893   1.0
+   1  s
+ 1.62439   1.0
+   1  s
+ 0.682626  1.0
+   1  s
+ 0.324765  1.0
+   1  s
+ 0.19832   1.0
+   1  p
+ 5.27076   1.0
+   1  p
+ 4.1193    1.0
+   1  p
+ 2.28247   1.0
+   1  p
+ 0.822411  1.0
+   1  p
+ 0.412041  1.0
+   1  p
+ 0.233658  1.0
+   1  d
+ 10.8411   1.0
+   1  d
+ 3.82242   1.0
+   1  d
+ 1.76753   1.0
+   1  d
+ 0.499653  1.0
+   1  d
+ 0.233846  1.0
+   1  f
+ 4.7486    1.0
+   1  f
+ 0.445022  1.0
+   1  g
+ 5.36289   1.0
+   1  g
+ 0.892606  1.0
+*
+te cc-pVDZ-PP-pol
+# te (1f)
+# polarization function for cc-pVDZ-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  f
+ 1.44098   1.0
+*
+te aug-D-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 0.0538827  1.0
+   1  p
+ 0.105295  1.0
+   1  d
+ 0.081211  1.0
+   1  f
+ 0.185204  1.0
+   1  g
+ 0.460797  1.0
+*
+te cc-pwCVDZ-PP-pol
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 2.30435   1.0
+   1  p
+ 6.74409   1.0
+   1  p
+ 3.0663    1.0
+   1  p
+ 1.37008   1.0
+   1  d
+ 6.43733   1.0
+   1  d
+ 2.59928   1.0
+   1  d
+ 0.939761  1.0
+   1  f
+ 8.62024   1.0
+   1  f
+ 2.15694   1.0
+   1  f
+ 0.979737  1.0
+   1  g
+ 2.94998   1.0
+   1  g
+ 1.6227    1.0
+   1  h
+ 5.87716   1.0
+   1  h
+ 2.92765   1.0
+*
+##########################  Peterson TZ sets  ##############################
+*
+te aug-cc-pwCVTZ-PP
+# te (12s12p11d8f7g4h2i)
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.85531049 H
+#  EMP2(RI) - EMP2:    -1.637730   uH
+#  delta/|EMP2|:        0.028827   ppm
+# te anion (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.88665491 H
+#  EMP2(RI) - EMP2:     0.878729   uH
+#  delta/|EMP2|:        0.034049   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pVTZ-PP-kernel
+-> te cc-pwCVTZ-PP-pol
+-> te aug-T-PP
+*
+te cc-pwCVTZ-PP
+# te (11s11p10d7f6g3h2i)
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.85306611 H
+#  EMP2(RI) - EMP2:    -0.536953   uH
+#  delta/|EMP2|:        0.072030   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pVTZ-PP-kernel
+-> te cc-pwCVTZ-PP-pol
+*
+te aug-cc-pVTZ-PP
+# te    (9s9p8d6f4g2h) / [9s9p8d6f4g2h]
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.17894737 H
+#  EMP2(RI) - EMP2:    -8.120330   uH
+#  delta/|EMP2|:        0.342792   ppm
+# te anion (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.21014985 H
+#  EMP2(RI) - EMP2:    -3.882860   uH
+#  delta/|EMP2|:        0.256520   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pVTZ-PP-kernel
+-> te cc-pVTZ-PP-pol
+-> te aug-T-PP
+*
+te cc-pVTZ-PP
+# te    (8s8p7d5f3g1h) / [8s8p7d5f3g1h]    
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.17179836 H
+#  EMP2(RI) - EMP2:    -6.020190   uH
+#  delta/|EMP2|:        0.250366   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pVTZ-PP-kernel
+-> te cc-pVTZ-PP-pol
+*
+te cc-pVTZ-PP-kernel
+# te    (8s8p7d2f2g1h)
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 14.2933   1.0
+   1  s
+ 8.81546   1.0
+   1  s
+ 5.28805   1.0
+   1  s
+ 3.21674   1.0
+   1  s
+ 1.56404   1.0
+   1  s
+ 0.590092  1.0
+   1  s
+ 0.277354  1.0
+   1  s
+ 0.158089  1.0
+   1  p
+ 14.0547   1.0
+   1  p
+ 8.66336   1.0
+   1  p
+ 4.28562   1.0
+   1  p
+ 2.13145   1.0
+   1  p
+ 1.08881   1.0
+   1  p
+ 0.496923  1.0
+   1  p
+ 0.320908  1.0
+   1  p
+ 0.179071  1.0
+   1  d
+ 9.2824    1.0
+   1  d
+ 4.93902   1.0
+   1  d
+ 2.47158   1.0
+   1  d
+ 1.16785   1.0
+   1  d
+ 0.685598  1.0
+   1  d
+ 0.326297  1.0
+   1  d
+ 0.188322  1.0
+   1  f
+ 0.620921  1.0
+   1  f
+ 0.306397  1.0
+   1  g
+ 1.29378   1.0
+   1  g
+ 0.551634  1.0
+   1  h
+ 1.34146   1.0
+*
+te cc-pVTZ-PP-pol
+# te (3f1g)
+# steep polarization function for cc-pVTZ-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  f
+ 16.1361   1.0
+   1  f
+ 4.88609   1.0
+   1  f
+ 1.68361   1.0
+   1  g
+ 5.42799   1.0
+*
+te aug-T-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 0.0521853  1.0
+   1  p
+ 0.0837172  1.0
+   1  d
+ 0.0701922  1.0
+   1  f
+ 0.128038  1.0
+   1  g
+ 0.240505  1.0
+   1  h
+ 0.43054   1.0
+*
+te cc-pwCVTZ-PP-pol
+# te (3s3p3d5f4g2h2i)
+# polarization function for cc-pVTZ-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 23.175    1.0
+   1  s
+ 4.12435   1.0
+   1  s
+ 2.24301   1.0
+   1  p
+ 22.8012   1.0
+   1  p
+ 3.02235   1.0
+   1  p
+ 1.5234    1.0
+   1  d
+ 17.4454   1.0
+   1  d
+ 3.49388   1.0
+   1  d
+ 1.69895   1.0
+   1  f
+ 11.3275   1.0
+   1  f
+ 6.32507   1.0
+   1  f
+ 4.48254   1.0
+   1  f
+ 2.15993   1.0
+   1  f
+ 1.2276    1.0
+   1  g
+ 13.7182   1.0
+   1  g
+ 6.90236   1.0
+   1  g
+ 3.80824   1.0
+   1  g
+ 2.01217   1.0
+   1  h
+ 7.02701   1.0
+   1  h
+ 2.77651   1.0
+   1  i
+ 4.90304   1.0
+   1  i
+ 2.47477   1.0
+*
+##########################  Peterson QZ sets  ##############################
+*
+te aug-cc-pwCVQZ-PP
+# te (14s13p12d11f9g6h5i2k)
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -1.02060652 H
+#  EMP2(RI) - EMP2:     3.794620   uH
+#  delta/|EMP2|:        0.074522   ppm
+# te anion (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -1.05529687 H
+#  EMP2(RI) - EMP2:     4.729630   uH
+#  delta/|EMP2|:        0.065768   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pVQZ-PP-kernel
+-> te cc-pwCVQZ-PP-pol
+-> te aug-Q-PP
+*
+te cc-pwCVQZ-PP
+# te (13s12p11d10f8g5h4i2k)
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -1.01946903 H
+#  EMP2(RI) - EMP2:     2.597730   uH
+#  delta/|EMP2|:        0.066912   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pVQZ-PP-kernel
+-> te cc-pwCVQZ-PP-pol
+*
+te aug-cc-pVQZ-PP
+# te    (12s12p10d8f6g4h2i) / [12s12p10d8f6g4h2i]
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.26245300 H
+#  EMP2(RI) - EMP2:    -1.654260   uH
+#  delta/|EMP2|:        0.051875   ppm
+# te anion (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.29726317 H
+#  EMP2(RI) - EMP2:    -0.812061   uH
+#  delta/|EMP2|:        0.044336   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pVQZ-PP-kernel
+-> te cc-pVQZ-PP-pol
+-> te aug-Q-PP
+*
+te cc-pVQZ-PP
+# te    (11s11p9d7f5g3h1i) / [11s11p9d7f5g3h1i]    
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.25652055 H
+#  EMP2(RI) - EMP2:    -3.232830   uH
+#  delta/|EMP2|:        0.031163   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pVQZ-PP-kernel
+-> te cc-pVQZ-PP-pol
+*
+te cc-pVQZ-PP-kernel
+# te    (11s9p5d5f5g1h1i)
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 20.4703   1.0
+   1  s
+ 12.9174   1.0
+   1  s
+ 9.05345   1.0
+   1  s
+ 5.85394   1.0
+   1  s
+ 2.89739   1.0
+   1  s
+ 1.70526   1.0
+   1  s
+ 0.880902  1.0
+   1  s
+ 0.567104  1.0
+   1  s
+ 0.342241  1.0
+   1  s
+ 0.200297  1.0
+   1  s
+ 0.0984245  1.0
+   1  p
+ 17.8326   1.0
+   1  p
+ 10.8421   1.0
+   1  p
+ 8.12454   1.0
+   1  p
+ 5.02236   1.0
+   1  p
+ 0.903839  1.0
+   1  p
+ 0.518659  1.0
+   1  p
+ 0.307195  1.0
+   1  p
+ 0.169009  1.0
+   1  p
+ 0.0952814  1.0
+   1  d
+ 14.8163   1.0
+   1  d
+ 0.696169  1.0
+   1  d
+ 0.422079  1.0
+   1  d
+ 0.25464   1.0
+   1  d
+ 0.119298  1.0
+   1  f
+ 10.834    1.0
+   1  f
+ 1.44932   1.0
+   1  f
+ 0.693299  1.0
+   1  f
+ 0.406751  1.0
+   1  f
+ 0.202637  1.0
+   1  g
+ 6.04761   1.0
+   1  g
+ 2.49633   1.0
+   1  g
+ 1.35332   1.0
+   1  g
+ 0.689785  1.0
+   1  g
+ 0.349965  1.0
+   1  h
+ 0.598995  1.0
+   1  i
+ 1.3469    1.0
+*
+te cc-pVQZ-PP-pol
+# te (2p4d2f2h)
+# steep polarization function for cc-pVQZ-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  p
+ 3.2713    1.0
+   1  p
+ 1.77326   1.0
+   1  d
+ 9.60209   1.0
+   1  d
+ 5.47863   1.0
+   1  d
+ 2.35156   1.0
+   1  d
+ 1.15989   1.0
+   1  f
+ 5.59232   1.0
+   1  f
+ 2.53897   1.0
+   1  h
+ 2.60119   1.0
+   1  h
+ 1.22621   1.0
+*
+te aug-Q-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 0.0446872  1.0
+   1  p
+ 0.046873  1.0
+   1  d
+ 0.0579048  1.0
+   1  f
+ 0.101253  1.0
+   1  g
+ 0.16073   1.0
+   1  h
+ 0.289893  1.0
+   1  i
+ 0.668227  1.0
+*
+te cc-pwCVQZ-PP-pol
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 4.11839   1.0
+   1  s
+ 2.22279   1.0
+   1  p
+ 3.27117   1.0
+   1  p
+ 2.13059   1.0
+   1  p
+ 1.3877    1.0
+   1  d
+ 9.87218   1.0
+   1  d
+ 6.34546   1.0
+   1  d
+ 4.07862   1.0
+   1  d
+ 2.62158   1.0
+   1  d
+ 1.68506   1.0
+   1  d
+ 1.08309   1.0
+   1  f
+ 15.8371   1.0
+   1  f
+ 7.24543   1.0
+   1  f
+ 4.8455    1.0
+   1  f
+ 3.24052   1.0
+   1  f
+ 2.16715   1.0
+   1  g
+ 15.6509   1.0
+   1  g
+ 10.4129   1.0
+   1  g
+ 3.88546   1.0
+   1  h
+ 13.2612   1.0
+   1  h
+ 6.26663   1.0
+   1  h
+ 2.75463   1.0
+   1  h
+ 1.61039   1.0
+   1  i
+ 6.92037   1.0
+   1  i
+ 3.30314   1.0
+   1  i
+ 2.00308   1.0
+   1  k
+ 4.14727   1.0
+   1  k
+ 2.33402   1.0
+*
+##########################  Peterson 5Z sets  ##############################
+*
+te aug-cc-pwCV5Z-PP
+# te (17s16p15d13f11g9h7i5k1l)
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -1.09612187 H
+#  EMP2(RI) - EMP2:     0.010708   uH
+#  delta/|EMP2|:        0.017718   ppm
+# te anion (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -1.13221402 H
+#  EMP2(RI) - EMP2:     0.479937   uH
+#  delta/|EMP2|:        0.015794   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pV5Z-PP-kernel
+-> te cc-pwCV5Z-PP-pol
+-> te aug-5-PP
+*
+te cc-pwCV5Z-PP
+# te (16s15p14d12f10g8h6i4k1l)
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -1.09534453 H
+#  EMP2(RI) - EMP2:    -0.318339   uH
+#  delta/|EMP2|:        0.016354   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pV5Z-PP-kernel
+-> te cc-pwCV5Z-PP-pol
+*
+te aug-cc-pV5Z-PP
+# te    (14s13p12d10f8g6h4i2k) / [14s13p12d10f8g6h4i2k]
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.36723203 H
+#  EMP2(RI) - EMP2:    -0.693464   uH
+#  delta/|EMP2|:        0.016128   ppm
+# te anion (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.40358891 H
+#  EMP2(RI) - EMP2:    -0.348317   uH
+#  delta/|EMP2|:        0.015082   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pV5Z-PP-kernel
+-> te cc-pV5Z-PP-pol
+-> te aug-5-PP
+*
+te cc-pV5Z-PP
+# te    (13s12p11d9f7g5h3i1k) / [13s12p11d9f7g5h3i1k]   
+# te atom (1s 2s2p 3s3p in ECP):
+#  MP2-energy (RI):    -0.36287406 H
+#  EMP2(RI) - EMP2:    -1.424240   uH
+#  delta/|EMP2|:        0.007857   ppm
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+-> te cc-pV5Z-PP-kernel
+-> te cc-pV5Z-PP-pol
+*
+te cc-pV5Z-PP-kernel
+# te    ()
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 44.8546   1.0
+   1  s
+ 30.1611   1.0
+   1  s
+ 17.4338   1.0
+   1  s
+ 9.16893   1.0
+   1  s
+ 6.26955   1.0
+   1  s
+ 3.27721   1.0
+   1  s
+ 1.77032   1.0
+   1  s
+ 1.04256   1.0
+   1  s
+ 0.65224   1.0
+   1  s
+ 0.410507  1.0
+   1  s
+ 0.296957  1.0
+   1  s
+ 0.163088  1.0
+   1  s
+ 0.085384  1.0
+   1  p
+ 33.7958   1.0
+   1  p
+ 15.428    1.0
+   1  p
+ 9.08646   1.0
+   1  p
+ 5.62712   1.0
+   1  p
+ 3.00522   1.0
+   1  p
+ 1.76936   1.0
+   1  p
+ 1.04559   1.0
+   1  p
+ 0.659894  1.0
+   1  p
+ 0.446852  1.0
+   1  p
+ 0.284563  1.0
+   1  p
+ 0.149785  1.0
+   1  p
+ 0.0827767  1.0
+   1  d
+ 25.454    1.0
+   1  d
+ 14.4463   1.0
+   1  d
+ 10.1589   1.0
+   1  d
+ 5.23262   1.0
+   1  d
+ 2.69514   1.0
+   1  d
+ 1.32635   1.0
+   1  d
+ 0.825244  1.0
+   1  d
+ 0.57689   1.0
+   1  d
+ 0.403046  1.0
+   1  d
+ 0.222526  1.0
+   1  d
+ 0.0985636  1.0
+   1  f
+ 11.4331   1.0
+   1  f
+ 5.75628   1.0
+   1  f
+ 2.45059   1.0
+   1  f
+ 1.36163   1.0
+   1  f
+ 0.784634  1.0
+   1  f
+ 0.566773  1.0
+   1  f
+ 0.359208  1.0
+   1  f
+ 0.196456  1.0
+   1  g
+ 5.64085   1.0
+   1  g
+ 2.32383   1.0
+   1  g
+ 1.40984   1.0
+   1  g
+ 0.787502  1.0
+   1  g
+ 0.486571  1.0
+   1  g
+ 0.26709   1.0
+   1  h
+ 1.20731   1.0
+   1  h
+ 0.778843  1.0
+   1  h
+ 0.426869  1.0
+   1  i
+ 1.30571   1.0
+   1  i
+ 0.708927  1.0
+   1  k
+ 1.41427   1.0
+*
+te cc-pV5Z-PP-pol
+# te (1f1g2h1i)
+# steep polarization function for cc-pV5Z-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  f
+ 18.8844   1.0
+   1  g
+ 10.0452   1.0
+   1  h
+ 5.39826   1.0
+   1  h
+ 2.33942   1.0
+   1  i
+ 2.6033    1.0
+*
+te aug-5-PP
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 0.037484  1.0
+   1  p
+ 0.0425863  1.0
+   1  d
+ 0.0486538  1.0
+   1  f
+ 0.0859788  1.0
+   1  g
+ 0.130879  1.0
+   1  h
+ 0.213952  1.0
+   1  i
+ 0.391865  1.0
+   1  k
+ 1.05758   1.0
+*
+te cc-pwCV5Z-PP-pol
+# Ref.: C. Haettig, G. Schmitz, J. Kossmann, PCCP 14 (2012) 6549.
+*
+   1  s
+ 12.6432   1.0
+   1  s
+ 4.53284   1.0
+   1  s
+ 2.40867   1.0
+   1  p
+ 22.8342   1.0
+   1  p
+ 11.84     1.0
+   1  p
+ 4.11227   1.0
+   1  d
+ 19.1759   1.0
+   1  d
+ 7.29093   1.0
+   1  d
+ 3.75535   1.0
+   1  f
+ 24.3449   1.0
+   1  f
+ 16.4343   1.0
+   1  f
+ 8.11247   1.0
+   1  f
+ 3.75583   1.0
+   1  g
+ 17.0413   1.0
+   1  g
+ 12.1432   1.0
+   1  g
+ 9.39643   1.0
+   1  g
+ 3.62055   1.0
+   1  h
+ 19.2387   1.0
+   1  h
+ 8.52762   1.0
+   1  h
+ 6.09726   1.0
+   1  h
+ 3.73308   1.0
+   1  h
+ 2.3054    1.0
+   1  i
+ 8.47721   1.0
+   1  i
+ 6.81263   1.0
+   1  i
+ 3.94253   1.0
+   1  i
+ 2.30894   1.0
+   1  k
+ 7.95507   1.0
+   1  k
+ 3.69631   1.0
+   1  k
+ 2.15813   1.0
+   1  l
+ 2.90938   1.0
+*
+###################################################################
+# extensions for the augmented basis sets of Rappoport and Furche #
+###################################################################
+te D(SVP)
+# A.Hellweg 05/12; additional functions for the
+# augmented basis set fitted at the atomic anion
+*
+   1  s
+ 0.0467477  1.0
+   1  p
+ 0.0733663  1.0
+   1  d
+ 0.0697161  1.0
+   1  f
+ 0.147117  1.0
+*
+te def2-SVPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> te def2-SVP
+-> te D(SVP)
+*
+te D(TZVPP)
+# A.Hellweg 05/12; additional functions for the
+# augmented basis set fitted at the atomic anion
+*
+   1  s
+ 0.0388764  1.0
+   1  p
+ 0.0845482  1.0
+   1  d
+ 0.056594  1.0
+   1  f
+ 0.116267  1.0
+*
+te def2-TZVPPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> te def2-TZVPP
+-> te D(TZVPP)
+*
+te def2-TZVPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> te def2-TZVP
+-> te D(TZVPP)
+*
+te D(QZVPP)
+# A.Hellweg 05/12; additional functions for the
+# augmented basis set fitted at the atomic anion
+*
+   1  s
+ 0.0391393  1.0
+   1  p
+ 0.0680988  1.0
+   1  d
+ 0.0538218  1.0
+   1  f
+ 0.0902873  1.0
+*
+te def2-QZVPPD
+# Ref.: A. Hellweg, D. Rappoport, PCCP 17 (2015) 1010 
+*
+-> te def2-QZVPP
+-> te D(QZVPP)
+*
+$end

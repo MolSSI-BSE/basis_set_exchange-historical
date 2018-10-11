@@ -1,0 +1,105 @@
+###########################################################################
+$jbas
+#
+#AUXILIARY BASIS SET FOR He
+#
+#
+*
+###########################################################################
+he universal   
+he def2-SV(P)
+he dhf-SV(P)
+he def2-SVP
+he dhf-SVP
+he def2-TZVP
+he dhf-TZVP
+he def2-TZVPP
+he dhf-TZVPP
+he def2-QZVP
+he dhf-QZVP
+he def2-QZVPP
+he dhf-QZVPP
+he dhf-SV(P)-2c
+he dhf-SVP-2c
+he dhf-TZVP-2c
+he dhf-TZVPP-2c
+he dhf-QZVP-2c
+he dhf-QZVPP-2c
+he x2c-universal
+he x2c-SV(P)all
+he x2c-SV(P)all-2c
+he x2c-SVPall
+he x2c-SVPall-2c
+he x2c-TZVPall
+he x2c-TZVPall-2c
+he x2c-TZVPPall
+he x2c-TZVPPall-2c
+he x2c-QZVPall
+he x2c-QZVPall-2c
+he x2c-QZVPPall
+he x2c-QZVPPall-2c
+he cc-pVDZ
+he cc-pVTZ
+he cc-pVQZ
+he cc-pV5Z
+he aug-cc-pVDZ
+he aug-cc-pVTZ
+he aug-cc-pVQZ
+he aug-cc-pV5Z
+he d-aug-cc-pVDZ
+he d-aug-cc-pVTZ
+he d-aug-cc-pVQZ
+he d-aug-cc-pV5Z
+# he     (5s2p1d) / [3s1p1d]     {311/2/1}
+# F. Weigend 11/2005; Phys. Chem. Chem. Phys. 8: 1057 (2006)
+*
+    3  s
+       50.6720580        0.0651007
+       12.6182260        0.2103093
+        3.8995171        0.3791436
+    1  s
+        1.4088465        0.2938041
+    1  s
+        0.5393970        0.0661606
+    2  p
+        4.0              1.0
+        1.0              1.0
+    1  d
+        4.0              1.0         
+*
+###########################################################################
+he SVP
+he SV(P)
+he def-SVP
+he def-SV(P)
+# he (4s2p)/ [2s2p]  {31/11}
+# RI-J atom energy: -.49894764624              dev(DFT): 0.0004mH
+# RI-J HeH+ :                                  dev(DFT): 0.099 mH
+*
+    3  s
+     37.393930           .109967055D+00
+     6.986690            .375204773D+00
+     1.923445            .418477461D+00
+    1  s
+     0.628757            .108098760D+00
+    1  p
+     3.6002168588        -.355474326D-01
+    1  p
+     1.50009035          -.305239419D-01
+*
+he def2-mTZVP
+# he    (4s2p) / [2s2p]     {31/11}
+*
+   3  s
+  37.393930000      0.10996705500
+  6.9866900000      0.37520477300
+  1.9234450000      0.41847746100
+   1  s
+ 0.62875700000      0.10809876000
+   1  p
+  3.6002168588     -0.35547432600E-01
+   1  p
+  1.5000903500     -0.30523941900E-01
+*
+$end
+###########################################################################
