@@ -1,12 +1,13 @@
 $jkbas
 *
+la def2-SVP
 la def2-TZVP
 la def2-TZVPP
 la def2-QZVP
 la def2-QZVPP
 # la (13s12p11d9f5g3h2i) / [11s9p9d7f4g3h2i]
 # errors per atom /uH for [J+K]-HF(def2-QZVPP):
-# 
+#
 # ...leading to errors per atom for MP2(-only-)energies:
 #
 # F. Weigend 07/06 J. Comput. Chem. accepted (2007)
@@ -16,6 +17,7 @@ la def2-QZVPP
 *
 la def-SVP
 la def-SV(P)
+la def2-SV(P)
 la SVP
 la SV(P)
 la small

@@ -76,7 +76,7 @@ for fname in os.listdir(basen_dir):
 
 
 if not desired_basis in all_basis:
-    raise RuntimeError("basis not found")
+    raise RuntimeError("basis '{}' not found".format(desired_basis))
 
 bas = all_basis[desired_basis]
 
