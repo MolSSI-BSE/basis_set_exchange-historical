@@ -4,9 +4,9 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "pcJ-1_2006",
-    "basis_set_references": [],
     "basis_set_elements": {
         "2": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -83,6 +83,7 @@
             ]
         },
         "5": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -230,6 +231,7 @@
             ]
         },
         "10": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -377,6 +379,7 @@
             ]
         },
         "13": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -594,6 +597,7 @@
             ]
         },
         "18": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

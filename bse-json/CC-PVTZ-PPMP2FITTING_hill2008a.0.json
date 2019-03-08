@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "cc-pVTZ-PP MP2 Fitting",
-    "basis_set_references": [
-        "hill2008a"
-    ],
     "basis_set_elements": {
         "44": {
+            "element_references": [
+                "hill2008a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

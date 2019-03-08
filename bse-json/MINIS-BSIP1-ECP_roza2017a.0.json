@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "MINIs-BSIP1",
-    "basis_set_references": [
-        "roza2017a"
-    ],
     "basis_set_elements": {
         "1": {
+            "element_references": [
+                "roza2017a"
+            ],
             "element_ecp_electrons": 0,
             "element_ecp": [
                 {
@@ -58,6 +58,9 @@
             ]
         },
         "6": {
+            "element_references": [
+                "roza2017a"
+            ],
             "element_ecp_electrons": 0,
             "element_ecp": [
                 {
@@ -121,6 +124,9 @@
             ]
         },
         "7": {
+            "element_references": [
+                "roza2017a"
+            ],
             "element_ecp_electrons": 0,
             "element_ecp": [
                 {
@@ -184,6 +190,9 @@
             ]
         },
         "8": {
+            "element_references": [
+                "roza2017a"
+            ],
             "element_ecp_electrons": 0,
             "element_ecp": [
                 {
@@ -250,6 +259,9 @@
             ]
         },
         "9": {
+            "element_references": [
+                "roza2017a"
+            ],
             "element_ecp_electrons": 0,
             "element_ecp": [
                 {
@@ -313,6 +325,9 @@
             ]
         },
         "15": {
+            "element_references": [
+                "roza2017a"
+            ],
             "element_ecp_electrons": 0,
             "element_ecp": [
                 {
@@ -376,6 +391,9 @@
             ]
         },
         "16": {
+            "element_references": [
+                "roza2017a"
+            ],
             "element_ecp_electrons": 0,
             "element_ecp": [
                 {
@@ -439,6 +457,9 @@
             ]
         },
         "17": {
+            "element_references": [
+                "roza2017a"
+            ],
             "element_ecp_electrons": 0,
             "element_ecp": [
                 {

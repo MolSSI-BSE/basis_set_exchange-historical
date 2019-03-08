@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "SARC-DKH",
-    "basis_set_references": [
-        "pantazis2011a"
-    ],
     "basis_set_elements": {
         "89": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1353,6 +1353,9 @@
             ]
         },
         "90": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2697,6 +2700,9 @@
             ]
         },
         "91": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4041,6 +4047,9 @@
             ]
         },
         "92": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5385,6 +5394,9 @@
             ]
         },
         "93": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6729,6 +6741,9 @@
             ]
         },
         "94": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -8073,6 +8088,9 @@
             ]
         },
         "95": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -9417,6 +9435,9 @@
             ]
         },
         "96": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -10761,6 +10782,9 @@
             ]
         },
         "97": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -12105,6 +12129,9 @@
             ]
         },
         "98": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -13449,6 +13476,9 @@
             ]
         },
         "99": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -14793,6 +14823,9 @@
             ]
         },
         "100": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -16137,6 +16170,9 @@
             ]
         },
         "101": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -17481,6 +17517,9 @@
             ]
         },
         "102": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -18825,6 +18864,9 @@
             ]
         },
         "103": {
+            "element_references": [
+                "pantazis2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

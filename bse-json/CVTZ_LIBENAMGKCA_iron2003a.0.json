@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "CVTZ",
-    "basis_set_references": [
-        "iron2003a"
-    ],
     "basis_set_elements": {
         "3": {
+            "element_references": [
+                "iron2003a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -341,6 +341,9 @@
             ]
         },
         "4": {
+            "element_references": [
+                "iron2003a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -673,6 +676,9 @@
             ]
         },
         "11": {
+            "element_references": [
+                "iron2003a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1373,6 +1379,9 @@
             ]
         },
         "12": {
+            "element_references": [
+                "iron2003a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2049,6 +2058,9 @@
             ]
         },
         "19": {
+            "element_references": [
+                "iron2003a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3261,6 +3273,9 @@
             ]
         },
         "20": {
+            "element_references": [
+                "iron2003a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

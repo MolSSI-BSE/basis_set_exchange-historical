@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "aug-cc-pVDZ-PP Diffuse",
-    "basis_set_references": [
-        "peterson2007a"
-    ],
     "basis_set_elements": {
         "39": {
+            "element_references": [
+                "peterson2007a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -77,6 +77,9 @@
             ]
         },
         "40": {
+            "element_references": [
+                "peterson2007a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -145,6 +148,9 @@
             ]
         },
         "41": {
+            "element_references": [
+                "peterson2007a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -213,6 +219,9 @@
             ]
         },
         "42": {
+            "element_references": [
+                "peterson2007a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -281,6 +290,9 @@
             ]
         },
         "43": {
+            "element_references": [
+                "peterson2007a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -349,6 +361,9 @@
             ]
         },
         "44": {
+            "element_references": [
+                "peterson2007a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -417,6 +432,9 @@
             ]
         },
         "45": {
+            "element_references": [
+                "peterson2007a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

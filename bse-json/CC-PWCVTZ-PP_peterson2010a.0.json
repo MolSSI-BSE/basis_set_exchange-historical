@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "cc-pwCVTZ-PP",
-    "basis_set_references": [
-        "peterson2010a"
-    ],
     "basis_set_elements": {
         "31": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -384,6 +384,9 @@
             ]
         },
         "32": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -759,6 +762,9 @@
             ]
         },
         "33": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1134,6 +1140,9 @@
             ]
         },
         "34": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1509,6 +1518,9 @@
             ]
         },
         "35": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1884,6 +1896,9 @@
             ]
         },
         "36": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2259,6 +2274,9 @@
             ]
         },
         "49": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2650,6 +2668,9 @@
             ]
         },
         "50": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3041,6 +3062,9 @@
             ]
         },
         "51": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3432,6 +3456,9 @@
             ]
         },
         "52": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3823,6 +3850,9 @@
             ]
         },
         "53": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4214,6 +4244,9 @@
             ]
         },
         "54": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4605,6 +4638,9 @@
             ]
         },
         "81": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4990,6 +5026,9 @@
             ]
         },
         "82": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5375,6 +5414,9 @@
             ]
         },
         "83": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5760,6 +5802,9 @@
             ]
         },
         "84": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6145,6 +6190,9 @@
             ]
         },
         "85": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6530,6 +6578,9 @@
             ]
         },
         "86": {
+            "element_references": [
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

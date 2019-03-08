@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "DZQ",
-    "basis_set_references": [
-        "schultz2005a"
-    ],
     "basis_set_elements": {
         "39": {
+            "element_references": [
+                "schultz2005a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -221,6 +221,9 @@
             ]
         },
         "40": {
+            "element_references": [
+                "schultz2005a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -433,6 +436,9 @@
             ]
         },
         "41": {
+            "element_references": [
+                "schultz2005a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -645,6 +651,9 @@
             ]
         },
         "42": {
+            "element_references": [
+                "schultz2005a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -859,6 +868,9 @@
             ]
         },
         "43": {
+            "element_references": [
+                "schultz2005a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1073,6 +1085,9 @@
             ]
         },
         "44": {
+            "element_references": [
+                "schultz2005a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1287,6 +1302,9 @@
             ]
         },
         "45": {
+            "element_references": [
+                "schultz2005a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1501,6 +1519,9 @@
             ]
         },
         "46": {
+            "element_references": [
+                "schultz2005a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1715,6 +1736,9 @@
             ]
         },
         "47": {
+            "element_references": [
+                "schultz2005a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

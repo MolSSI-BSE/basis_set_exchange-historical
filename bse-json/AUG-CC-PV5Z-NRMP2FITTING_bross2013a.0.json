@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "aug-cc-pV5Z-NR MP2 Fitting",
-    "basis_set_references": [
-        "bross2013a"
-    ],
     "basis_set_elements": {
         "21": {
+            "element_references": [
+                "bross2013a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1309,6 +1309,9 @@
             ]
         },
         "22": {
+            "element_references": [
+                "bross2013a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2609,6 +2612,9 @@
             ]
         },
         "23": {
+            "element_references": [
+                "bross2013a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3909,6 +3915,9 @@
             ]
         },
         "24": {
+            "element_references": [
+                "bross2013a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5209,6 +5218,9 @@
             ]
         },
         "25": {
+            "element_references": [
+                "bross2013a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6509,6 +6521,9 @@
             ]
         },
         "26": {
+            "element_references": [
+                "bross2013a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -7809,6 +7824,9 @@
             ]
         },
         "27": {
+            "element_references": [
+                "bross2013a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -9109,6 +9127,9 @@
             ]
         },
         "28": {
+            "element_references": [
+                "bross2013a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -10409,6 +10430,9 @@
             ]
         },
         "29": {
+            "element_references": [
+                "bross2013a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -11709,6 +11733,9 @@
             ]
         },
         "30": {
+            "element_references": [
+                "bross2013a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "V6Z5P   Valence Sextuple Zeta + Polarization on All Atoms",
-    "basis_set_references": [
-        "bauschlicher1994a"
-    ],
     "basis_set_elements": {
         "7": {
+            "element_references": [
+                "bauschlicher1994a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

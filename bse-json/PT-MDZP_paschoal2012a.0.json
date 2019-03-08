@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "Pt - mDZP",
-    "basis_set_references": [
-        "paschoal2012a"
-    ],
     "basis_set_elements": {
         "78": {
+            "element_references": [
+                "paschoal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

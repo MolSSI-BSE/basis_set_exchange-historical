@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "SARC-DKH",
-    "basis_set_references": [
-        "pantazis2012a"
-    ],
     "basis_set_elements": {
         "81": {
+            "element_references": [
+                "pantazis2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1346,6 +1346,9 @@
             ]
         },
         "82": {
+            "element_references": [
+                "pantazis2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2683,6 +2686,9 @@
             ]
         },
         "83": {
+            "element_references": [
+                "pantazis2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4020,6 +4026,9 @@
             ]
         },
         "84": {
+            "element_references": [
+                "pantazis2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5357,6 +5366,9 @@
             ]
         },
         "85": {
+            "element_references": [
+                "pantazis2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6694,6 +6706,9 @@
             ]
         },
         "86": {
+            "element_references": [
+                "pantazis2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

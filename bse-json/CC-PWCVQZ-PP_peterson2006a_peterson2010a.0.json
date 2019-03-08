@@ -4,12 +4,12 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "cc-pwCVQZ-PP",
-    "basis_set_references": [
-        "peterson2006a",
-        "peterson2010a"
-    ],
     "basis_set_elements": {
         "53": {
+            "element_references": [
+                "peterson2006a",
+                "peterson2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

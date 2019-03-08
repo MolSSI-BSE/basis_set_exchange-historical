@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "TZ2P    Triple Zeta + Polarization on All Atoms",
-    "basis_set_references": [
-        "feller1995a"
-    ],
     "basis_set_elements": {
         "19": {
+            "element_references": [
+                "feller1995a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

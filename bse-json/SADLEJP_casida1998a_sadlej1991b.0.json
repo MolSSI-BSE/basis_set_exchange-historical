@@ -4,12 +4,12 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "Sadlej+",
-    "basis_set_references": [
-        "casida1998a",
-        "sadlej1991b"
-    ],
     "basis_set_elements": {
         "1": {
+            "element_references": [
+                "casida1998a",
+                "sadlej1991b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -122,6 +122,10 @@
             ]
         },
         "6": {
+            "element_references": [
+                "casida1998a",
+                "sadlej1991b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -341,6 +345,10 @@
             ]
         },
         "7": {
+            "element_references": [
+                "casida1998a",
+                "sadlej1991b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -560,6 +568,10 @@
             ]
         },
         "8": {
+            "element_references": [
+                "casida1998a",
+                "sadlej1991b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

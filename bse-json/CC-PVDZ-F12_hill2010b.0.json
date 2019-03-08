@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "cc-pVDZ-F12",
-    "basis_set_references": [
-        "hill2010b"
-    ],
     "basis_set_elements": {
         "3": {
+            "element_references": [
+                "hill2010b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -187,6 +187,9 @@
             ]
         },
         "4": {
+            "element_references": [
+                "hill2010b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -365,6 +368,9 @@
             ]
         },
         "11": {
+            "element_references": [
+                "hill2010b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -657,6 +663,9 @@
             ]
         },
         "12": {
+            "element_references": [
+                "hill2010b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

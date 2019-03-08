@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "SDB RLC ECP",
-    "basis_set_references": [
-        "SDB_RLC-ECP-REF"
-    ],
     "basis_set_elements": {
         "31": {
+            "element_references": [
+                "SDB_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -99,6 +99,9 @@
             ]
         },
         "32": {
+            "element_references": [
+                "SDB_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -189,6 +192,9 @@
             ]
         },
         "33": {
+            "element_references": [
+                "SDB_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -279,6 +285,9 @@
             ]
         },
         "34": {
+            "element_references": [
+                "SDB_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -369,6 +378,9 @@
             ]
         },
         "35": {
+            "element_references": [
+                "SDB_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -468,6 +480,9 @@
             ]
         },
         "36": {
+            "element_references": [
+                "SDB_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -587,6 +602,9 @@
             ]
         },
         "49": {
+            "element_references": [
+                "SDB_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {
@@ -683,6 +701,9 @@
             ]
         },
         "50": {
+            "element_references": [
+                "SDB_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {
@@ -779,6 +800,9 @@
             ]
         },
         "51": {
+            "element_references": [
+                "SDB_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {
@@ -875,6 +899,9 @@
             ]
         },
         "52": {
+            "element_references": [
+                "SDB_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {
@@ -971,6 +998,9 @@
             ]
         },
         "53": {
+            "element_references": [
+                "SDB_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {
@@ -1070,6 +1100,9 @@
             ]
         },
         "54": {
+            "element_references": [
+                "SDB_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {

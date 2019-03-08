@@ -4,9 +4,9 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "VDZP    Valence Double Zeta + Polarization on All Atoms",
-    "basis_set_references": [],
     "basis_set_elements": {
         "11": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -207,6 +207,7 @@
             ]
         },
         "12": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -407,6 +408,7 @@
             ]
         },
         "31": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -707,6 +709,7 @@
             ]
         },
         "32": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1007,6 +1010,7 @@
             ]
         },
         "33": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1309,6 +1313,7 @@
             ]
         },
         "34": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1609,6 +1614,7 @@
             ]
         },
         "35": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1909,6 +1915,7 @@
             ]
         },
         "36": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

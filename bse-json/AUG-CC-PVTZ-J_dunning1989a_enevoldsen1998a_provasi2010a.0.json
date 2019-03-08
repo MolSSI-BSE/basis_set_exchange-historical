@@ -4,13 +4,13 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "aug-cc-pVTZ-J",
-    "basis_set_references": [
-        "dunning1989a",
-        "enevoldsen1998a",
-        "provasi2010a"
-    ],
     "basis_set_elements": {
         "5": {
+            "element_references": [
+                "dunning1989a",
+                "enevoldsen1998a",
+                "provasi2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

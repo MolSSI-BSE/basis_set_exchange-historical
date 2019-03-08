@@ -4,12 +4,12 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "pV7Z",
-    "basis_set_references": [
-        "feller1999a",
-        "feller2000a"
-    ],
     "basis_set_elements": {
         "6": {
+            "element_references": [
+                "feller1999a",
+                "feller2000a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -552,6 +552,10 @@
             ]
         },
         "7": {
+            "element_references": [
+                "feller1999a",
+                "feller2000a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1094,6 +1098,10 @@
             ]
         },
         "8": {
+            "element_references": [
+                "feller1999a",
+                "feller2000a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1636,6 +1644,10 @@
             ]
         },
         "9": {
+            "element_references": [
+                "feller1999a",
+                "feller2000a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2178,6 +2190,10 @@
             ]
         },
         "16": {
+            "element_references": [
+                "feller1999a",
+                "feller2000a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

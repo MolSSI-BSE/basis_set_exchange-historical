@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "Stuttgart RLC ECP",
-    "basis_set_references": [
-        "STUTTGART_RLC-ECP-REF"
-    ],
     "basis_set_elements": {
         "3": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 2,
             "element_ecp": [
                 {
@@ -65,6 +65,9 @@
             ]
         },
         "4": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 2,
             "element_ecp": [
                 {
@@ -121,6 +124,9 @@
             ]
         },
         "5": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 2,
             "element_ecp": [
                 {
@@ -194,6 +200,9 @@
             ]
         },
         "6": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 2,
             "element_ecp": [
                 {
@@ -267,6 +276,9 @@
             ]
         },
         "7": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 2,
             "element_ecp": [
                 {
@@ -340,6 +352,9 @@
             ]
         },
         "8": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 2,
             "element_ecp": [
                 {
@@ -413,6 +428,9 @@
             ]
         },
         "9": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 2,
             "element_ecp": [
                 {
@@ -492,6 +510,9 @@
             ]
         },
         "10": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 2,
             "element_ecp": [
                 {
@@ -571,6 +592,9 @@
             ]
         },
         "11": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 10,
             "element_ecp": [
                 {
@@ -644,6 +668,9 @@
             ]
         },
         "12": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 10,
             "element_ecp": [
                 {
@@ -717,6 +744,9 @@
             ]
         },
         "13": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 10,
             "element_ecp": [
                 {
@@ -790,6 +820,9 @@
             ]
         },
         "14": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 10,
             "element_ecp": [
                 {
@@ -863,6 +896,9 @@
             ]
         },
         "15": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 10,
             "element_ecp": [
                 {
@@ -936,6 +972,9 @@
             ]
         },
         "16": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 10,
             "element_ecp": [
                 {
@@ -1009,6 +1048,9 @@
             ]
         },
         "17": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 10,
             "element_ecp": [
                 {
@@ -1088,6 +1130,9 @@
             ]
         },
         "18": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 10,
             "element_ecp": [
                 {
@@ -1187,6 +1232,9 @@
             ]
         },
         "19": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 18,
             "element_ecp": [
                 {
@@ -1260,6 +1308,9 @@
             ]
         },
         "20": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 18,
             "element_ecp": [
                 {
@@ -1333,6 +1384,9 @@
             ]
         },
         "30": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -1415,6 +1469,9 @@
             ]
         },
         "31": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -1505,6 +1562,9 @@
             ]
         },
         "32": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -1595,6 +1655,9 @@
             ]
         },
         "33": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -1685,6 +1748,9 @@
             ]
         },
         "34": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -1775,6 +1841,9 @@
             ]
         },
         "35": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -1874,6 +1943,9 @@
             ]
         },
         "36": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -1993,6 +2065,9 @@
             ]
         },
         "37": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 36,
             "element_ecp": [
                 {
@@ -2066,6 +2141,9 @@
             ]
         },
         "38": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 36,
             "element_ecp": [
                 {
@@ -2139,6 +2217,9 @@
             ]
         },
         "49": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {
@@ -2235,6 +2316,9 @@
             ]
         },
         "50": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {
@@ -2331,6 +2415,9 @@
             ]
         },
         "51": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {
@@ -2427,6 +2514,9 @@
             ]
         },
         "52": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {
@@ -2523,6 +2613,9 @@
             ]
         },
         "53": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {
@@ -2622,6 +2715,9 @@
             ]
         },
         "54": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {
@@ -2741,6 +2837,9 @@
             ]
         },
         "55": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 54,
             "element_ecp": [
                 {
@@ -2814,6 +2913,9 @@
             ]
         },
         "56": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 54,
             "element_ecp": [
                 {
@@ -2887,6 +2989,9 @@
             ]
         },
         "80": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -3006,6 +3111,9 @@
             ]
         },
         "81": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -3125,6 +3233,9 @@
             ]
         },
         "82": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -3244,6 +3355,9 @@
             ]
         },
         "83": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -3363,6 +3477,9 @@
             ]
         },
         "84": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -3482,6 +3599,9 @@
             ]
         },
         "85": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -3601,6 +3721,9 @@
             ]
         },
         "86": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -3720,6 +3843,9 @@
             ]
         },
         "89": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -3854,6 +3980,9 @@
             ]
         },
         "90": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -3988,6 +4117,9 @@
             ]
         },
         "91": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -4122,6 +4254,9 @@
             ]
         },
         "92": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -4256,6 +4391,9 @@
             ]
         },
         "93": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -4390,6 +4528,9 @@
             ]
         },
         "94": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -4524,6 +4665,9 @@
             ]
         },
         "95": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -4658,6 +4802,9 @@
             ]
         },
         "96": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -4792,6 +4939,9 @@
             ]
         },
         "97": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -4926,6 +5076,9 @@
             ]
         },
         "98": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -5060,6 +5213,9 @@
             ]
         },
         "99": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -5194,6 +5350,9 @@
             ]
         },
         "100": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -5328,6 +5487,9 @@
             ]
         },
         "101": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -5462,6 +5624,9 @@
             ]
         },
         "102": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {
@@ -5596,6 +5761,9 @@
             ]
         },
         "103": {
+            "element_references": [
+                "STUTTGART_RLC-ECP-REF"
+            ],
             "element_ecp_electrons": 78,
             "element_ecp": [
                 {

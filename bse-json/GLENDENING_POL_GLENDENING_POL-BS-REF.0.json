@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "1P      Polarization functions",
-    "basis_set_references": [
-        "GLENDENING_POL-BS-REF"
-    ],
     "basis_set_elements": {
         "19": {
+            "element_references": [
+                "GLENDENING_POL-BS-REF"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -29,6 +29,9 @@
             ]
         },
         "37": {
+            "element_references": [
+                "GLENDENING_POL-BS-REF"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -49,6 +52,9 @@
             ]
         },
         "55": {
+            "element_references": [
+                "GLENDENING_POL-BS-REF"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

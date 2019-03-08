@@ -4,12 +4,12 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "aug-cc-pVDZ-PP Diffuse",
-    "basis_set_references": [
-        "peterson2005a",
-        "peterson2007a"
-    ],
     "basis_set_elements": {
         "46": {
+            "element_references": [
+                "peterson2005a",
+                "peterson2007a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

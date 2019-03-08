@@ -4,12 +4,12 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "VQZ3P   Valence Quadruple Zeta + Polarization on All Atoms",
-    "basis_set_references": [
-        "almlof1987a",
-        "bauschlicher1990a"
-    ],
     "basis_set_elements": {
         "1": {
+            "element_references": [
+                "almlof1987a",
+                "bauschlicher1990a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -164,6 +164,10 @@
             ]
         },
         "5": {
+            "element_references": [
+                "almlof1987a",
+                "bauschlicher1990a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -416,6 +420,10 @@
             ]
         },
         "6": {
+            "element_references": [
+                "almlof1987a",
+                "bauschlicher1990a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -668,6 +676,10 @@
             ]
         },
         "7": {
+            "element_references": [
+                "almlof1987a",
+                "bauschlicher1990a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -920,6 +932,10 @@
             ]
         },
         "8": {
+            "element_references": [
+                "almlof1987a",
+                "bauschlicher1990a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1172,6 +1188,10 @@
             ]
         },
         "9": {
+            "element_references": [
+                "almlof1987a",
+                "bauschlicher1990a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1424,6 +1444,10 @@
             ]
         },
         "10": {
+            "element_references": [
+                "almlof1987a",
+                "bauschlicher1990a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1676,6 +1700,10 @@
             ]
         },
         "13": {
+            "element_references": [
+                "almlof1987a",
+                "bauschlicher1990a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2032,6 +2060,10 @@
             ]
         },
         "15": {
+            "element_references": [
+                "almlof1987a",
+                "bauschlicher1990a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2374,6 +2406,10 @@
             ]
         },
         "22": {
+            "element_references": [
+                "almlof1987a",
+                "bauschlicher1990a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2812,6 +2848,10 @@
             ]
         },
         "26": {
+            "element_references": [
+                "almlof1987a",
+                "bauschlicher1990a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3271,6 +3311,10 @@
             ]
         },
         "28": {
+            "element_references": [
+                "almlof1987a",
+                "bauschlicher1990a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

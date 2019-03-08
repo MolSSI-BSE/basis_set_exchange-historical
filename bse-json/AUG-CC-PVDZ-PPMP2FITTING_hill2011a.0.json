@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "aug-cc-pVDZ-PP MP2 Fitting",
-    "basis_set_references": [
-        "hill2011a"
-    ],
     "basis_set_elements": {
         "72": {
+            "element_references": [
+                "hill2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -109,6 +109,9 @@
             ]
         },
         "73": {
+            "element_references": [
+                "hill2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -209,6 +212,9 @@
             ]
         },
         "74": {
+            "element_references": [
+                "hill2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -309,6 +315,9 @@
             ]
         },
         "75": {
+            "element_references": [
+                "hill2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -409,6 +418,9 @@
             ]
         },
         "76": {
+            "element_references": [
+                "hill2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -509,6 +521,9 @@
             ]
         },
         "77": {
+            "element_references": [
+                "hill2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -609,6 +624,9 @@
             ]
         },
         "78": {
+            "element_references": [
+                "hill2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "VQZ3P   Relativistic Valence Quadruple Zeta + Polarization",
-    "basis_set_references": [
-        "woon1993a"
-    ],
     "basis_set_elements": {
         "13": {
+            "element_references": [
+                "woon1993a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -305,6 +305,9 @@
             ]
         },
         "14": {
+            "element_references": [
+                "woon1993a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -601,6 +604,9 @@
             ]
         },
         "15": {
+            "element_references": [
+                "woon1993a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -897,6 +903,9 @@
             ]
         },
         "16": {
+            "element_references": [
+                "woon1993a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1193,6 +1202,9 @@
             ]
         },
         "17": {
+            "element_references": [
+                "woon1993a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1489,6 +1501,9 @@
             ]
         },
         "18": {
+            "element_references": [
+                "woon1993a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

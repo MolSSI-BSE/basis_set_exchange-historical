@@ -4,12 +4,12 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "aug-cc-pVTZ-J",
-    "basis_set_references": [
-        "balabanov2005a",
-        "hedegard2011a"
-    ],
     "basis_set_elements": {
         "21": {
+            "element_references": [
+                "balabanov2005a",
+                "hedegard2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -898,6 +898,10 @@
             ]
         },
         "22": {
+            "element_references": [
+                "balabanov2005a",
+                "hedegard2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1786,6 +1790,10 @@
             ]
         },
         "23": {
+            "element_references": [
+                "balabanov2005a",
+                "hedegard2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2674,6 +2682,10 @@
             ]
         },
         "24": {
+            "element_references": [
+                "balabanov2005a",
+                "hedegard2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3562,6 +3574,10 @@
             ]
         },
         "25": {
+            "element_references": [
+                "balabanov2005a",
+                "hedegard2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4450,6 +4466,10 @@
             ]
         },
         "26": {
+            "element_references": [
+                "balabanov2005a",
+                "hedegard2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5338,6 +5358,10 @@
             ]
         },
         "27": {
+            "element_references": [
+                "balabanov2005a",
+                "hedegard2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6226,6 +6250,10 @@
             ]
         },
         "28": {
+            "element_references": [
+                "balabanov2005a",
+                "hedegard2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -7114,6 +7142,10 @@
             ]
         },
         "29": {
+            "element_references": [
+                "balabanov2005a",
+                "hedegard2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -8002,6 +8034,10 @@
             ]
         },
         "30": {
+            "element_references": [
+                "balabanov2005a",
+                "hedegard2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

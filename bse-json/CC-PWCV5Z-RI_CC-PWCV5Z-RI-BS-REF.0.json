@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "cc-pwCV5Z-RI",
-    "basis_set_references": [
-        "CC-PWCV5Z-RI-BS-REF"
-    ],
     "basis_set_elements": {
         "29": {
+            "element_references": [
+                "CC-PWCV5Z-RI-BS-REF"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1277,6 +1277,9 @@
             ]
         },
         "30": {
+            "element_references": [
+                "CC-PWCV5Z-RI-BS-REF"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2545,6 +2548,9 @@
             ]
         },
         "47": {
+            "element_references": [
+                "CC-PWCV5Z-RI-BS-REF"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3813,6 +3819,9 @@
             ]
         },
         "48": {
+            "element_references": [
+                "CC-PWCV5Z-RI-BS-REF"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5081,6 +5090,9 @@
             ]
         },
         "79": {
+            "element_references": [
+                "CC-PWCV5Z-RI-BS-REF"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6349,6 +6361,9 @@
             ]
         },
         "80": {
+            "element_references": [
+                "CC-PWCV5Z-RI-BS-REF"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

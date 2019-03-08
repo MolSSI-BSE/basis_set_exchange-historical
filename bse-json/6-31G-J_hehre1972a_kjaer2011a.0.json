@@ -4,12 +4,12 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "6-31G-J",
-    "basis_set_references": [
-        "hehre1972a",
-        "kjaer2011a"
-    ],
     "basis_set_elements": {
         "1": {
+            "element_references": [
+                "hehre1972a",
+                "kjaer2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -69,6 +69,10 @@
             ]
         },
         "6": {
+            "element_references": [
+                "hehre1972a",
+                "kjaer2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -219,6 +223,10 @@
             ]
         },
         "7": {
+            "element_references": [
+                "hehre1972a",
+                "kjaer2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -369,6 +377,10 @@
             ]
         },
         "8": {
+            "element_references": [
+                "hehre1972a",
+                "kjaer2011a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

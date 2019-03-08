@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "dhf-ECP",
-    "basis_set_references": [
-        "lim2005a"
-    ],
     "basis_set_elements": {
         "37": {
+            "element_references": [
+                "lim2005a"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {

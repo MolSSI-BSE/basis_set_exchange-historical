@@ -4,9 +4,9 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "DZ      Double Zeta Basis Set designed for an ECP",
-    "basis_set_references": [],
     "basis_set_elements": {
         "11": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -83,6 +83,7 @@
             ]
         },
         "14": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -159,6 +160,7 @@
             ]
         },
         "15": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -235,6 +237,7 @@
             ]
         },
         "16": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -327,6 +330,7 @@
             ]
         },
         "17": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -419,6 +423,7 @@
             ]
         },
         "18": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -623,6 +628,7 @@
             ]
         },
         "19": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -699,6 +705,7 @@
             ]
         },
         "20": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -775,6 +782,7 @@
             ]
         },
         "30": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -861,6 +869,7 @@
             ]
         },
         "31": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -937,6 +946,7 @@
             ]
         },
         "32": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1013,6 +1023,7 @@
             ]
         },
         "33": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1089,6 +1100,7 @@
             ]
         },
         "34": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1181,6 +1193,7 @@
             ]
         },
         "35": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1273,6 +1286,7 @@
             ]
         },
         "36": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1477,6 +1491,7 @@
             ]
         },
         "37": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1553,6 +1568,7 @@
             ]
         },
         "38": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1629,6 +1645,7 @@
             ]
         },
         "49": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1705,6 +1722,7 @@
             ]
         },
         "50": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1781,6 +1799,7 @@
             ]
         },
         "51": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1857,6 +1876,7 @@
             ]
         },
         "52": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1949,6 +1969,7 @@
             ]
         },
         "53": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2041,6 +2062,7 @@
             ]
         },
         "54": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2245,6 +2267,7 @@
             ]
         },
         "55": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2321,6 +2344,7 @@
             ]
         },
         "56": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2397,6 +2421,7 @@
             ]
         },
         "89": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2725,6 +2750,7 @@
             ]
         },
         "90": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3053,6 +3079,7 @@
             ]
         },
         "91": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3381,6 +3408,7 @@
             ]
         },
         "92": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3709,6 +3737,7 @@
             ]
         },
         "93": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4037,6 +4066,7 @@
             ]
         },
         "94": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4365,6 +4395,7 @@
             ]
         },
         "95": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4693,6 +4724,7 @@
             ]
         },
         "96": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5021,6 +5053,7 @@
             ]
         },
         "97": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5349,6 +5382,7 @@
             ]
         },
         "98": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5677,6 +5711,7 @@
             ]
         },
         "99": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6005,6 +6040,7 @@
             ]
         },
         "100": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6333,6 +6369,7 @@
             ]
         },
         "101": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6661,6 +6698,7 @@
             ]
         },
         "102": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6989,6 +7027,7 @@
             ]
         },
         "103": {
+            "element_references": [],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

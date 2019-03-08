@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "Lanl2DZ+1d1f",
-    "basis_set_references": [
-        "roscioni2012a"
-    ],
     "basis_set_elements": {
         "45": {
+            "element_references": [
+                "roscioni2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

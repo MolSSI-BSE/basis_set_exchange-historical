@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "Stuttgart-Koeln MCDHF RSC ECP",
-    "basis_set_references": [
-        "figgen2005a"
-    ],
     "basis_set_elements": {
         "29": {
+            "element_references": [
+                "figgen2005a"
+            ],
             "element_ecp_electrons": 10,
             "element_ecp": [
                 {
@@ -123,6 +123,9 @@
             ]
         },
         "30": {
+            "element_references": [
+                "figgen2005a"
+            ],
             "element_ecp_electrons": 10,
             "element_ecp": [
                 {
@@ -237,6 +240,9 @@
             ]
         },
         "47": {
+            "element_references": [
+                "figgen2005a"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -351,6 +357,9 @@
             ]
         },
         "48": {
+            "element_references": [
+                "figgen2005a"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -465,6 +474,9 @@
             ]
         },
         "79": {
+            "element_references": [
+                "figgen2005a"
+            ],
             "element_ecp_electrons": 60,
             "element_ecp": [
                 {
@@ -599,6 +611,9 @@
             ]
         },
         "80": {
+            "element_references": [
+                "figgen2005a"
+            ],
             "element_ecp_electrons": 60,
             "element_ecp": [
                 {

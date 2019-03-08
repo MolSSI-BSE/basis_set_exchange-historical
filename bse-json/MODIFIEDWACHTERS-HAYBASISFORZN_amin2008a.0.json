@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "B2 basis set for Zn",
-    "basis_set_references": [
-        "amin2008a"
-    ],
     "basis_set_elements": {
         "30": {
+            "element_references": [
+                "amin2008a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

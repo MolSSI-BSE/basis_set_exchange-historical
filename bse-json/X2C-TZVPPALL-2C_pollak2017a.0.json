@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "x2c-TZVPPall-2c",
-    "basis_set_references": [
-        "pollak2017a"
-    ],
     "basis_set_elements": {
         "1": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -89,6 +89,9 @@
             ]
         },
         "2": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -169,6 +172,9 @@
             ]
         },
         "3": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -307,6 +313,9 @@
             ]
         },
         "4": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -449,6 +458,9 @@
             ]
         },
         "5": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -621,6 +633,9 @@
             ]
         },
         "6": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -793,6 +808,9 @@
             ]
         },
         "7": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -965,6 +983,9 @@
             ]
         },
         "8": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1137,6 +1158,9 @@
             ]
         },
         "9": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1309,6 +1333,9 @@
             ]
         },
         "10": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1481,6 +1508,9 @@
             ]
         },
         "11": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1721,6 +1751,9 @@
             ]
         },
         "12": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1961,6 +1994,9 @@
             ]
         },
         "13": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2239,6 +2275,9 @@
             ]
         },
         "14": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2517,6 +2556,9 @@
             ]
         },
         "15": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2795,6 +2837,9 @@
             ]
         },
         "16": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3073,6 +3118,9 @@
             ]
         },
         "17": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3351,6 +3399,9 @@
             ]
         },
         "18": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3629,6 +3680,9 @@
             ]
         },
         "19": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3956,6 +4010,9 @@
             ]
         },
         "20": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4315,6 +4372,9 @@
             ]
         },
         "21": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4733,6 +4793,9 @@
             ]
         },
         "22": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5151,6 +5214,9 @@
             ]
         },
         "23": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5569,6 +5635,9 @@
             ]
         },
         "24": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -5987,6 +6056,9 @@
             ]
         },
         "25": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6405,6 +6477,9 @@
             ]
         },
         "26": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -6823,6 +6898,9 @@
             ]
         },
         "27": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -7241,6 +7319,9 @@
             ]
         },
         "28": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -7659,6 +7740,9 @@
             ]
         },
         "29": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -8077,6 +8161,9 @@
             ]
         },
         "30": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -8495,6 +8582,9 @@
             ]
         },
         "31": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -8896,6 +8986,9 @@
             ]
         },
         "32": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -9297,6 +9390,9 @@
             ]
         },
         "33": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -9706,6 +9802,9 @@
             ]
         },
         "34": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -10115,6 +10214,9 @@
             ]
         },
         "35": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -10524,6 +10626,9 @@
             ]
         },
         "36": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -10933,6 +11038,9 @@
             ]
         },
         "37": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -11635,6 +11743,9 @@
             ]
         },
         "38": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -12337,6 +12448,9 @@
             ]
         },
         "39": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -13047,6 +13161,9 @@
             ]
         },
         "40": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -13757,6 +13874,9 @@
             ]
         },
         "41": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -14467,6 +14587,9 @@
             ]
         },
         "42": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -15177,6 +15300,9 @@
             ]
         },
         "43": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -15887,6 +16013,9 @@
             ]
         },
         "44": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -16597,6 +16726,9 @@
             ]
         },
         "45": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -17307,6 +17439,9 @@
             ]
         },
         "46": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -18017,6 +18152,9 @@
             ]
         },
         "47": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -18727,6 +18865,9 @@
             ]
         },
         "48": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -19437,6 +19578,9 @@
             ]
         },
         "49": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -20095,6 +20239,9 @@
             ]
         },
         "50": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -20753,6 +20900,9 @@
             ]
         },
         "51": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -21411,6 +21561,9 @@
             ]
         },
         "52": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -22069,6 +22222,9 @@
             ]
         },
         "53": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -22727,6 +22883,9 @@
             ]
         },
         "54": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -23385,6 +23544,9 @@
             ]
         },
         "55": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -24402,6 +24564,9 @@
             ]
         },
         "56": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -25419,6 +25584,9 @@
             ]
         },
         "57": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -26476,6 +26644,9 @@
             ]
         },
         "58": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -27560,6 +27731,9 @@
             ]
         },
         "59": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -28644,6 +28818,9 @@
             ]
         },
         "60": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -29728,6 +29905,9 @@
             ]
         },
         "61": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -30812,6 +30992,9 @@
             ]
         },
         "62": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -31896,6 +32079,9 @@
             ]
         },
         "63": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -32980,6 +33166,9 @@
             ]
         },
         "64": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -34064,6 +34253,9 @@
             ]
         },
         "65": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -35148,6 +35340,9 @@
             ]
         },
         "66": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -36232,6 +36427,9 @@
             ]
         },
         "67": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -37316,6 +37514,9 @@
             ]
         },
         "68": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -38400,6 +38601,9 @@
             ]
         },
         "69": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -39484,6 +39688,9 @@
             ]
         },
         "70": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -40568,6 +40775,9 @@
             ]
         },
         "71": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -41629,6 +41839,9 @@
             ]
         },
         "72": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -42694,6 +42907,9 @@
             ]
         },
         "73": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -43759,6 +43975,9 @@
             ]
         },
         "74": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -44824,6 +45043,9 @@
             ]
         },
         "75": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -45889,6 +46111,9 @@
             ]
         },
         "76": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -46954,6 +47179,9 @@
             ]
         },
         "77": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -48019,6 +48247,9 @@
             ]
         },
         "78": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -49084,6 +49315,9 @@
             ]
         },
         "79": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -50149,6 +50383,9 @@
             ]
         },
         "80": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -51214,6 +51451,9 @@
             ]
         },
         "81": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -52244,6 +52484,9 @@
             ]
         },
         "82": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -53274,6 +53517,9 @@
             ]
         },
         "83": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -54304,6 +54550,9 @@
             ]
         },
         "84": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -55334,6 +55583,9 @@
             ]
         },
         "85": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -56364,6 +56616,9 @@
             ]
         },
         "86": {
+            "element_references": [
+                "pollak2017a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

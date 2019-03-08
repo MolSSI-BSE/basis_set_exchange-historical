@@ -4,12 +4,12 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "aug-cc-pVTZ-J",
-    "basis_set_references": [
-        "provasi2001a",
-        "woon1993a"
-    ],
     "basis_set_elements": {
         "16": {
+            "element_references": [
+                "provasi2001a",
+                "woon1993a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "pSBKJC",
-    "basis_set_references": [
-        "vidal2012a"
-    ],
     "basis_set_elements": {
         "6": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -117,6 +117,9 @@
             ]
         },
         "7": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -225,6 +228,9 @@
             ]
         },
         "8": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -333,6 +339,9 @@
             ]
         },
         "9": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -441,6 +450,9 @@
             ]
         },
         "14": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -549,6 +561,9 @@
             ]
         },
         "15": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -657,6 +672,9 @@
             ]
         },
         "16": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -765,6 +783,9 @@
             ]
         },
         "17": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -873,6 +894,9 @@
             ]
         },
         "32": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1005,6 +1029,9 @@
             ]
         },
         "33": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1137,6 +1164,9 @@
             ]
         },
         "34": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1269,6 +1299,9 @@
             ]
         },
         "35": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1401,6 +1434,9 @@
             ]
         },
         "50": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1533,6 +1569,9 @@
             ]
         },
         "51": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1665,6 +1704,9 @@
             ]
         },
         "52": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1797,6 +1839,9 @@
             ]
         },
         "53": {
+            "element_references": [
+                "vidal2012a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

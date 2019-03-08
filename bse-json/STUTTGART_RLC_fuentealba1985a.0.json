@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "DZ      Double Zeta Basis Set designed for an ECP",
-    "basis_set_references": [
-        "fuentealba1985a"
-    ],
     "basis_set_elements": {
         "12": {
+            "element_references": [
+                "fuentealba1985a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

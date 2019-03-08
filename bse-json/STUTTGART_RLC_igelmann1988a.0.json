@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "DZ      Double Zeta Basis Set designed for an ECP",
-    "basis_set_references": [
-        "igelmann1988a"
-    ],
     "basis_set_elements": {
         "13": {
+            "element_references": [
+                "igelmann1988a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

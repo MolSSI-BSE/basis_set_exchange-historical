@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "6-311+G(2d,p)",
-    "basis_set_references": [
-        "frisch1984a"
-    ],
     "basis_set_elements": {
         "2": {
+            "element_references": [
+                "frisch1984a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

@@ -4,12 +4,12 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "dhf-ECP",
-    "basis_set_references": [
-        "lim2005a",
-        "lim2006a"
-    ],
     "basis_set_elements": {
         "38": {
+            "element_references": [
+                "lim2005a",
+                "lim2006a"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -124,6 +124,10 @@
             ]
         },
         "49": {
+            "element_references": [
+                "lim2005a",
+                "lim2006a"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -238,6 +242,10 @@
             ]
         },
         "50": {
+            "element_references": [
+                "lim2005a",
+                "lim2006a"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -352,6 +360,10 @@
             ]
         },
         "51": {
+            "element_references": [
+                "lim2005a",
+                "lim2006a"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -466,6 +478,10 @@
             ]
         },
         "52": {
+            "element_references": [
+                "lim2005a",
+                "lim2006a"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -580,6 +596,10 @@
             ]
         },
         "53": {
+            "element_references": [
+                "lim2005a",
+                "lim2006a"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -703,6 +723,10 @@
             ]
         },
         "54": {
+            "element_references": [
+                "lim2005a",
+                "lim2006a"
+            ],
             "element_ecp_electrons": 28,
             "element_ecp": [
                 {
@@ -832,6 +856,10 @@
             ]
         },
         "55": {
+            "element_references": [
+                "lim2005a",
+                "lim2006a"
+            ],
             "element_ecp_electrons": 46,
             "element_ecp": [
                 {

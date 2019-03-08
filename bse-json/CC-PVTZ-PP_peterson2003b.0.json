@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "cc-pVTZ-PP",
-    "basis_set_references": [
-        "peterson2003b"
-    ],
     "basis_set_elements": {
         "34": {
+            "element_references": [
+                "peterson2003b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -240,6 +240,9 @@
             ]
         },
         "35": {
+            "element_references": [
+                "peterson2003b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -471,6 +474,9 @@
             ]
         },
         "36": {
+            "element_references": [
+                "peterson2003b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -702,6 +708,9 @@
             ]
         },
         "52": {
+            "element_references": [
+                "peterson2003b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -945,6 +954,9 @@
             ]
         },
         "54": {
+            "element_references": [
+                "peterson2003b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1188,6 +1200,9 @@
             ]
         },
         "84": {
+            "element_references": [
+                "peterson2003b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1427,6 +1442,9 @@
             ]
         },
         "85": {
+            "element_references": [
+                "peterson2003b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1666,6 +1684,9 @@
             ]
         },
         "86": {
+            "element_references": [
+                "peterson2003b"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

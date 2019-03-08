@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "cc-pCVDZ-F12_OPTRI",
-    "basis_set_references": [
-        "hill2010a"
-    ],
     "basis_set_elements": {
         "5": {
+            "element_references": [
+                "hill2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -365,6 +365,9 @@
             ]
         },
         "6": {
+            "element_references": [
+                "hill2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -721,6 +724,9 @@
             ]
         },
         "7": {
+            "element_references": [
+                "hill2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1077,6 +1083,9 @@
             ]
         },
         "8": {
+            "element_references": [
+                "hill2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1433,6 +1442,9 @@
             ]
         },
         "9": {
+            "element_references": [
+                "hill2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -1789,6 +1801,9 @@
             ]
         },
         "10": {
+            "element_references": [
+                "hill2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2145,6 +2160,9 @@
             ]
         },
         "13": {
+            "element_references": [
+                "hill2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -2613,6 +2631,9 @@
             ]
         },
         "14": {
+            "element_references": [
+                "hill2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3081,6 +3102,9 @@
             ]
         },
         "15": {
+            "element_references": [
+                "hill2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -3549,6 +3573,9 @@
             ]
         },
         "16": {
+            "element_references": [
+                "hill2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4017,6 +4044,9 @@
             ]
         },
         "17": {
+            "element_references": [
+                "hill2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
@@ -4485,6 +4515,9 @@
             ]
         },
         "18": {
+            "element_references": [
+                "hill2010a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",

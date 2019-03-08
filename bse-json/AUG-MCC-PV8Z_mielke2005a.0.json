@@ -4,11 +4,11 @@
         "schema_version": "0.1"
     },
     "basis_set_description": "aug-mcc-pV8Z",
-    "basis_set_references": [
-        "mielke2005a"
-    ],
     "basis_set_elements": {
         "1": {
+            "element_references": [
+                "mielke2005a"
+            ],
             "element_electron_shells": [
                 {
                     "shell_function_type": "gto",
