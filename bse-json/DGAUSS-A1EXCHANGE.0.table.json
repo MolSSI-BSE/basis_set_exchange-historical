@@ -5,167 +5,59 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "1": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "2": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "3": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "4": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "5": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "6": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "7": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "8": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "9": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "10": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "11": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "12": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "13": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "14": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "15": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "16": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "17": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "18": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "19": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "20": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "21": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "22": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "23": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "24": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "25": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "26": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "27": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "28": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "29": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "30": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "31": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "32": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "33": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "34": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "35": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "36": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "37": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "38": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "39": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "40": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "41": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "42": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "43": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "44": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "45": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "46": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "47": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "48": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "49": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "50": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "51": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "52": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "53": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    },
-    "54": {
-      "element_entry": "DGAUSS-A1EXCHANGE.0.element.json"
-    }
+    "1": "DGAUSS-A1EXCHANGE.0.element.json",
+    "2": "DGAUSS-A1EXCHANGE.0.element.json",
+    "3": "DGAUSS-A1EXCHANGE.0.element.json",
+    "4": "DGAUSS-A1EXCHANGE.0.element.json",
+    "5": "DGAUSS-A1EXCHANGE.0.element.json",
+    "6": "DGAUSS-A1EXCHANGE.0.element.json",
+    "7": "DGAUSS-A1EXCHANGE.0.element.json",
+    "8": "DGAUSS-A1EXCHANGE.0.element.json",
+    "9": "DGAUSS-A1EXCHANGE.0.element.json",
+    "10": "DGAUSS-A1EXCHANGE.0.element.json",
+    "11": "DGAUSS-A1EXCHANGE.0.element.json",
+    "12": "DGAUSS-A1EXCHANGE.0.element.json",
+    "13": "DGAUSS-A1EXCHANGE.0.element.json",
+    "14": "DGAUSS-A1EXCHANGE.0.element.json",
+    "15": "DGAUSS-A1EXCHANGE.0.element.json",
+    "16": "DGAUSS-A1EXCHANGE.0.element.json",
+    "17": "DGAUSS-A1EXCHANGE.0.element.json",
+    "18": "DGAUSS-A1EXCHANGE.0.element.json",
+    "19": "DGAUSS-A1EXCHANGE.0.element.json",
+    "20": "DGAUSS-A1EXCHANGE.0.element.json",
+    "21": "DGAUSS-A1EXCHANGE.0.element.json",
+    "22": "DGAUSS-A1EXCHANGE.0.element.json",
+    "23": "DGAUSS-A1EXCHANGE.0.element.json",
+    "24": "DGAUSS-A1EXCHANGE.0.element.json",
+    "25": "DGAUSS-A1EXCHANGE.0.element.json",
+    "26": "DGAUSS-A1EXCHANGE.0.element.json",
+    "27": "DGAUSS-A1EXCHANGE.0.element.json",
+    "28": "DGAUSS-A1EXCHANGE.0.element.json",
+    "29": "DGAUSS-A1EXCHANGE.0.element.json",
+    "30": "DGAUSS-A1EXCHANGE.0.element.json",
+    "31": "DGAUSS-A1EXCHANGE.0.element.json",
+    "32": "DGAUSS-A1EXCHANGE.0.element.json",
+    "33": "DGAUSS-A1EXCHANGE.0.element.json",
+    "34": "DGAUSS-A1EXCHANGE.0.element.json",
+    "35": "DGAUSS-A1EXCHANGE.0.element.json",
+    "36": "DGAUSS-A1EXCHANGE.0.element.json",
+    "37": "DGAUSS-A1EXCHANGE.0.element.json",
+    "38": "DGAUSS-A1EXCHANGE.0.element.json",
+    "39": "DGAUSS-A1EXCHANGE.0.element.json",
+    "40": "DGAUSS-A1EXCHANGE.0.element.json",
+    "41": "DGAUSS-A1EXCHANGE.0.element.json",
+    "42": "DGAUSS-A1EXCHANGE.0.element.json",
+    "43": "DGAUSS-A1EXCHANGE.0.element.json",
+    "44": "DGAUSS-A1EXCHANGE.0.element.json",
+    "45": "DGAUSS-A1EXCHANGE.0.element.json",
+    "46": "DGAUSS-A1EXCHANGE.0.element.json",
+    "47": "DGAUSS-A1EXCHANGE.0.element.json",
+    "48": "DGAUSS-A1EXCHANGE.0.element.json",
+    "49": "DGAUSS-A1EXCHANGE.0.element.json",
+    "50": "DGAUSS-A1EXCHANGE.0.element.json",
+    "51": "DGAUSS-A1EXCHANGE.0.element.json",
+    "52": "DGAUSS-A1EXCHANGE.0.element.json",
+    "53": "DGAUSS-A1EXCHANGE.0.element.json",
+    "54": "DGAUSS-A1EXCHANGE.0.element.json"
   }
 }

@@ -5,23 +5,11 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "29": {
-      "element_entry": "AUG-CC-PWCVDZ-PP_OPTRI.0.element.json"
-    },
-    "30": {
-      "element_entry": "AUG-CC-PWCVDZ-PP_OPTRI.0.element.json"
-    },
-    "47": {
-      "element_entry": "AUG-CC-PWCVDZ-PP_OPTRI.0.element.json"
-    },
-    "48": {
-      "element_entry": "AUG-CC-PWCVDZ-PP_OPTRI.0.element.json"
-    },
-    "79": {
-      "element_entry": "AUG-CC-PWCVDZ-PP_OPTRI.0.element.json"
-    },
-    "80": {
-      "element_entry": "AUG-CC-PWCVDZ-PP_OPTRI.0.element.json"
-    }
+    "29": "AUG-CC-PWCVDZ-PP_OPTRI.0.element.json",
+    "30": "AUG-CC-PWCVDZ-PP_OPTRI.0.element.json",
+    "47": "AUG-CC-PWCVDZ-PP_OPTRI.0.element.json",
+    "48": "AUG-CC-PWCVDZ-PP_OPTRI.0.element.json",
+    "79": "AUG-CC-PWCVDZ-PP_OPTRI.0.element.json",
+    "80": "AUG-CC-PWCVDZ-PP_OPTRI.0.element.json"
   }
 }

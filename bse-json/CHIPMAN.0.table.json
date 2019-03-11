@@ -5,23 +5,11 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "1": {
-      "element_entry": "CHIPMAN.0.element.json"
-    },
-    "5": {
-      "element_entry": "CHIPMAN.0.element.json"
-    },
-    "6": {
-      "element_entry": "CHIPMAN.0.element.json"
-    },
-    "7": {
-      "element_entry": "CHIPMAN.0.element.json"
-    },
-    "8": {
-      "element_entry": "CHIPMAN.0.element.json"
-    },
-    "9": {
-      "element_entry": "CHIPMAN.0.element.json"
-    }
+    "1": "CHIPMAN.0.element.json",
+    "5": "CHIPMAN.0.element.json",
+    "6": "CHIPMAN.0.element.json",
+    "7": "CHIPMAN.0.element.json",
+    "8": "CHIPMAN.0.element.json",
+    "9": "CHIPMAN.0.element.json"
   }
 }

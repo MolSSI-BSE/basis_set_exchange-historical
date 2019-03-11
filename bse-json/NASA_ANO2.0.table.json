@@ -5,14 +5,8 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "21": {
-      "element_entry": "NASA_ANO2.0.element.json"
-    },
-    "22": {
-      "element_entry": "NASA_ANO2.0.element.json"
-    },
-    "23": {
-      "element_entry": "NASA_ANO2.0.element.json"
-    }
+    "21": "NASA_ANO2.0.element.json",
+    "22": "NASA_ANO2.0.element.json",
+    "23": "NASA_ANO2.0.element.json"
   }
 }

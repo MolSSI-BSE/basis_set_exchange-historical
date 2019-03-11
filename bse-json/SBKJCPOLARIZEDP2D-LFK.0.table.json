@@ -5,122 +5,44 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "1": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "2": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "3": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "4": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "5": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "6": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "7": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "8": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "9": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "10": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "11": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "12": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "13": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "14": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "15": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "16": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "17": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "18": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "19": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "20": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "32": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "33": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "34": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "35": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "36": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "37": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "38": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "50": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "51": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "52": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "53": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "54": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "55": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "56": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "82": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "83": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "84": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "85": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    },
-    "86": {
-      "element_entry": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
-    }
+    "1": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "2": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "3": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "4": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "5": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "6": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "7": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "8": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "9": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "10": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "11": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "12": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "13": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "14": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "15": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "16": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "17": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "18": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "19": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "20": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "32": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "33": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "34": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "35": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "36": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "37": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "38": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "50": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "51": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "52": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "53": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "54": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "55": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "56": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "82": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "83": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "84": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "85": "SBKJCPOLARIZEDP2D-LFK.0.element.json",
+    "86": "SBKJCPOLARIZEDP2D-LFK.0.element.json"
   }
 }

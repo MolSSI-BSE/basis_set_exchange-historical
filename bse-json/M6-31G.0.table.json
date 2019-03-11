@@ -5,32 +5,14 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "21": {
-      "element_entry": "M6-31G.0.element.json"
-    },
-    "22": {
-      "element_entry": "M6-31G.0.element.json"
-    },
-    "23": {
-      "element_entry": "M6-31G.0.element.json"
-    },
-    "24": {
-      "element_entry": "M6-31G.0.element.json"
-    },
-    "25": {
-      "element_entry": "M6-31G.0.element.json"
-    },
-    "26": {
-      "element_entry": "M6-31G.0.element.json"
-    },
-    "27": {
-      "element_entry": "M6-31G.0.element.json"
-    },
-    "28": {
-      "element_entry": "M6-31G.0.element.json"
-    },
-    "29": {
-      "element_entry": "M6-31G.0.element.json"
-    }
+    "21": "M6-31G.0.element.json",
+    "22": "M6-31G.0.element.json",
+    "23": "M6-31G.0.element.json",
+    "24": "M6-31G.0.element.json",
+    "25": "M6-31G.0.element.json",
+    "26": "M6-31G.0.element.json",
+    "27": "M6-31G.0.element.json",
+    "28": "M6-31G.0.element.json",
+    "29": "M6-31G.0.element.json"
   }
 }

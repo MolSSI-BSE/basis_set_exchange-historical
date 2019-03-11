@@ -5,23 +5,11 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "1": {
-      "element_entry": "CC-PVTPDZP.0.element.json"
-    },
-    "6": {
-      "element_entry": "CC-PVTPDZP.0.element.json"
-    },
-    "7": {
-      "element_entry": "CC-PVTPDZP.0.element.json"
-    },
-    "8": {
-      "element_entry": "CC-PVTPDZP.0.element.json"
-    },
-    "16": {
-      "element_entry": "CC-PVTPDZP.0.element.json"
-    },
-    "17": {
-      "element_entry": "CC-PVTPDZP.0.element.json"
-    }
+    "1": "CC-PVTPDZP.0.element.json",
+    "6": "CC-PVTPDZP.0.element.json",
+    "7": "CC-PVTPDZP.0.element.json",
+    "8": "CC-PVTPDZP.0.element.json",
+    "16": "CC-PVTPDZP.0.element.json",
+    "17": "CC-PVTPDZP.0.element.json"
   }
 }

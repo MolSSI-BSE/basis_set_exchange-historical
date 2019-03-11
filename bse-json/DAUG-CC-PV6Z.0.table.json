@@ -5,20 +5,10 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "1": {
-      "element_entry": "DAUG-CC-PV6Z.0.element.json"
-    },
-    "5": {
-      "element_entry": "DAUG-CC-PV6Z.0.element.json"
-    },
-    "6": {
-      "element_entry": "DAUG-CC-PV6Z.0.element.json"
-    },
-    "7": {
-      "element_entry": "DAUG-CC-PV6Z.0.element.json"
-    },
-    "8": {
-      "element_entry": "DAUG-CC-PV6Z.0.element.json"
-    }
+    "1": "DAUG-CC-PV6Z.0.element.json",
+    "5": "DAUG-CC-PV6Z.0.element.json",
+    "6": "DAUG-CC-PV6Z.0.element.json",
+    "7": "DAUG-CC-PV6Z.0.element.json",
+    "8": "DAUG-CC-PV6Z.0.element.json"
   }
 }

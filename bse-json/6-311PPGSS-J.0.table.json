@@ -5,17 +5,9 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "1": {
-      "element_entry": "6-311PPGSS-J.0.element.json"
-    },
-    "6": {
-      "element_entry": "6-311PPGSS-J.0.element.json"
-    },
-    "7": {
-      "element_entry": "6-311PPGSS-J.0.element.json"
-    },
-    "8": {
-      "element_entry": "6-311PPGSS-J.0.element.json"
-    }
+    "1": "6-311PPGSS-J.0.element.json",
+    "6": "6-311PPGSS-J.0.element.json",
+    "7": "6-311PPGSS-J.0.element.json",
+    "8": "6-311PPGSS-J.0.element.json"
   }
 }

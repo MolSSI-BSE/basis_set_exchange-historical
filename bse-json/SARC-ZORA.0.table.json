@@ -5,140 +5,50 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "57": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "58": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "59": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "60": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "61": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "62": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "63": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "64": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "65": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "66": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "67": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "68": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "69": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "70": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "71": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "72": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "73": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "74": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "75": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "76": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "77": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "78": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "79": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "80": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "81": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "82": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "83": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "84": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "85": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "86": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "89": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "90": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "91": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "92": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "93": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "94": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "95": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "96": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "97": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "98": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "99": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "100": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "101": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "102": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    },
-    "103": {
-      "element_entry": "SARC-ZORA.0.element.json"
-    }
+    "57": "SARC-ZORA.0.element.json",
+    "58": "SARC-ZORA.0.element.json",
+    "59": "SARC-ZORA.0.element.json",
+    "60": "SARC-ZORA.0.element.json",
+    "61": "SARC-ZORA.0.element.json",
+    "62": "SARC-ZORA.0.element.json",
+    "63": "SARC-ZORA.0.element.json",
+    "64": "SARC-ZORA.0.element.json",
+    "65": "SARC-ZORA.0.element.json",
+    "66": "SARC-ZORA.0.element.json",
+    "67": "SARC-ZORA.0.element.json",
+    "68": "SARC-ZORA.0.element.json",
+    "69": "SARC-ZORA.0.element.json",
+    "70": "SARC-ZORA.0.element.json",
+    "71": "SARC-ZORA.0.element.json",
+    "72": "SARC-ZORA.0.element.json",
+    "73": "SARC-ZORA.0.element.json",
+    "74": "SARC-ZORA.0.element.json",
+    "75": "SARC-ZORA.0.element.json",
+    "76": "SARC-ZORA.0.element.json",
+    "77": "SARC-ZORA.0.element.json",
+    "78": "SARC-ZORA.0.element.json",
+    "79": "SARC-ZORA.0.element.json",
+    "80": "SARC-ZORA.0.element.json",
+    "81": "SARC-ZORA.0.element.json",
+    "82": "SARC-ZORA.0.element.json",
+    "83": "SARC-ZORA.0.element.json",
+    "84": "SARC-ZORA.0.element.json",
+    "85": "SARC-ZORA.0.element.json",
+    "86": "SARC-ZORA.0.element.json",
+    "89": "SARC-ZORA.0.element.json",
+    "90": "SARC-ZORA.0.element.json",
+    "91": "SARC-ZORA.0.element.json",
+    "92": "SARC-ZORA.0.element.json",
+    "93": "SARC-ZORA.0.element.json",
+    "94": "SARC-ZORA.0.element.json",
+    "95": "SARC-ZORA.0.element.json",
+    "96": "SARC-ZORA.0.element.json",
+    "97": "SARC-ZORA.0.element.json",
+    "98": "SARC-ZORA.0.element.json",
+    "99": "SARC-ZORA.0.element.json",
+    "100": "SARC-ZORA.0.element.json",
+    "101": "SARC-ZORA.0.element.json",
+    "102": "SARC-ZORA.0.element.json",
+    "103": "SARC-ZORA.0.element.json"
   }
 }

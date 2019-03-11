@@ -5,104 +5,38 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "19": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "20": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "21": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "22": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "23": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "24": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "25": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "26": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "27": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "28": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "29": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "37": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "38": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "39": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "40": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "41": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "42": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "43": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "44": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "45": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "46": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "47": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "55": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "56": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "57": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "72": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "73": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "74": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "75": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "76": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "77": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "78": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    },
-    "79": {
-      "element_entry": "HAY-WADT2-ECP.0.element.json"
-    }
+    "19": "HAY-WADT2-ECP.0.element.json",
+    "20": "HAY-WADT2-ECP.0.element.json",
+    "21": "HAY-WADT2-ECP.0.element.json",
+    "22": "HAY-WADT2-ECP.0.element.json",
+    "23": "HAY-WADT2-ECP.0.element.json",
+    "24": "HAY-WADT2-ECP.0.element.json",
+    "25": "HAY-WADT2-ECP.0.element.json",
+    "26": "HAY-WADT2-ECP.0.element.json",
+    "27": "HAY-WADT2-ECP.0.element.json",
+    "28": "HAY-WADT2-ECP.0.element.json",
+    "29": "HAY-WADT2-ECP.0.element.json",
+    "37": "HAY-WADT2-ECP.0.element.json",
+    "38": "HAY-WADT2-ECP.0.element.json",
+    "39": "HAY-WADT2-ECP.0.element.json",
+    "40": "HAY-WADT2-ECP.0.element.json",
+    "41": "HAY-WADT2-ECP.0.element.json",
+    "42": "HAY-WADT2-ECP.0.element.json",
+    "43": "HAY-WADT2-ECP.0.element.json",
+    "44": "HAY-WADT2-ECP.0.element.json",
+    "45": "HAY-WADT2-ECP.0.element.json",
+    "46": "HAY-WADT2-ECP.0.element.json",
+    "47": "HAY-WADT2-ECP.0.element.json",
+    "55": "HAY-WADT2-ECP.0.element.json",
+    "56": "HAY-WADT2-ECP.0.element.json",
+    "57": "HAY-WADT2-ECP.0.element.json",
+    "72": "HAY-WADT2-ECP.0.element.json",
+    "73": "HAY-WADT2-ECP.0.element.json",
+    "74": "HAY-WADT2-ECP.0.element.json",
+    "75": "HAY-WADT2-ECP.0.element.json",
+    "76": "HAY-WADT2-ECP.0.element.json",
+    "77": "HAY-WADT2-ECP.0.element.json",
+    "78": "HAY-WADT2-ECP.0.element.json",
+    "79": "HAY-WADT2-ECP.0.element.json"
   }
 }

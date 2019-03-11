@@ -5,23 +5,11 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "3": {
-      "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
-    },
-    "4": {
-      "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
-    },
-    "11": {
-      "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
-    },
-    "12": {
-      "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
-    },
-    "19": {
-      "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
-    },
-    "20": {
-      "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
-    }
+    "3": "CVTZ_LIBENAMGKCA.0.element.json",
+    "4": "CVTZ_LIBENAMGKCA.0.element.json",
+    "11": "CVTZ_LIBENAMGKCA.0.element.json",
+    "12": "CVTZ_LIBENAMGKCA.0.element.json",
+    "19": "CVTZ_LIBENAMGKCA.0.element.json",
+    "20": "CVTZ_LIBENAMGKCA.0.element.json"
   }
 }

@@ -5,11 +5,7 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "22": {
-      "element_entry": "NASA_CC-PV5Z.0.element.json"
-    },
-    "26": {
-      "element_entry": "NASA_CC-PV5Z.0.element.json"
-    }
+    "22": "NASA_CC-PV5Z.0.element.json",
+    "26": "NASA_CC-PV5Z.0.element.json"
   }
 }

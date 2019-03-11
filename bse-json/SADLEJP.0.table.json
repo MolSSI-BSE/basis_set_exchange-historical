@@ -5,17 +5,9 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "1": {
-      "element_entry": "SADLEJP.0.element.json"
-    },
-    "6": {
-      "element_entry": "SADLEJP.0.element.json"
-    },
-    "7": {
-      "element_entry": "SADLEJP.0.element.json"
-    },
-    "8": {
-      "element_entry": "SADLEJP.0.element.json"
-    }
+    "1": "SADLEJP.0.element.json",
+    "6": "SADLEJP.0.element.json",
+    "7": "SADLEJP.0.element.json",
+    "8": "SADLEJP.0.element.json"
   }
 }

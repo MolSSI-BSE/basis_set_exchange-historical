@@ -5,110 +5,40 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "1": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "2": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "3": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "4": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "5": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "6": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "7": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "8": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "9": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "10": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "11": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "12": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "13": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "14": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "15": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "16": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "17": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "18": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "19": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "20": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "31": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "32": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "33": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "34": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "35": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "36": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "37": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "38": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "49": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "50": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "51": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "52": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "53": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "54": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    },
-    "78": {
-      "element_entry": "NMR-DKHTZ2P.0.element.json"
-    }
+    "1": "NMR-DKHTZ2P.0.element.json",
+    "2": "NMR-DKHTZ2P.0.element.json",
+    "3": "NMR-DKHTZ2P.0.element.json",
+    "4": "NMR-DKHTZ2P.0.element.json",
+    "5": "NMR-DKHTZ2P.0.element.json",
+    "6": "NMR-DKHTZ2P.0.element.json",
+    "7": "NMR-DKHTZ2P.0.element.json",
+    "8": "NMR-DKHTZ2P.0.element.json",
+    "9": "NMR-DKHTZ2P.0.element.json",
+    "10": "NMR-DKHTZ2P.0.element.json",
+    "11": "NMR-DKHTZ2P.0.element.json",
+    "12": "NMR-DKHTZ2P.0.element.json",
+    "13": "NMR-DKHTZ2P.0.element.json",
+    "14": "NMR-DKHTZ2P.0.element.json",
+    "15": "NMR-DKHTZ2P.0.element.json",
+    "16": "NMR-DKHTZ2P.0.element.json",
+    "17": "NMR-DKHTZ2P.0.element.json",
+    "18": "NMR-DKHTZ2P.0.element.json",
+    "19": "NMR-DKHTZ2P.0.element.json",
+    "20": "NMR-DKHTZ2P.0.element.json",
+    "31": "NMR-DKHTZ2P.0.element.json",
+    "32": "NMR-DKHTZ2P.0.element.json",
+    "33": "NMR-DKHTZ2P.0.element.json",
+    "34": "NMR-DKHTZ2P.0.element.json",
+    "35": "NMR-DKHTZ2P.0.element.json",
+    "36": "NMR-DKHTZ2P.0.element.json",
+    "37": "NMR-DKHTZ2P.0.element.json",
+    "38": "NMR-DKHTZ2P.0.element.json",
+    "49": "NMR-DKHTZ2P.0.element.json",
+    "50": "NMR-DKHTZ2P.0.element.json",
+    "51": "NMR-DKHTZ2P.0.element.json",
+    "52": "NMR-DKHTZ2P.0.element.json",
+    "53": "NMR-DKHTZ2P.0.element.json",
+    "54": "NMR-DKHTZ2P.0.element.json",
+    "78": "NMR-DKHTZ2P.0.element.json"
   }
 }

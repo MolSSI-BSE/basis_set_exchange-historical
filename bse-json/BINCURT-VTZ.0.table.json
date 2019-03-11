@@ -5,23 +5,11 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "31": {
-      "element_entry": "BINCURT-VTZ.0.element.json"
-    },
-    "32": {
-      "element_entry": "BINCURT-VTZ.0.element.json"
-    },
-    "33": {
-      "element_entry": "BINCURT-VTZ.0.element.json"
-    },
-    "34": {
-      "element_entry": "BINCURT-VTZ.0.element.json"
-    },
-    "35": {
-      "element_entry": "BINCURT-VTZ.0.element.json"
-    },
-    "36": {
-      "element_entry": "BINCURT-VTZ.0.element.json"
-    }
+    "31": "BINCURT-VTZ.0.element.json",
+    "32": "BINCURT-VTZ.0.element.json",
+    "33": "BINCURT-VTZ.0.element.json",
+    "34": "BINCURT-VTZ.0.element.json",
+    "35": "BINCURT-VTZ.0.element.json",
+    "36": "BINCURT-VTZ.0.element.json"
   }
 }

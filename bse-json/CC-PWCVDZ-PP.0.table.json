@@ -5,122 +5,44 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "29": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "30": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "31": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "32": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "33": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "34": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "35": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "36": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "39": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "40": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "41": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "42": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "43": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "44": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "45": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "46": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "47": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "48": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "49": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "50": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "51": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "52": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "53": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "54": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "72": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "73": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "74": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "75": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "76": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "77": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "78": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "79": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "80": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "81": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "82": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "83": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "84": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "85": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    },
-    "86": {
-      "element_entry": "CC-PWCVDZ-PP.0.element.json"
-    }
+    "29": "CC-PWCVDZ-PP.0.element.json",
+    "30": "CC-PWCVDZ-PP.0.element.json",
+    "31": "CC-PWCVDZ-PP.0.element.json",
+    "32": "CC-PWCVDZ-PP.0.element.json",
+    "33": "CC-PWCVDZ-PP.0.element.json",
+    "34": "CC-PWCVDZ-PP.0.element.json",
+    "35": "CC-PWCVDZ-PP.0.element.json",
+    "36": "CC-PWCVDZ-PP.0.element.json",
+    "39": "CC-PWCVDZ-PP.0.element.json",
+    "40": "CC-PWCVDZ-PP.0.element.json",
+    "41": "CC-PWCVDZ-PP.0.element.json",
+    "42": "CC-PWCVDZ-PP.0.element.json",
+    "43": "CC-PWCVDZ-PP.0.element.json",
+    "44": "CC-PWCVDZ-PP.0.element.json",
+    "45": "CC-PWCVDZ-PP.0.element.json",
+    "46": "CC-PWCVDZ-PP.0.element.json",
+    "47": "CC-PWCVDZ-PP.0.element.json",
+    "48": "CC-PWCVDZ-PP.0.element.json",
+    "49": "CC-PWCVDZ-PP.0.element.json",
+    "50": "CC-PWCVDZ-PP.0.element.json",
+    "51": "CC-PWCVDZ-PP.0.element.json",
+    "52": "CC-PWCVDZ-PP.0.element.json",
+    "53": "CC-PWCVDZ-PP.0.element.json",
+    "54": "CC-PWCVDZ-PP.0.element.json",
+    "72": "CC-PWCVDZ-PP.0.element.json",
+    "73": "CC-PWCVDZ-PP.0.element.json",
+    "74": "CC-PWCVDZ-PP.0.element.json",
+    "75": "CC-PWCVDZ-PP.0.element.json",
+    "76": "CC-PWCVDZ-PP.0.element.json",
+    "77": "CC-PWCVDZ-PP.0.element.json",
+    "78": "CC-PWCVDZ-PP.0.element.json",
+    "79": "CC-PWCVDZ-PP.0.element.json",
+    "80": "CC-PWCVDZ-PP.0.element.json",
+    "81": "CC-PWCVDZ-PP.0.element.json",
+    "82": "CC-PWCVDZ-PP.0.element.json",
+    "83": "CC-PWCVDZ-PP.0.element.json",
+    "84": "CC-PWCVDZ-PP.0.element.json",
+    "85": "CC-PWCVDZ-PP.0.element.json",
+    "86": "CC-PWCVDZ-PP.0.element.json"
   }
 }

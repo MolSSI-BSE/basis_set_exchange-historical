@@ -5,29 +5,13 @@
   },
   "revision_description": "Data from the original Basis Set Exchange",
   "elements": {
-    "2": {
-      "element_entry": "DUNHAYPOL.0.element.json"
-    },
-    "5": {
-      "element_entry": "SVPPRYDBERGDUNNING-HAY-AGG.0.element.json"
-    },
-    "6": {
-      "element_entry": "SVPPRYDBERGDUNNING-HAY-AGG.0.element.json"
-    },
-    "7": {
-      "element_entry": "SVPPRYDBERGDUNNING-HAY-AGG.0.element.json"
-    },
-    "8": {
-      "element_entry": "SVPPRYDBERGDUNNING-HAY-AGG.0.element.json"
-    },
-    "9": {
-      "element_entry": "SVPPRYDBERGDUNNING-HAY-AGG.0.element.json"
-    },
-    "10": {
-      "element_entry": "SVPPRYDBERGDUNNING-HAY-AGG.0.element.json"
-    },
-    "18": {
-      "element_entry": "RYD-DUNNING.0.element.json"
-    }
+    "2": "DUNHAYPOL.0.element.json",
+    "5": "SVPPRYDBERGDUNNING-HAY-AGG.0.element.json",
+    "6": "SVPPRYDBERGDUNNING-HAY-AGG.0.element.json",
+    "7": "SVPPRYDBERGDUNNING-HAY-AGG.0.element.json",
+    "8": "SVPPRYDBERGDUNNING-HAY-AGG.0.element.json",
+    "9": "SVPPRYDBERGDUNNING-HAY-AGG.0.element.json",
+    "10": "SVPPRYDBERGDUNNING-HAY-AGG.0.element.json",
+    "18": "RYD-DUNNING.0.element.json"
   }
 }
