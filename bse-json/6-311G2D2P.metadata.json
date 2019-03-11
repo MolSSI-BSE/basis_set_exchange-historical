@@ -1,11 +1,11 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "metadata",
-        "schema_version": "0.1"
-    },
-    "basis_set_name": "Pople (2d,2p) Polarization",
-    "basis_set_family": "other_family",
-    "basis_set_description": "Pople (2d,2p) Polarization",
-    "basis_set_role": "orbital",
-    "basis_set_auxiliaries": {}
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "name": "Pople (2d,2p) Polarization",
+  "family": "other_family",
+  "description": "Pople (2d,2p) Polarization",
+  "role": "orbital",
+  "auxiliaries": {}
 }

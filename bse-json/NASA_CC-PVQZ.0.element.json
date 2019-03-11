@@ -1,20 +1,20 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "NASA Ames cc-pVQZ",
+  "description": "VQZ3P   Valence Quadruple Zeta + Polarization on All Atoms",
+  "elements": {
+    "22": {
+      "element_components": [
+        "NASA_CC-PVQZ.json"
+      ]
     },
-    "basis_set_name": "NASA Ames cc-pVQZ",
-    "basis_set_description": "VQZ3P   Valence Quadruple Zeta + Polarization on All Atoms",
-    "basis_set_elements": {
-        "22": {
-            "element_components": [
-                "NASA_CC-PVQZ.json"
-            ]
-        },
-        "26": {
-            "element_components": [
-                "NASA_CC-PVQZ.json"
-            ]
-        }
+    "26": {
+      "element_components": [
+        "NASA_CC-PVQZ.json"
+      ]
     }
+  }
 }

@@ -1,2578 +1,2578 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "component",
-        "schema_version": "0.1"
-    },
-    "basis_set_description": "aug-cc-pVTZ-PP-RI Diffuse",
-    "basis_set_data_source": "Original Basis Set Exchange",
-    "basis_set_elements": {
-        "29": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.33151300000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.40345600000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.73775200000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.12162900000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.24235800000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.91667700000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        6
-                    ],
-                    "shell_exponents": [
-                        "2.2370900000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "aug-cc-pVTZ-PP-RI Diffuse",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "29": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.33151300000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
             ]
+          ]
         },
-        "30": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.39118600000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.47607800000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.87054700000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.14352200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.28598300000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "1.0816800000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        6
-                    ],
-                    "shell_exponents": [
-                        "2.6397700000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.40345600000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
             ]
+          ]
         },
-        "31": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.33307600000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.39524800000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.50834400000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.69148300000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.15617800000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.37206600000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.73775200000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
             ]
+          ]
         },
-        "32": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.39687800000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.63912700000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.55001800000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.10388500000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.21894700000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.44190700000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.12162900000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
             ]
+          ]
         },
-        "33": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.46683800000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.80098500000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.62289400000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.12559200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.25445000000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.56559800000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.24235800000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
             ]
+          ]
         },
-        "34": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.59197300000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.10119200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.81167300000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.16177100000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.30804900000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.60683200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.91667700000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
             ]
+          ]
         },
-        "35": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.77043800000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.12512300000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.10825500000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.20178700000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.40765700000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.75465300000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            6
+          ],
+          "exponents": [
+            "2.2370900000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
             ]
-        },
-        "36": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.12418100000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.17379400000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.16213800000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.25310200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.51275400000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "1.3398000000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "47": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.15353000000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.20861200000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.35359100000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.57147400000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.16825000000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.63331600000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        6
-                    ],
-                    "shell_exponents": [
-                        "1.1927000000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "48": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.18189300000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.24701000000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.41814300000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.69621800000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.21643100000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.74053900000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        6
-                    ],
-                    "shell_exponents": [
-                        "1.3708100000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "49": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.27056100000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.34351900000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.48756600000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.60184400000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.13752900000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.30048800000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "50": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.44235900000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.54253100000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.64029400000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.87230700000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.17785500000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.33846100000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "51": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.42975100000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.67991200000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.56373300000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.10173500000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.20439000000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.40212400000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "52": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.52185300000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.83717200000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.70192200000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.12803800000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.24050500000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.43054000000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "53": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.64947400000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.10008300000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.85978200000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.15788100000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.31088100000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.49419800000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "54": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.98226000000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.13837400000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.11232200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.21242300000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.40260400000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.90671200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "79": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.12318400000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.16780500000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.28362800000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.47117000000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.13160900000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.42198200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        6
-                    ],
-                    "shell_exponents": [
-                        "0.91962100000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "80": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.14703200000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.19851000000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.33553100000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.57025400000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.16693800000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.52088700000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        6
-                    ],
-                    "shell_exponents": [
-                        "1.0828200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "81": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.17968300000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.33731700000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.31091900000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.55115600000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.15401300000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.34310900000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "82": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.34564700000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.53317900000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.50969000000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.80199900000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.18373300000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.36039000000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "83": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.43674000000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.66843600000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.56668500000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.94403400000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.19668200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.41124000000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "84": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.52182700000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.79377400000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.67926500000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.11367200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.22235200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.45412500000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "85": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.65300100000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.93760200000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.84902600000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.13768800000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.28209300000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.51295300000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "86": {
-            "element_references": [
-                "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.96410200000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.12399200000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.99273100000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        3
-                    ],
-                    "shell_exponents": [
-                        "0.18605600000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        4
-                    ],
-                    "shell_exponents": [
-                        "0.36197300000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        5
-                    ],
-                    "shell_exponents": [
-                        "0.60393000000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
-            ]
+          ]
         }
+      ]
+    },
+    "30": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.39118600000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.47607800000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.87054700000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.14352200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.28598300000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "1.0816800000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            6
+          ],
+          "exponents": [
+            "2.6397700000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "31": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.33307600000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.39524800000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.50834400000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.69148300000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.15617800000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.37206600000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "32": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.39687800000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.63912700000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.55001800000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.10388500000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.21894700000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.44190700000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "33": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.46683800000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.80098500000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.62289400000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.12559200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.25445000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.56559800000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "34": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.59197300000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.10119200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.81167300000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.16177100000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.30804900000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.60683200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "35": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.77043800000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.12512300000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.10825500000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.20178700000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.40765700000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.75465300000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "36": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.12418100000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.17379400000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.16213800000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.25310200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.51275400000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "1.3398000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "47": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.15353000000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.20861200000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.35359100000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.57147400000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.16825000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.63331600000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            6
+          ],
+          "exponents": [
+            "1.1927000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "48": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.18189300000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.24701000000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.41814300000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.69621800000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.21643100000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.74053900000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            6
+          ],
+          "exponents": [
+            "1.3708100000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "49": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.27056100000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.34351900000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.48756600000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.60184400000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.13752900000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.30048800000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "50": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.44235900000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.54253100000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.64029400000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.87230700000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.17785500000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.33846100000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "51": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.42975100000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.67991200000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.56373300000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.10173500000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.20439000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.40212400000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "52": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.52185300000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.83717200000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.70192200000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.12803800000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.24050500000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.43054000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "53": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.64947400000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.10008300000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.85978200000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.15788100000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.31088100000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.49419800000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "54": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.98226000000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.13837400000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.11232200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.21242300000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.40260400000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.90671200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "79": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.12318400000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.16780500000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.28362800000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.47117000000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.13160900000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.42198200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            6
+          ],
+          "exponents": [
+            "0.91962100000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "80": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.14703200000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.19851000000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.33553100000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.57025400000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.16693800000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.52088700000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            6
+          ],
+          "exponents": [
+            "1.0828200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "81": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.17968300000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.33731700000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.31091900000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.55115600000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.15401300000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.34310900000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "82": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.34564700000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.53317900000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.50969000000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.80199900000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.18373300000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.36039000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "83": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.43674000000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.66843600000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.56668500000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.94403400000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.19668200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.41124000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "84": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.52182700000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.79377400000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.67926500000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.11367200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.22235200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.45412500000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "85": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.65300100000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.93760200000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.84902600000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.13768800000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.28209300000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.51295300000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "86": {
+      "references": [
+        "AUG-CC-PVTZ-PP-RIDIFFUSE-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.96410200000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.12399200000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.99273100000E-01"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            3
+          ],
+          "exponents": [
+            "0.18605600000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            4
+          ],
+          "exponents": [
+            "0.36197300000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            5
+          ],
+          "exponents": [
+            "0.60393000000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        }
+      ]
     }
+  }
 }

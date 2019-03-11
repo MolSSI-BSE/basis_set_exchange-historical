@@ -1,11 +1,11 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "metadata",
-        "schema_version": "0.1"
-    },
-    "basis_set_name": "cc-pVDZ(fi/sf/sc)",
-    "basis_set_family": "other_family",
-    "basis_set_description": "VDZP    Relativistic Valence Double Zeta + Polarization",
-    "basis_set_role": "orbital",
-    "basis_set_auxiliaries": {}
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "name": "cc-pVDZ(fi/sf/sc)",
+  "family": "other_family",
+  "description": "VDZP    Relativistic Valence Double Zeta + Polarization",
+  "role": "orbital",
+  "auxiliaries": {}
 }

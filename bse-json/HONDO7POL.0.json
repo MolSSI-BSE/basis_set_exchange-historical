@@ -1,401 +1,401 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "component",
-        "schema_version": "0.1"
-    },
-    "basis_set_description": "1P      Polarization functions from HONDO7",
-    "basis_set_data_source": "Original Basis Set Exchange",
-    "basis_set_elements": {
-        "1": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "1.000000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "1P      Polarization functions from HONDO7",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "1": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "1.000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
             ]
-        },
-        "2": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "1.000000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "4": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.320000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "5": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.500000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "6": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.720000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "7": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.980000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "8": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "1.280000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "9": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "1.620000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "10": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "2.000000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "11": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.157000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "12": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.234000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "13": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.311000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "14": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.388000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "15": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.465000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "16": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.542000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "17": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.619000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "18": {
-            "element_references": [
-                "HONDO7POL-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "0.696000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
+          ]
         }
+      ]
+    },
+    "2": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "1.000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "4": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.320000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "5": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.500000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "6": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.720000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "7": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.980000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "8": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "1.280000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "9": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "1.620000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "10": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "2.000000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "11": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.157000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "12": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.234000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "13": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.311000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "14": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.388000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "15": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.465000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "16": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.542000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "17": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.619000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "18": {
+      "references": [
+        "HONDO7POL-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "0.696000"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
     }
+  }
 }

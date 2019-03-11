@@ -1,233 +1,233 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "component",
-        "schema_version": "0.1"
-    },
-    "basis_set_description": "1D      Diffuse Functions",
-    "basis_set_data_source": "Original Basis Set Exchange",
-    "basis_set_elements": {
-        "1": {
-            "element_references": [
-                "DUNHAYDIF-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.048273"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "1D      Diffuse Functions",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "1": {
+      "references": [
+        "DUNHAYDIF-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.048273"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
             ]
-        },
-        "3": {
-            "element_references": [
-                "DUNHAYDIF-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.010700"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.007800"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "4": {
-            "element_references": [
-                "DUNHAYDIF-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.017342"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "5": {
-            "element_references": [
-                "DUNHAYDIF-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.019"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "6": {
-            "element_references": [
-                "DUNHAYDIF-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.034"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "7": {
-            "element_references": [
-                "DUNHAYDIF-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.048"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "8": {
-            "element_references": [
-                "DUNHAYDIF-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.059"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "9": {
-            "element_references": [
-                "DUNHAYDIF-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.074"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "10": {
-            "element_references": [
-                "DUNHAYDIF-BS-REF"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.089"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
-            ]
+          ]
         }
+      ]
+    },
+    "3": {
+      "references": [
+        "DUNHAYDIF-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.010700"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.007800"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "4": {
+      "references": [
+        "DUNHAYDIF-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.017342"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "5": {
+      "references": [
+        "DUNHAYDIF-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.019"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "6": {
+      "references": [
+        "DUNHAYDIF-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.034"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "7": {
+      "references": [
+        "DUNHAYDIF-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.048"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "8": {
+      "references": [
+        "DUNHAYDIF-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.059"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "9": {
+      "references": [
+        "DUNHAYDIF-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.074"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
+    },
+    "10": {
+      "references": [
+        "DUNHAYDIF-BS-REF"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.089"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
+        }
+      ]
     }
+  }
 }

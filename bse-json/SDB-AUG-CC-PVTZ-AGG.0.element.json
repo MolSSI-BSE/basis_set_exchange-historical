@@ -1,80 +1,80 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "SDB-aug-cc-pVTZ",
+  "description": "VTZ2P   Valence Triple Zeta + Polarization on All Atoms",
+  "elements": {
+    "31": {
+      "element_components": [
+        "SDB-CC-PVTZ.0.json",
+        "SDB-AUG-CC-PVTZ.0.json",
+        "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
+      ]
     },
-    "basis_set_name": "SDB-aug-cc-pVTZ",
-    "basis_set_description": "VTZ2P   Valence Triple Zeta + Polarization on All Atoms",
-    "basis_set_elements": {
-        "31": {
-            "element_components": [
-                "SDB-CC-PVTZ.0.json",
-                "SDB-AUG-CC-PVTZ.0.json",
-                "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
-            ]
-        },
-        "32": {
-            "element_components": [
-                "SDB-CC-PVTZ.0.json",
-                "SDB-AUG-CC-PVTZ.0.json",
-                "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
-            ]
-        },
-        "33": {
-            "element_components": [
-                "SDB-CC-PVTZ.0.json",
-                "SDB-AUG-CC-PVTZ.0.json",
-                "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
-            ]
-        },
-        "34": {
-            "element_components": [
-                "SDB-CC-PVTZ.0.json",
-                "SDB-AUG-CC-PVTZ.0.json",
-                "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
-            ]
-        },
-        "35": {
-            "element_components": [
-                "SDB-CC-PVTZ.0.json",
-                "SDB-AUG-CC-PVTZ.0.json",
-                "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
-            ]
-        },
-        "49": {
-            "element_components": [
-                "SDB-CC-PVTZ_noref.json",
-                "SDB-AUG-CC-PVTZ_noref.json",
-                "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
-            ]
-        },
-        "50": {
-            "element_components": [
-                "SDB-CC-PVTZ_noref.json",
-                "SDB-AUG-CC-PVTZ_noref.json",
-                "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
-            ]
-        },
-        "51": {
-            "element_components": [
-                "SDB-CC-PVTZ_noref.json",
-                "SDB-AUG-CC-PVTZ_noref.json",
-                "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
-            ]
-        },
-        "52": {
-            "element_components": [
-                "SDB-CC-PVTZ_noref.json",
-                "SDB-AUG-CC-PVTZ_noref.json",
-                "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
-            ]
-        },
-        "53": {
-            "element_components": [
-                "SDB-CC-PVTZ_noref.json",
-                "SDB-AUG-CC-PVTZ_noref.json",
-                "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
-            ]
-        }
+    "32": {
+      "element_components": [
+        "SDB-CC-PVTZ.0.json",
+        "SDB-AUG-CC-PVTZ.0.json",
+        "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
+      ]
+    },
+    "33": {
+      "element_components": [
+        "SDB-CC-PVTZ.0.json",
+        "SDB-AUG-CC-PVTZ.0.json",
+        "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
+      ]
+    },
+    "34": {
+      "element_components": [
+        "SDB-CC-PVTZ.0.json",
+        "SDB-AUG-CC-PVTZ.0.json",
+        "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
+      ]
+    },
+    "35": {
+      "element_components": [
+        "SDB-CC-PVTZ.0.json",
+        "SDB-AUG-CC-PVTZ.0.json",
+        "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
+      ]
+    },
+    "49": {
+      "element_components": [
+        "SDB-CC-PVTZ_noref.json",
+        "SDB-AUG-CC-PVTZ_noref.json",
+        "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
+      ]
+    },
+    "50": {
+      "element_components": [
+        "SDB-CC-PVTZ_noref.json",
+        "SDB-AUG-CC-PVTZ_noref.json",
+        "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
+      ]
+    },
+    "51": {
+      "element_components": [
+        "SDB-CC-PVTZ_noref.json",
+        "SDB-AUG-CC-PVTZ_noref.json",
+        "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
+      ]
+    },
+    "52": {
+      "element_components": [
+        "SDB-CC-PVTZ_noref.json",
+        "SDB-AUG-CC-PVTZ_noref.json",
+        "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
+      ]
+    },
+    "53": {
+      "element_components": [
+        "SDB-CC-PVTZ_noref.json",
+        "SDB-AUG-CC-PVTZ_noref.json",
+        "STUTTGART_RLC-ECP_STUTTGART_RLC-ECP-REF.json"
+      ]
     }
+  }
 }

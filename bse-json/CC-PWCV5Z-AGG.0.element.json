@@ -1,82 +1,82 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "cc-pwCV5Z",
+  "description": "5Z4P    Quintuple Zeta + Polarization + Tight Core",
+  "elements": {
+    "5": {
+      "element_components": [
+        "CC-PWCV5Z0.0.json",
+        "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
+      ]
     },
-    "basis_set_name": "cc-pwCV5Z",
-    "basis_set_description": "5Z4P    Quintuple Zeta + Polarization + Tight Core",
-    "basis_set_elements": {
-        "5": {
-            "element_components": [
-                "CC-PWCV5Z0.0.json",
-                "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
-            ]
-        },
-        "6": {
-            "element_components": [
-                "CC-PWCV5Z0.0.json",
-                "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
-            ]
-        },
-        "7": {
-            "element_components": [
-                "CC-PWCV5Z0.0.json",
-                "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
-            ]
-        },
-        "8": {
-            "element_components": [
-                "CC-PWCV5Z0.0.json",
-                "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
-            ]
-        },
-        "9": {
-            "element_components": [
-                "CC-PWCV5Z0.0.json",
-                "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
-            ]
-        },
-        "10": {
-            "element_components": [
-                "CC-PWCV5Z0.0.json",
-                "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
-            ]
-        },
-        "13": {
-            "element_components": [
-                "CC-PWCV5Z0_noref.json",
-                "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
-            ]
-        },
-        "14": {
-            "element_components": [
-                "CC-PWCV5Z0_noref.json",
-                "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
-            ]
-        },
-        "15": {
-            "element_components": [
-                "CC-PWCV5Z0_noref.json",
-                "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
-            ]
-        },
-        "16": {
-            "element_components": [
-                "CC-PWCV5Z0_noref.json",
-                "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
-            ]
-        },
-        "17": {
-            "element_components": [
-                "CC-PWCV5Z0_noref.json",
-                "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
-            ]
-        },
-        "18": {
-            "element_components": [
-                "CC-PWCV5Z0_noref.json",
-                "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
-            ]
-        }
+    "6": {
+      "element_components": [
+        "CC-PWCV5Z0.0.json",
+        "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
+      ]
+    },
+    "7": {
+      "element_components": [
+        "CC-PWCV5Z0.0.json",
+        "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
+      ]
+    },
+    "8": {
+      "element_components": [
+        "CC-PWCV5Z0.0.json",
+        "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
+      ]
+    },
+    "9": {
+      "element_components": [
+        "CC-PWCV5Z0.0.json",
+        "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
+      ]
+    },
+    "10": {
+      "element_components": [
+        "CC-PWCV5Z0.0.json",
+        "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
+      ]
+    },
+    "13": {
+      "element_components": [
+        "CC-PWCV5Z0_noref.json",
+        "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
+      ]
+    },
+    "14": {
+      "element_components": [
+        "CC-PWCV5Z0_noref.json",
+        "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
+      ]
+    },
+    "15": {
+      "element_components": [
+        "CC-PWCV5Z0_noref.json",
+        "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
+      ]
+    },
+    "16": {
+      "element_components": [
+        "CC-PWCV5Z0_noref.json",
+        "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
+      ]
+    },
+    "17": {
+      "element_components": [
+        "CC-PWCV5Z0_noref.json",
+        "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
+      ]
+    },
+    "18": {
+      "element_components": [
+        "CC-PWCV5Z0_noref.json",
+        "CC-PWCV5Z_CC-PWCV5Z-BS-REF.json"
+      ]
     }
+  }
 }

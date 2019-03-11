@@ -1,50 +1,50 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "d-aug-cc-pVDZ Diffuse",
+  "description": "2D      Diffuse Functions",
+  "elements": {
+    "1": {
+      "element_components": [
+        "DAUG-CC-PVDZ.0.json"
+      ]
     },
-    "basis_set_name": "d-aug-cc-pVDZ Diffuse",
-    "basis_set_description": "2D      Diffuse Functions",
-    "basis_set_elements": {
-        "1": {
-            "element_components": [
-                "DAUG-CC-PVDZ.0.json"
-            ]
-        },
-        "2": {
-            "element_components": [
-                "DAUG-CC-PVDZ.0.json"
-            ]
-        },
-        "5": {
-            "element_components": [
-                "DAUG-CC-PVDZ_noref.json"
-            ]
-        },
-        "6": {
-            "element_components": [
-                "DAUG-CC-PVDZ_noref.json"
-            ]
-        },
-        "7": {
-            "element_components": [
-                "DAUG-CC-PVDZ_noref.json"
-            ]
-        },
-        "8": {
-            "element_components": [
-                "DAUG-CC-PVDZ_noref.json"
-            ]
-        },
-        "9": {
-            "element_components": [
-                "DAUG-CC-PVDZ_noref.json"
-            ]
-        },
-        "10": {
-            "element_components": [
-                "DAUG-CC-PVDZ_noref.json"
-            ]
-        }
+    "2": {
+      "element_components": [
+        "DAUG-CC-PVDZ.0.json"
+      ]
+    },
+    "5": {
+      "element_components": [
+        "DAUG-CC-PVDZ_noref.json"
+      ]
+    },
+    "6": {
+      "element_components": [
+        "DAUG-CC-PVDZ_noref.json"
+      ]
+    },
+    "7": {
+      "element_components": [
+        "DAUG-CC-PVDZ_noref.json"
+      ]
+    },
+    "8": {
+      "element_components": [
+        "DAUG-CC-PVDZ_noref.json"
+      ]
+    },
+    "9": {
+      "element_components": [
+        "DAUG-CC-PVDZ_noref.json"
+      ]
+    },
+    "10": {
+      "element_components": [
+        "DAUG-CC-PVDZ_noref.json"
+      ]
     }
+  }
 }

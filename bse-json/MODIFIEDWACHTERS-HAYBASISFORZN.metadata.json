@@ -1,11 +1,11 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "metadata",
-        "schema_version": "0.1"
-    },
-    "basis_set_name": "B2 basis set for Zn",
-    "basis_set_family": "other_family",
-    "basis_set_description": "B2 basis set for Zn",
-    "basis_set_role": "orbital",
-    "basis_set_auxiliaries": {}
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "name": "B2 basis set for Zn",
+  "family": "other_family",
+  "description": "B2 basis set for Zn",
+  "role": "orbital",
+  "auxiliaries": {}
 }

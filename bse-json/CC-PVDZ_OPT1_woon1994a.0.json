@@ -1,69 +1,69 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "component",
-        "schema_version": "0.1"
-    },
-    "basis_set_description": "VDZP    Valence Double Zeta + Polarization on All Atoms",
-    "basis_set_data_source": "Original Basis Set Exchange",
-    "basis_set_elements": {
-        "2": {
-            "element_references": [
-                "woon1994a"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "38.360",
-                        "5.7700",
-                        "1.2400"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "0.023809",
-                            "0.154891",
-                            "0.469987"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.2976"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "0.513027"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "1.2750"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "VDZP    Valence Double Zeta + Polarization on All Atoms",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "2": {
+      "references": [
+        "woon1994a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "38.360",
+            "5.7700",
+            "1.2400"
+          ],
+          "coefficients": [
+            [
+              "0.023809",
+              "0.154891",
+              "0.469987"
             ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.2976"
+          ],
+          "coefficients": [
+            [
+              "0.513027"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "1.2750"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
+            ]
+          ]
         }
+      ]
     }
+  }
 }

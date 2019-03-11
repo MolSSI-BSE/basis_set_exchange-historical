@@ -1,527 +1,527 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "component",
-        "schema_version": "0.1"
-    },
-    "basis_set_description": "MINIs-BSIP1",
-    "basis_set_data_source": "Original Basis Set Exchange",
-    "basis_set_elements": {
-        "1": {
-            "element_references": [
-                "roza2017a"
-            ],
-            "element_ecp_electrons": 0,
-            "element_ecp": [
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        15,
-                        8
-                    ],
-                    "potential_r_exponents": [
-                        2,
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.2400000000",
-                        "0.4000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.0168677440",
-                            "-0.0288854525"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        0
-                    ],
-                    "potential_r_exponents": [
-                        2,
-                        2,
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.2200000000",
-                        "0.4000000000",
-                        "2.0000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "-0.1935807925",
-                            "0.5351474528",
-                            "-0.9790535180"
-                        ]
-                    ]
-                }
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "MINIs-BSIP1",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "1": {
+      "references": [
+        "roza2017a"
+      ],
+      "element_ecp_electrons": 0,
+      "ecp_potentials": [
+        {
+          "angular_momentum": [
+            15,
+            8
+          ],
+          "coefficients": [
+            [
+              "0.0168677440",
+              "-0.0288854525"
             ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2,
+            2
+          ],
+          "gaussian_exponents": [
+            "0.2400000000",
+            "0.4000000000"
+          ]
         },
-        "6": {
-            "element_references": [
-                "roza2017a"
-            ],
-            "element_ecp_electrons": 0,
-            "element_ecp": [
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        15,
-                        8
-                    ],
-                    "potential_r_exponents": [
-                        2,
-                        2,
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.1200000000",
-                        "0.1600000000",
-                        "0.8000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.0053008843",
-                            "-0.0186781244",
-                            "-0.1812559534"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        0
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "2.0000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.0696591835"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        1
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.2000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.1042447558"
-                        ]
-                    ]
-                }
+        {
+          "angular_momentum": [
+            0
+          ],
+          "coefficients": [
+            [
+              "-0.1935807925",
+              "0.5351474528",
+              "-0.9790535180"
             ]
-        },
-        "7": {
-            "element_references": [
-                "roza2017a"
-            ],
-            "element_ecp_electrons": 0,
-            "element_ecp": [
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        15,
-                        8
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.8000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "-0.3987935484"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        0
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.0800000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.2476112669"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        1
-                    ],
-                    "potential_r_exponents": [
-                        2,
-                        2,
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.0800000000",
-                        "0.1400000000",
-                        "1.6000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "-0.1145888481",
-                            "0.1300385314",
-                            "0.4599990362"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "8": {
-            "element_references": [
-                "roza2017a"
-            ],
-            "element_ecp_electrons": 0,
-            "element_ecp": [
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        15,
-                        8
-                    ],
-                    "potential_r_exponents": [
-                        2,
-                        2,
-                        2,
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.0800000000",
-                        "0.1000000000",
-                        "1.0000000000",
-                        "2.0000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "-0.0034102133",
-                            "0.0063209487",
-                            "-0.7013079751",
-                            "0.6566723539"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        0
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "1.0"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.0"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        1
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.2600000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.0653162389"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "9": {
-            "element_references": [
-                "roza2017a"
-            ],
-            "element_ecp_electrons": 0,
-            "element_ecp": [
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        15,
-                        8
-                    ],
-                    "potential_r_exponents": [
-                        2,
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.4000000000",
-                        "0.8000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.0390122979",
-                            "-0.3904270988"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        0
-                    ],
-                    "potential_r_exponents": [
-                        2,
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.0800000000",
-                        "1.0000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "-0.1342428379",
-                            "0.4687690389"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        1
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.1000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.0826130577"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "15": {
-            "element_references": [
-                "roza2017a"
-            ],
-            "element_ecp_electrons": 0,
-            "element_ecp": [
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        15,
-                        8
-                    ],
-                    "potential_r_exponents": [
-                        2,
-                        2,
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.1600000000",
-                        "0.2200000000",
-                        "2.0000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.0405542910",
-                            "-0.1170630040",
-                            "-0.5564914073"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        0
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.4000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.4510613911"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        1
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.6000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.2011107759"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "16": {
-            "element_references": [
-                "roza2017a"
-            ],
-            "element_ecp_electrons": 0,
-            "element_ecp": [
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        15,
-                        8
-                    ],
-                    "potential_r_exponents": [
-                        2,
-                        2,
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.1400000000",
-                        "0.2000000000",
-                        "0.4000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "-0.0315164714",
-                            "0.0511143319",
-                            "-0.3124541923"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        0
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.0800000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.1020918373"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        1
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.4000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.1787235784"
-                        ]
-                    ]
-                }
-            ]
-        },
-        "17": {
-            "element_references": [
-                "roza2017a"
-            ],
-            "element_ecp_electrons": 0,
-            "element_ecp": [
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        15,
-                        8
-                    ],
-                    "potential_r_exponents": [
-                        2,
-                        2,
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.1400000000",
-                        "0.2600000000",
-                        "0.6000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.0253961112",
-                            "-0.1276193352",
-                            "-0.2088614077"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        0
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.0800000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "-0.1010363762"
-                        ]
-                    ]
-                },
-                {
-                    "potential_ecp_type": "scalar",
-                    "potential_angular_momentum": [
-                        1
-                    ],
-                    "potential_r_exponents": [
-                        2
-                    ],
-                    "potential_gaussian_exponents": [
-                        "0.6000000000"
-                    ],
-                    "potential_coefficients": [
-                        [
-                            "0.2959360112"
-                        ]
-                    ]
-                }
-            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2,
+            2,
+            2
+          ],
+          "gaussian_exponents": [
+            "0.2200000000",
+            "0.4000000000",
+            "2.0000000000"
+          ]
         }
+      ]
+    },
+    "6": {
+      "references": [
+        "roza2017a"
+      ],
+      "element_ecp_electrons": 0,
+      "ecp_potentials": [
+        {
+          "angular_momentum": [
+            15,
+            8
+          ],
+          "coefficients": [
+            [
+              "0.0053008843",
+              "-0.0186781244",
+              "-0.1812559534"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2,
+            2,
+            2
+          ],
+          "gaussian_exponents": [
+            "0.1200000000",
+            "0.1600000000",
+            "0.8000000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            0
+          ],
+          "coefficients": [
+            [
+              "0.0696591835"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "2.0000000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            1
+          ],
+          "coefficients": [
+            [
+              "0.1042447558"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "0.2000000000"
+          ]
+        }
+      ]
+    },
+    "7": {
+      "references": [
+        "roza2017a"
+      ],
+      "element_ecp_electrons": 0,
+      "ecp_potentials": [
+        {
+          "angular_momentum": [
+            15,
+            8
+          ],
+          "coefficients": [
+            [
+              "-0.3987935484"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "0.8000000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            0
+          ],
+          "coefficients": [
+            [
+              "0.2476112669"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "0.0800000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            1
+          ],
+          "coefficients": [
+            [
+              "-0.1145888481",
+              "0.1300385314",
+              "0.4599990362"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2,
+            2,
+            2
+          ],
+          "gaussian_exponents": [
+            "0.0800000000",
+            "0.1400000000",
+            "1.6000000000"
+          ]
+        }
+      ]
+    },
+    "8": {
+      "references": [
+        "roza2017a"
+      ],
+      "element_ecp_electrons": 0,
+      "ecp_potentials": [
+        {
+          "angular_momentum": [
+            15,
+            8
+          ],
+          "coefficients": [
+            [
+              "-0.0034102133",
+              "0.0063209487",
+              "-0.7013079751",
+              "0.6566723539"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "gaussian_exponents": [
+            "0.0800000000",
+            "0.1000000000",
+            "1.0000000000",
+            "2.0000000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            0
+          ],
+          "coefficients": [
+            [
+              "0.0"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "1.0"
+          ]
+        },
+        {
+          "angular_momentum": [
+            1
+          ],
+          "coefficients": [
+            [
+              "0.0653162389"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "0.2600000000"
+          ]
+        }
+      ]
+    },
+    "9": {
+      "references": [
+        "roza2017a"
+      ],
+      "element_ecp_electrons": 0,
+      "ecp_potentials": [
+        {
+          "angular_momentum": [
+            15,
+            8
+          ],
+          "coefficients": [
+            [
+              "0.0390122979",
+              "-0.3904270988"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2,
+            2
+          ],
+          "gaussian_exponents": [
+            "0.4000000000",
+            "0.8000000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            0
+          ],
+          "coefficients": [
+            [
+              "-0.1342428379",
+              "0.4687690389"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2,
+            2
+          ],
+          "gaussian_exponents": [
+            "0.0800000000",
+            "1.0000000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            1
+          ],
+          "coefficients": [
+            [
+              "0.0826130577"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "0.1000000000"
+          ]
+        }
+      ]
+    },
+    "15": {
+      "references": [
+        "roza2017a"
+      ],
+      "element_ecp_electrons": 0,
+      "ecp_potentials": [
+        {
+          "angular_momentum": [
+            15,
+            8
+          ],
+          "coefficients": [
+            [
+              "0.0405542910",
+              "-0.1170630040",
+              "-0.5564914073"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2,
+            2,
+            2
+          ],
+          "gaussian_exponents": [
+            "0.1600000000",
+            "0.2200000000",
+            "2.0000000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            0
+          ],
+          "coefficients": [
+            [
+              "0.4510613911"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "0.4000000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            1
+          ],
+          "coefficients": [
+            [
+              "0.2011107759"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "0.6000000000"
+          ]
+        }
+      ]
+    },
+    "16": {
+      "references": [
+        "roza2017a"
+      ],
+      "element_ecp_electrons": 0,
+      "ecp_potentials": [
+        {
+          "angular_momentum": [
+            15,
+            8
+          ],
+          "coefficients": [
+            [
+              "-0.0315164714",
+              "0.0511143319",
+              "-0.3124541923"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2,
+            2,
+            2
+          ],
+          "gaussian_exponents": [
+            "0.1400000000",
+            "0.2000000000",
+            "0.4000000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            0
+          ],
+          "coefficients": [
+            [
+              "0.1020918373"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "0.0800000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            1
+          ],
+          "coefficients": [
+            [
+              "0.1787235784"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "0.4000000000"
+          ]
+        }
+      ]
+    },
+    "17": {
+      "references": [
+        "roza2017a"
+      ],
+      "element_ecp_electrons": 0,
+      "ecp_potentials": [
+        {
+          "angular_momentum": [
+            15,
+            8
+          ],
+          "coefficients": [
+            [
+              "0.0253961112",
+              "-0.1276193352",
+              "-0.2088614077"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2,
+            2,
+            2
+          ],
+          "gaussian_exponents": [
+            "0.1400000000",
+            "0.2600000000",
+            "0.6000000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            0
+          ],
+          "coefficients": [
+            [
+              "-0.1010363762"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "0.0800000000"
+          ]
+        },
+        {
+          "angular_momentum": [
+            1
+          ],
+          "coefficients": [
+            [
+              "0.2959360112"
+            ]
+          ],
+          "ecp_type": "scalar",
+          "r_exponents": [
+            2
+          ],
+          "gaussian_exponents": [
+            "0.6000000000"
+          ]
+        }
+      ]
     }
+  }
 }

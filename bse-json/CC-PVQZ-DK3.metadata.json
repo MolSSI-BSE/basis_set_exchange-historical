@@ -1,11 +1,11 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "metadata",
-        "schema_version": "0.1"
-    },
-    "basis_set_name": "cc-pVQZ-DK3",
-    "basis_set_family": "other_family",
-    "basis_set_description": "cc-pVQZ-DK3",
-    "basis_set_role": "orbital",
-    "basis_set_auxiliaries": {}
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "name": "cc-pVQZ-DK3",
+  "family": "other_family",
+  "description": "cc-pVQZ-DK3",
+  "role": "orbital",
+  "auxiliaries": {}
 }

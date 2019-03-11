@@ -1,54 +1,54 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "table",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "table",
+    "schema_version": "0.1"
+  },
+  "revision_description": "Data from the original Basis Set Exchange",
+  "elements": {
+    "57": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
     },
-    "basis_set_revision_description": "Data from the original Basis Set Exchange",
-    "basis_set_elements": {
-        "57": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "58": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "59": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "60": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "61": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "62": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "63": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "64": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "65": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "66": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "67": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "68": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "69": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "70": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        },
-        "71": {
-            "element_entry": "CC-PVQZ-DK3.0.element.json"
-        }
+    "58": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "59": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "60": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "61": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "62": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "63": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "64": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "65": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "66": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "67": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "68": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "69": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "70": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
+    },
+    "71": {
+      "element_entry": "CC-PVQZ-DK3.0.element.json"
     }
+  }
 }

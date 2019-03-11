@@ -1,92 +1,92 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "component",
-        "schema_version": "0.1"
-    },
-    "basis_set_description": "VDZ     Valence Double Zeta designed for an ECP",
-    "basis_set_data_source": "Original Basis Set Exchange",
-    "basis_set_elements": {
-        "1": {
-            "element_references": [
-                "binkley1980a"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "5.447178",
-                        "0.824547"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "0.156285",
-                            "0.904691"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.183192"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.000000"
-                        ]
-                    ]
-                }
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "VDZ     Valence Double Zeta designed for an ECP",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "1": {
+      "references": [
+        "binkley1980a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "5.447178",
+            "0.824547"
+          ],
+          "coefficients": [
+            [
+              "0.156285",
+              "0.904691"
             ]
+          ]
         },
-        "2": {
-            "element_references": [
-                "binkley1980a"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "13.62670",
-                        "1.999350"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "0.175230",
-                            "0.893483"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.382993"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.00000"
-                        ]
-                    ]
-                }
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.183192"
+          ],
+          "coefficients": [
+            [
+              "1.000000"
             ]
+          ]
         }
+      ]
+    },
+    "2": {
+      "references": [
+        "binkley1980a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "13.62670",
+            "1.999350"
+          ],
+          "coefficients": [
+            [
+              "0.175230",
+              "0.893483"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.382993"
+          ],
+          "coefficients": [
+            [
+              "1.00000"
+            ]
+          ]
+        }
+      ]
     }
+  }
 }

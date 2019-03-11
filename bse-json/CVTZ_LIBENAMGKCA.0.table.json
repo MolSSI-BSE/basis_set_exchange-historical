@@ -1,27 +1,27 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "table",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "table",
+    "schema_version": "0.1"
+  },
+  "revision_description": "Data from the original Basis Set Exchange",
+  "elements": {
+    "3": {
+      "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
     },
-    "basis_set_revision_description": "Data from the original Basis Set Exchange",
-    "basis_set_elements": {
-        "3": {
-            "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
-        },
-        "4": {
-            "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
-        },
-        "11": {
-            "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
-        },
-        "12": {
-            "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
-        },
-        "19": {
-            "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
-        },
-        "20": {
-            "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
-        }
+    "4": {
+      "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
+    },
+    "11": {
+      "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
+    },
+    "12": {
+      "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
+    },
+    "19": {
+      "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
+    },
+    "20": {
+      "element_entry": "CVTZ_LIBENAMGKCA.0.element.json"
     }
+  }
 }

@@ -1,45 +1,45 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "pV7Z",
+  "description": "pV7Z",
+  "elements": {
+    "1": {
+      "element_components": [
+        "PV7Z_noref.json"
+      ]
     },
-    "basis_set_name": "pV7Z",
-    "basis_set_description": "pV7Z",
-    "basis_set_elements": {
-        "1": {
-            "element_components": [
-                "PV7Z_noref.json"
-            ]
-        },
-        "6": {
-            "element_components": [
-                "PV7Z_feller1999a_feller2000a.0.json"
-            ]
-        },
-        "7": {
-            "element_components": [
-                "PV7Z_feller1999a_feller2000a.0.json"
-            ]
-        },
-        "8": {
-            "element_components": [
-                "PV7Z_feller1999a_feller2000a.0.json"
-            ]
-        },
-        "9": {
-            "element_components": [
-                "PV7Z_feller1999a_feller2000a.0.json"
-            ]
-        },
-        "10": {
-            "element_components": [
-                "PV7Z_noref.json"
-            ]
-        },
-        "16": {
-            "element_components": [
-                "PV7Z_feller1999a_feller2000a.0.json"
-            ]
-        }
+    "6": {
+      "element_components": [
+        "PV7Z_feller1999a_feller2000a.0.json"
+      ]
+    },
+    "7": {
+      "element_components": [
+        "PV7Z_feller1999a_feller2000a.0.json"
+      ]
+    },
+    "8": {
+      "element_components": [
+        "PV7Z_feller1999a_feller2000a.0.json"
+      ]
+    },
+    "9": {
+      "element_components": [
+        "PV7Z_feller1999a_feller2000a.0.json"
+      ]
+    },
+    "10": {
+      "element_components": [
+        "PV7Z_noref.json"
+      ]
+    },
+    "16": {
+      "element_components": [
+        "PV7Z_feller1999a_feller2000a.0.json"
+      ]
     }
+  }
 }

@@ -1,87 +1,87 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "DZP + Rydberg (Dunning)",
+  "description": "DZP1R   Double Zeta + Polarization on All Atoms",
+  "elements": {
+    "5": {
+      "element_components": [
+        "DUNNINGDZ.0.json",
+        "DUNHAYPOL_noref.json",
+        "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
+      ]
     },
-    "basis_set_name": "DZP + Rydberg (Dunning)",
-    "basis_set_description": "DZP1R   Double Zeta + Polarization on All Atoms",
-    "basis_set_elements": {
-        "5": {
-            "element_components": [
-                "DUNNINGDZ.0.json",
-                "DUNHAYPOL_noref.json",
-                "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
-            ]
-        },
-        "6": {
-            "element_components": [
-                "DUNNINGDZ.0.json",
-                "DUNHAYPOL_noref.json",
-                "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
-            ]
-        },
-        "7": {
-            "element_components": [
-                "DUNNINGDZ.0.json",
-                "DUNHAYPOL_noref.json",
-                "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
-            ]
-        },
-        "8": {
-            "element_components": [
-                "DUNNINGDZ.0.json",
-                "DUNHAYPOL_noref.json",
-                "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
-            ]
-        },
-        "9": {
-            "element_components": [
-                "DUNNINGDZ.0.json",
-                "DUNHAYPOL_noref.json",
-                "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
-            ]
-        },
-        "10": {
-            "element_components": [
-                "DUNNINGDZ.0.json",
-                "DUNHAYPOL_noref.json",
-                "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
-            ]
-        },
-        "13": {
-            "element_components": [
-                "DUNNINGDZ.0.json",
-                "DUNHAYPOL_noref.json",
-                "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
-            ]
-        },
-        "14": {
-            "element_components": [
-                "DUNNINGDZ.0.json",
-                "DUNHAYPOL.0.json",
-                "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
-            ]
-        },
-        "15": {
-            "element_components": [
-                "DUNNINGDZ.0.json",
-                "DUNHAYPOL.0.json",
-                "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
-            ]
-        },
-        "16": {
-            "element_components": [
-                "DUNNINGDZ.0.json",
-                "DUNHAYPOL.0.json",
-                "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
-            ]
-        },
-        "17": {
-            "element_components": [
-                "DUNNINGDZ.0.json",
-                "DUNHAYPOL.0.json",
-                "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
-            ]
-        }
+    "6": {
+      "element_components": [
+        "DUNNINGDZ.0.json",
+        "DUNHAYPOL_noref.json",
+        "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
+      ]
+    },
+    "7": {
+      "element_components": [
+        "DUNNINGDZ.0.json",
+        "DUNHAYPOL_noref.json",
+        "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
+      ]
+    },
+    "8": {
+      "element_components": [
+        "DUNNINGDZ.0.json",
+        "DUNHAYPOL_noref.json",
+        "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
+      ]
+    },
+    "9": {
+      "element_components": [
+        "DUNNINGDZ.0.json",
+        "DUNHAYPOL_noref.json",
+        "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
+      ]
+    },
+    "10": {
+      "element_components": [
+        "DUNNINGDZ.0.json",
+        "DUNHAYPOL_noref.json",
+        "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
+      ]
+    },
+    "13": {
+      "element_components": [
+        "DUNNINGDZ.0.json",
+        "DUNHAYPOL_noref.json",
+        "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
+      ]
+    },
+    "14": {
+      "element_components": [
+        "DUNNINGDZ.0.json",
+        "DUNHAYPOL.0.json",
+        "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
+      ]
+    },
+    "15": {
+      "element_components": [
+        "DUNNINGDZ.0.json",
+        "DUNHAYPOL.0.json",
+        "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
+      ]
+    },
+    "16": {
+      "element_components": [
+        "DUNNINGDZ.0.json",
+        "DUNHAYPOL.0.json",
+        "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
+      ]
+    },
+    "17": {
+      "element_components": [
+        "DUNNINGDZ.0.json",
+        "DUNHAYPOL.0.json",
+        "RYD-DUNNING_RYD-DUNNING-BS-REF.json"
+      ]
     }
+  }
 }

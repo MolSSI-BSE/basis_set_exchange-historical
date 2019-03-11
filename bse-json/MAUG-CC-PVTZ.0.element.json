@@ -1,100 +1,100 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "maug-cc-pVTZ",
+  "description": "maug-cc-pVTZ",
+  "elements": {
+    "1": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
     },
-    "basis_set_name": "maug-cc-pVTZ",
-    "basis_set_description": "maug-cc-pVTZ",
-    "basis_set_elements": {
-        "1": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "2": {
-            "element_components": [
-                "MAUG-CC-PVTZ_papajak2009a_papajak2010a_woon1994a.0.json"
-            ]
-        },
-        "3": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "4": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "5": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "6": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "7": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "8": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "9": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "10": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "11": {
-            "element_components": [
-                "MAUG-CC-PVTZ_papajak2009a_papajak2010a.0.json"
-            ]
-        },
-        "12": {
-            "element_components": [
-                "MAUG-CC-PVTZ_papajak2009a_papajak2010a.0.json"
-            ]
-        },
-        "13": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "14": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "15": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "16": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "17": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        },
-        "18": {
-            "element_components": [
-                "MAUG-CC-PVTZ.json"
-            ]
-        }
+    "2": {
+      "element_components": [
+        "MAUG-CC-PVTZ_papajak2009a_papajak2010a_woon1994a.0.json"
+      ]
+    },
+    "3": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "4": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "5": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "6": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "7": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "8": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "9": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "10": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "11": {
+      "element_components": [
+        "MAUG-CC-PVTZ_papajak2009a_papajak2010a.0.json"
+      ]
+    },
+    "12": {
+      "element_components": [
+        "MAUG-CC-PVTZ_papajak2009a_papajak2010a.0.json"
+      ]
+    },
+    "13": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "14": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "15": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "16": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "17": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
+    },
+    "18": {
+      "element_components": [
+        "MAUG-CC-PVTZ.json"
+      ]
     }
+  }
 }

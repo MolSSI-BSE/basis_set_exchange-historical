@@ -1,11 +1,11 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "metadata",
-        "schema_version": "0.1"
-    },
-    "basis_set_name": "aug-cc-pV5Z-PP",
-    "basis_set_family": "other_family",
-    "basis_set_description": "V5ZPD   Valence Quintuple Zeta + Polarization on All Atoms",
-    "basis_set_role": "orbital",
-    "basis_set_auxiliaries": {}
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "name": "aug-cc-pV5Z-PP",
+  "family": "other_family",
+  "description": "V5ZPD   Valence Quintuple Zeta + Polarization on All Atoms",
+  "role": "orbital",
+  "auxiliaries": {}
 }

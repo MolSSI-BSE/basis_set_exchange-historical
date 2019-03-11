@@ -1,30 +1,30 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "pV6Z",
+  "description": "V6Z5P   Valence Sextuple Zeta + Polarization on All Atoms",
+  "elements": {
+    "1": {
+      "element_components": [
+        "CC-PV6Z-OLD_noref.json"
+      ]
     },
-    "basis_set_name": "pV6Z",
-    "basis_set_description": "V6Z5P   Valence Sextuple Zeta + Polarization on All Atoms",
-    "basis_set_elements": {
-        "1": {
-            "element_components": [
-                "CC-PV6Z-OLD_noref.json"
-            ]
-        },
-        "6": {
-            "element_components": [
-                "CC-PV6Z-OLD.0.json"
-            ]
-        },
-        "7": {
-            "element_components": [
-                "CC-PV6Z-OLD.0.json"
-            ]
-        },
-        "8": {
-            "element_components": [
-                "CC-PV6Z-OLD_noref.json"
-            ]
-        }
+    "6": {
+      "element_components": [
+        "CC-PV6Z-OLD.0.json"
+      ]
+    },
+    "7": {
+      "element_components": [
+        "CC-PV6Z-OLD.0.json"
+      ]
+    },
+    "8": {
+      "element_components": [
+        "CC-PV6Z-OLD_noref.json"
+      ]
     }
+  }
 }

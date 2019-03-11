@@ -1,283 +1,283 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "aug-cc-pV5Z-PP",
+  "description": "V5ZPD   Valence Quintuple Zeta + Polarization on All Atoms",
+  "elements": {
+    "29": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
     },
-    "basis_set_name": "aug-cc-pV5Z-PP",
-    "basis_set_description": "V5ZPD   Valence Quintuple Zeta + Polarization on All Atoms",
-    "basis_set_elements": {
-        "29": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "30": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "31": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "32": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "33": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "34": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "35": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "36": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "39": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "40": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "41": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "42": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "43": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "44": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "45": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "46": {
-            "element_components": [
-                "CC-PV5Z-PP_peterson2005a_peterson2007a.0.json",
-                "AUG-CC-PV5Z-PP_peterson2005a_peterson2007a.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "47": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "48": {
-            "element_components": [
-                "CC-PV5Z-PP_noref.json",
-                "AUG-CC-PV5Z-PP_noref.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "49": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "50": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "51": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "52": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "53": {
-            "element_components": [
-                "CC-PV5Z-PP_peterson2003b_peterson2006a.0.json",
-                "AUG-CC-PV5Z-PP_peterson2003b_peterson2006a.0.json",
-                "STUTTGART-MCDHF-RSC-ECP_peterson2003b_peterson2006a.0.json"
-            ]
-        },
-        "54": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "72": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "73": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "74": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "75": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "76": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "77": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "78": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "79": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "80": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "81": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "82": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "83": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "84": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "85": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        },
-        "86": {
-            "element_components": [
-                "CC-PV5Z-PP.0.json",
-                "AUG-CC-PV5Z-PP.0.json",
-                "STUTTGART-MCDHF-RSC-ECP.0.json"
-            ]
-        }
+    "30": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "31": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "32": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "33": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "34": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "35": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "36": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "39": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "40": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "41": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "42": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "43": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "44": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "45": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "46": {
+      "element_components": [
+        "CC-PV5Z-PP_peterson2005a_peterson2007a.0.json",
+        "AUG-CC-PV5Z-PP_peterson2005a_peterson2007a.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "47": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "48": {
+      "element_components": [
+        "CC-PV5Z-PP_noref.json",
+        "AUG-CC-PV5Z-PP_noref.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "49": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "50": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "51": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "52": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "53": {
+      "element_components": [
+        "CC-PV5Z-PP_peterson2003b_peterson2006a.0.json",
+        "AUG-CC-PV5Z-PP_peterson2003b_peterson2006a.0.json",
+        "STUTTGART-MCDHF-RSC-ECP_peterson2003b_peterson2006a.0.json"
+      ]
+    },
+    "54": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "72": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "73": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "74": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "75": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "76": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "77": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "78": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "79": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "80": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "81": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "82": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "83": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "84": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "85": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
+    },
+    "86": {
+      "element_components": [
+        "CC-PV5Z-PP.0.json",
+        "AUG-CC-PV5Z-PP.0.json",
+        "STUTTGART-MCDHF-RSC-ECP.0.json"
+      ]
     }
+  }
 }

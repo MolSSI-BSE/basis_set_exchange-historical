@@ -1,20 +1,20 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "Blaudeau Polarization",
+  "description": "1P      Polarization functions",
+  "elements": {
+    "19": {
+      "element_components": [
+        "6-31GS-BLAUDEAU.0.json"
+      ]
     },
-    "basis_set_name": "Blaudeau Polarization",
-    "basis_set_description": "1P      Polarization functions",
-    "basis_set_elements": {
-        "19": {
-            "element_components": [
-                "6-31GS-BLAUDEAU.0.json"
-            ]
-        },
-        "20": {
-            "element_components": [
-                "6-31GS-BLAUDEAU.0.json"
-            ]
-        }
+    "20": {
+      "element_components": [
+        "6-31GS-BLAUDEAU.0.json"
+      ]
     }
+  }
 }

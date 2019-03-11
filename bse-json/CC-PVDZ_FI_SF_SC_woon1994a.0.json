@@ -1,61 +1,61 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "component",
-        "schema_version": "0.1"
-    },
-    "basis_set_description": "VDZP    Relativistic Valence Double Zeta + Polarization",
-    "basis_set_data_source": "Original Basis Set Exchange",
-    "basis_set_elements": {
-        "2": {
-            "element_references": [
-                "woon1994a"
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "VDZP    Relativistic Valence Double Zeta + Polarization",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "2": {
+      "references": [
+        "woon1994a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "3.8360000E+01",
+            "5.7700000E+00",
+            "1.2400000E+00",
+            "2.9760000E-01"
+          ],
+          "coefficients": [
+            [
+              "2.38133585062E-02",
+              "1.54903399380E-01",
+              "4.69984922799E-01",
+              "5.12992389006E-01"
             ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "3.8360000E+01",
-                        "5.7700000E+00",
-                        "1.2400000E+00",
-                        "2.9760000E-01"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "2.38133585062E-02",
-                            "1.54903399380E-01",
-                            "4.69984922799E-01",
-                            "5.12992389006E-01"
-                        ],
-                        [
-                            "0.00000000000E+00",
-                            "0.00000000000E+00",
-                            "0.00000000000E+00",
-                            "9.99925723852E-01"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "1.2750000E+00"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "9.99872723867E-01"
-                        ]
-                    ]
-                }
+            [
+              "0.00000000000E+00",
+              "0.00000000000E+00",
+              "0.00000000000E+00",
+              "9.99925723852E-01"
             ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "1.2750000E+00"
+          ],
+          "coefficients": [
+            [
+              "9.99872723867E-01"
+            ]
+          ]
         }
+      ]
     }
+  }
 }

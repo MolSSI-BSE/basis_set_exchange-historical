@@ -1,15 +1,15 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
-    },
-    "basis_set_name": "NASA Ames cc-pCVTZ",
-    "basis_set_description": "VTZ2P   Valence Triple Zeta + Polarization on All Atoms",
-    "basis_set_elements": {
-        "22": {
-            "element_components": [
-                "NASA_CC-PCVTZ.json"
-            ]
-        }
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "NASA Ames cc-pCVTZ",
+  "description": "VTZ2P   Valence Triple Zeta + Polarization on All Atoms",
+  "elements": {
+    "22": {
+      "element_components": [
+        "NASA_CC-PCVTZ.json"
+      ]
     }
+  }
 }

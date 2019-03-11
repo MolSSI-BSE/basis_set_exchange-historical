@@ -1,15 +1,15 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
-    },
-    "basis_set_name": "Feller Misc. CVDZ",
-    "basis_set_description": "DZP     Double Zeta + Polarization on All Atoms",
-    "basis_set_elements": {
-        "19": {
-            "element_components": [
-                "FELLER_VDZ.json"
-            ]
-        }
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "Feller Misc. CVDZ",
+  "description": "DZP     Double Zeta + Polarization on All Atoms",
+  "elements": {
+    "19": {
+      "element_components": [
+        "FELLER_VDZ.json"
+      ]
     }
+  }
 }

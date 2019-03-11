@@ -1,11 +1,11 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "metadata",
-        "schema_version": "0.1"
-    },
-    "basis_set_name": "DeMon Coulomb Fitting",
-    "basis_set_family": "other_family",
-    "basis_set_description": "DFT     Coulomb Fitting",
-    "basis_set_role": "orbital",
-    "basis_set_auxiliaries": {}
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "name": "DeMon Coulomb Fitting",
+  "family": "other_family",
+  "description": "DFT     Coulomb Fitting",
+  "role": "orbital",
+  "auxiliaries": {}
 }

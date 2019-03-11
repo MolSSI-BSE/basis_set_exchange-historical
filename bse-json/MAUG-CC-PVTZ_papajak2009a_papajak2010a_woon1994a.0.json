@@ -1,99 +1,99 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "component",
-        "schema_version": "0.1"
-    },
-    "basis_set_description": "maug-cc-pVTZ",
-    "basis_set_data_source": "Original Basis Set Exchange",
-    "basis_set_elements": {
-        "2": {
-            "element_references": [
-                "papajak2009a",
-                "papajak2010a",
-                "woon1994a"
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "maug-cc-pVTZ",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "2": {
+      "references": [
+        "papajak2009a",
+        "papajak2010a",
+        "woon1994a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "234.0000000",
+            "35.1600000",
+            "7.9890000",
+            "2.2120000",
+            "0.6669000",
+            "0.2089000"
+          ],
+          "coefficients": [
+            [
+              "0.0025870",
+              "0.0195330",
+              "0.0909980",
+              "0.2720500",
+              "0.0000000",
+              "0.0000000"
             ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "234.0000000",
-                        "35.1600000",
-                        "7.9890000",
-                        "2.2120000",
-                        "0.6669000",
-                        "0.2089000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "0.0025870",
-                            "0.0195330",
-                            "0.0909980",
-                            "0.2720500",
-                            "0.0000000",
-                            "0.0000000"
-                        ],
-                        [
-                            "0.0000000",
-                            "0.0000000",
-                            "0.0000000",
-                            "0.0000000",
-                            "1.0000000",
-                            "0.0000000"
-                        ],
-                        [
-                            "0.0000000",
-                            "0.0000000",
-                            "0.0000000",
-                            "0.0000000",
-                            "0.0000000",
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "3.0440000",
-                        "0.7580000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000",
-                            "0.0000000"
-                        ],
-                        [
-                            "0.0000000",
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        2
-                    ],
-                    "shell_exponents": [
-                        "1.9650000"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
+            [
+              "0.0000000",
+              "0.0000000",
+              "0.0000000",
+              "0.0000000",
+              "1.0000000",
+              "0.0000000"
+            ],
+            [
+              "0.0000000",
+              "0.0000000",
+              "0.0000000",
+              "0.0000000",
+              "0.0000000",
+              "1.0000000"
             ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "3.0440000",
+            "0.7580000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000",
+              "0.0000000"
+            ],
+            [
+              "0.0000000",
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            2
+          ],
+          "exponents": [
+            "1.9650000"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
         }
+      ]
     }
+  }
 }

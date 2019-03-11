@@ -1,25 +1,25 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "Glendening Polarization",
+  "description": "1P      Polarization functions",
+  "elements": {
+    "19": {
+      "element_components": [
+        "GLENDENING_POL_GLENDENING_POL-BS-REF.json"
+      ]
     },
-    "basis_set_name": "Glendening Polarization",
-    "basis_set_description": "1P      Polarization functions",
-    "basis_set_elements": {
-        "19": {
-            "element_components": [
-                "GLENDENING_POL_GLENDENING_POL-BS-REF.json"
-            ]
-        },
-        "37": {
-            "element_components": [
-                "GLENDENING_POL_GLENDENING_POL-BS-REF.json"
-            ]
-        },
-        "55": {
-            "element_components": [
-                "GLENDENING_POL_GLENDENING_POL-BS-REF.json"
-            ]
-        }
+    "37": {
+      "element_components": [
+        "GLENDENING_POL_GLENDENING_POL-BS-REF.json"
+      ]
+    },
+    "55": {
+      "element_components": [
+        "GLENDENING_POL_GLENDENING_POL-BS-REF.json"
+      ]
     }
+  }
 }

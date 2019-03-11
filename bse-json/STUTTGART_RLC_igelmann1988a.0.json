@@ -1,89 +1,89 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "component",
-        "schema_version": "0.1"
-    },
-    "basis_set_description": "DZ      Double Zeta Basis Set designed for an ECP",
-    "basis_set_data_source": "Original Basis Set Exchange",
-    "basis_set_elements": {
-        "13": {
-            "element_references": [
-                "igelmann1988a"
-            ],
-            "element_electron_shells": [
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "2.7863370",
-                        "1.1436350",
-                        "0.1700270"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "-0.0464110",
-                            "0.2744720",
-                            "-0.6252340"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        0
-                    ],
-                    "shell_exponents": [
-                        "0.0673240"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.9837940",
-                        "0.3582450",
-                        "0.1381580"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "0.0520360",
-                            "-0.1550940",
-                            "-0.5325840"
-                        ]
-                    ]
-                },
-                {
-                    "shell_function_type": "gto",
-                    "shell_harmonic_type": "spherical",
-                    "shell_region": "",
-                    "shell_angular_momentum": [
-                        1
-                    ],
-                    "shell_exponents": [
-                        "0.0449750"
-                    ],
-                    "shell_coefficients": [
-                        [
-                            "1.0000000"
-                        ]
-                    ]
-                }
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "DZ      Double Zeta Basis Set designed for an ECP",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {
+    "13": {
+      "references": [
+        "igelmann1988a"
+      ],
+      "electron_shells": [
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "2.7863370",
+            "1.1436350",
+            "0.1700270"
+          ],
+          "coefficients": [
+            [
+              "-0.0464110",
+              "0.2744720",
+              "-0.6252340"
             ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            0
+          ],
+          "exponents": [
+            "0.0673240"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.9837940",
+            "0.3582450",
+            "0.1381580"
+          ],
+          "coefficients": [
+            [
+              "0.0520360",
+              "-0.1550940",
+              "-0.5325840"
+            ]
+          ]
+        },
+        {
+          "function_type": "gto",
+          "harmonic_type": "spherical",
+          "region": "",
+          "angular_momentum": [
+            1
+          ],
+          "exponents": [
+            "0.0449750"
+          ],
+          "coefficients": [
+            [
+              "1.0000000"
+            ]
+          ]
         }
+      ]
     }
+  }
 }

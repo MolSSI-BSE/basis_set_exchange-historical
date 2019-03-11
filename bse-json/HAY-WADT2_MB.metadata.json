@@ -1,11 +1,11 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "metadata",
-        "schema_version": "0.1"
-    },
-    "basis_set_name": "Hay-Wadt MB (n+1) ECP",
-    "basis_set_family": "other_family",
-    "basis_set_description": "MB      Minimal Basis Set designed for an ECP",
-    "basis_set_role": "orbital",
-    "basis_set_auxiliaries": {}
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "name": "Hay-Wadt MB (n+1) ECP",
+  "family": "other_family",
+  "description": "MB      Minimal Basis Set designed for an ECP",
+  "role": "orbital",
+  "auxiliaries": {}
 }

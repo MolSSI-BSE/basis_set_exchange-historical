@@ -1,180 +1,180 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "cc-pVDZ-DK",
+  "description": "cc-pVDZ-DK",
+  "elements": {
+    "1": {
+      "element_components": [
+        "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
+      ]
     },
-    "basis_set_name": "cc-pVDZ-DK",
-    "basis_set_description": "cc-pVDZ-DK",
-    "basis_set_elements": {
-        "1": {
-            "element_components": [
-                "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
-            ]
-        },
-        "2": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "3": {
-            "element_components": [
-                "CC-PVDZ-DK.0.json"
-            ]
-        },
-        "4": {
-            "element_components": [
-                "CC-PVDZ-DK.0.json"
-            ]
-        },
-        "5": {
-            "element_components": [
-                "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
-            ]
-        },
-        "6": {
-            "element_components": [
-                "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
-            ]
-        },
-        "7": {
-            "element_components": [
-                "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
-            ]
-        },
-        "8": {
-            "element_components": [
-                "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
-            ]
-        },
-        "9": {
-            "element_components": [
-                "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
-            ]
-        },
-        "10": {
-            "element_components": [
-                "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
-            ]
-        },
-        "11": {
-            "element_components": [
-                "CC-PVDZ-DK.0.json"
-            ]
-        },
-        "12": {
-            "element_components": [
-                "CC-PVDZ-DK.0.json"
-            ]
-        },
-        "13": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "14": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "15": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "16": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "17": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "18": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "21": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "22": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "23": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "24": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "25": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "26": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "27": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "28": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "29": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "30": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "31": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "32": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "33": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "34": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "35": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        },
-        "36": {
-            "element_components": [
-                "CC-PVDZ-DK.json"
-            ]
-        }
+    "2": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "3": {
+      "element_components": [
+        "CC-PVDZ-DK.0.json"
+      ]
+    },
+    "4": {
+      "element_components": [
+        "CC-PVDZ-DK.0.json"
+      ]
+    },
+    "5": {
+      "element_components": [
+        "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
+      ]
+    },
+    "6": {
+      "element_components": [
+        "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
+      ]
+    },
+    "7": {
+      "element_components": [
+        "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
+      ]
+    },
+    "8": {
+      "element_components": [
+        "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
+      ]
+    },
+    "9": {
+      "element_components": [
+        "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
+      ]
+    },
+    "10": {
+      "element_components": [
+        "CC-PVDZ-DK_dunning1989a_jong2001a.0.json"
+      ]
+    },
+    "11": {
+      "element_components": [
+        "CC-PVDZ-DK.0.json"
+      ]
+    },
+    "12": {
+      "element_components": [
+        "CC-PVDZ-DK.0.json"
+      ]
+    },
+    "13": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "14": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "15": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "16": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "17": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "18": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "21": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "22": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "23": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "24": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "25": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "26": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "27": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "28": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "29": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "30": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "31": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "32": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "33": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "34": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "35": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
+    },
+    "36": {
+      "element_components": [
+        "CC-PVDZ-DK.json"
+      ]
     }
+  }
 }

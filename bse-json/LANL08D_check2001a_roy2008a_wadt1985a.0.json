@@ -1,9 +1,9 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "component",
-        "schema_version": "0.1"
-    },
-    "basis_set_description": "LANL08d",
-    "basis_set_data_source": "Original Basis Set Exchange",
-    "basis_set_elements": {}
+  "molssi_bse_schema": {
+    "schema_type": "component",
+    "schema_version": "0.1"
+  },
+  "description": "LANL08d",
+  "data_source": "Original Basis Set Exchange",
+  "elements": {}
 }

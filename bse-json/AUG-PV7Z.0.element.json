@@ -1,35 +1,35 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "aug-pV7Z Diffuse",
+  "description": "1D      Diffuse Functions",
+  "elements": {
+    "6": {
+      "element_components": [
+        "AUG-PV7Z_AUG-PV7Z-BS-REF.json"
+      ]
     },
-    "basis_set_name": "aug-pV7Z Diffuse",
-    "basis_set_description": "1D      Diffuse Functions",
-    "basis_set_elements": {
-        "6": {
-            "element_components": [
-                "AUG-PV7Z_AUG-PV7Z-BS-REF.json"
-            ]
-        },
-        "7": {
-            "element_components": [
-                "AUG-PV7Z_AUG-PV7Z-BS-REF.json"
-            ]
-        },
-        "8": {
-            "element_components": [
-                "AUG-PV7Z_AUG-PV7Z-BS-REF.json"
-            ]
-        },
-        "9": {
-            "element_components": [
-                "AUG-PV7Z_AUG-PV7Z-BS-REF.json"
-            ]
-        },
-        "16": {
-            "element_components": [
-                "AUG-PV7Z_AUG-PV7Z-BS-REF.json"
-            ]
-        }
+    "7": {
+      "element_components": [
+        "AUG-PV7Z_AUG-PV7Z-BS-REF.json"
+      ]
+    },
+    "8": {
+      "element_components": [
+        "AUG-PV7Z_AUG-PV7Z-BS-REF.json"
+      ]
+    },
+    "9": {
+      "element_components": [
+        "AUG-PV7Z_AUG-PV7Z-BS-REF.json"
+      ]
+    },
+    "16": {
+      "element_components": [
+        "AUG-PV7Z_AUG-PV7Z-BS-REF.json"
+      ]
     }
+  }
 }

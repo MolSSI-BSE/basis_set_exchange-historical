@@ -1,355 +1,355 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "Stuttgart RSC ANO/ECP",
+  "description": "QZ      Quadruple Zeta Basis Set designed for an ECP",
+  "elements": {
+    "19": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
     },
-    "basis_set_name": "Stuttgart RSC ANO/ECP",
-    "basis_set_description": "QZ      Quadruple Zeta Basis Set designed for an ECP",
-    "basis_set_elements": {
-        "19": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "20": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "21": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "22": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "23": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "24": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "25": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "26": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "27": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "28": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "29": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "30": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "37": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "38": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "39": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "40": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "41": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "42": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "43": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "44": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "45": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "46": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "47": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "48": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "55": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "56": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "57": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "58": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "59": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "60": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "61": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "62": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "63": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "64": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "65": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "66": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "67": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "68": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "69": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "70": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "71": {
-            "element_components": [
-                "STUTTGART_RSC_ANO_noref.json",
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "72": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "73": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "74": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "75": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "76": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "77": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "78": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "79": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "80": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "89": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "90": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "91": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "92": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "93": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "94": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "95": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "96": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "97": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "98": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "99": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "100": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "101": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "102": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "103": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        },
-        "105": {
-            "element_components": [
-                "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
-            ]
-        }
+    "20": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "21": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "22": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "23": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "24": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "25": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "26": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "27": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "28": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "29": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "30": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "37": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "38": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "39": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "40": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "41": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "42": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "43": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "44": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "45": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "46": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "47": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "48": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "55": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "56": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "57": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "58": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "59": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "60": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "61": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "62": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "63": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "64": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "65": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "66": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "67": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "68": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "69": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "70": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "71": {
+      "element_components": [
+        "STUTTGART_RSC_ANO_noref.json",
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "72": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "73": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "74": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "75": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "76": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "77": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "78": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "79": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "80": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "89": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "90": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "91": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "92": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "93": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "94": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "95": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "96": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "97": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "98": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "99": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "100": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "101": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "102": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "103": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
+    },
+    "105": {
+      "element_components": [
+        "STUTTGART_RSC97-ECP_STUTTGART_RSC97-ECP-REF.json"
+      ]
     }
+  }
 }

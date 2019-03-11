@@ -1,15 +1,15 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
-    },
-    "basis_set_name": "aug-mcc-pV7Z",
-    "basis_set_description": "aug-mcc-pV7Z",
-    "basis_set_elements": {
-        "1": {
-            "element_components": [
-                "AUG-MCC-PV7Z.0.json"
-            ]
-        }
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "aug-mcc-pV7Z",
+  "description": "aug-mcc-pV7Z",
+  "elements": {
+    "1": {
+      "element_components": [
+        "AUG-MCC-PV7Z.0.json"
+      ]
     }
+  }
 }

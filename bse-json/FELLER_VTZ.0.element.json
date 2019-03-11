@@ -1,15 +1,15 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
-    },
-    "basis_set_name": "Feller Misc. CVTZ",
-    "basis_set_description": "TZ2P    Triple Zeta + Polarization on All Atoms",
-    "basis_set_elements": {
-        "19": {
-            "element_components": [
-                "FELLER_VTZ_feller1995a.0.json"
-            ]
-        }
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "Feller Misc. CVTZ",
+  "description": "TZ2P    Triple Zeta + Polarization on All Atoms",
+  "elements": {
+    "19": {
+      "element_components": [
+        "FELLER_VTZ_feller1995a.0.json"
+      ]
     }
+  }
 }

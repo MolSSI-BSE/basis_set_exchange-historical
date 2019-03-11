@@ -1,129 +1,129 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "6-311++G(3df,3pd)",
+  "description": "VTZ3PD  Valence Triple Zeta + Triple Polar. + Diffuse on All Atoms",
+  "elements": {
+    "1": {
+      "element_components": [
+        "6-311G_krishnan1980a.0.json",
+        "6-311G3DF3PD.0.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
     },
-    "basis_set_name": "6-311++G(3df,3pd)",
-    "basis_set_description": "VTZ3PD  Valence Triple Zeta + Triple Polar. + Diffuse on All Atoms",
-    "basis_set_elements": {
-        "1": {
-            "element_components": [
-                "6-311G_krishnan1980a.0.json",
-                "6-311G3DF3PD.0.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "3": {
-            "element_components": [
-                "6-311G_krishnan1980a.0.json",
-                "6-311G3DF3PD.0.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "4": {
-            "element_components": [
-                "6-311G_krishnan1980a.0.json",
-                "6-311G3DF3PD.0.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "5": {
-            "element_components": [
-                "6-311G_krishnan1980a.0.json",
-                "6-311G3DF3PD.0.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "6": {
-            "element_components": [
-                "6-311G_krishnan1980a.0.json",
-                "6-311G3DF3PD.0.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "7": {
-            "element_components": [
-                "6-311G_krishnan1980a.0.json",
-                "6-311G3DF3PD.0.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "8": {
-            "element_components": [
-                "6-311G_krishnan1980a.0.json",
-                "6-311G3DF3PD.0.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "9": {
-            "element_components": [
-                "6-311G_krishnan1980a.0.json",
-                "6-311G3DF3PD.0.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "10": {
-            "element_components": [
-                "6-311G_krishnan1980a.0.json",
-                "6-311G3DF3PD.0.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "11": {
-            "element_components": [
-                "6-311G_mclean1980a.0.json",
-                "6-311G3DF3PD_noref.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "12": {
-            "element_components": [
-                "6-311G_mclean1980a.0.json",
-                "6-311G3DF3PD_noref.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "13": {
-            "element_components": [
-                "6-311G_mclean1980a.0.json",
-                "6-311G3DF3PD_noref.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "14": {
-            "element_components": [
-                "6-311G_mclean1980a.0.json",
-                "6-311G3DF3PD_noref.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "15": {
-            "element_components": [
-                "6-311G_mclean1980a.0.json",
-                "6-311G3DF3PD_noref.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "16": {
-            "element_components": [
-                "6-311G_mclean1980a.0.json",
-                "6-311G3DF3PD_noref.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "17": {
-            "element_components": [
-                "6-311G_mclean1980a.0.json",
-                "6-311G3DF3PD_noref.json",
-                "POPLDIFF_clark1983a.0.json"
-            ]
-        },
-        "18": {
-            "element_components": [
-                "6-311G_mclean1980a.0.json",
-                "6-311G3DF3PD_noref.json",
-                "POPLDIFF_noref.json"
-            ]
-        }
+    "3": {
+      "element_components": [
+        "6-311G_krishnan1980a.0.json",
+        "6-311G3DF3PD.0.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "4": {
+      "element_components": [
+        "6-311G_krishnan1980a.0.json",
+        "6-311G3DF3PD.0.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "5": {
+      "element_components": [
+        "6-311G_krishnan1980a.0.json",
+        "6-311G3DF3PD.0.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "6": {
+      "element_components": [
+        "6-311G_krishnan1980a.0.json",
+        "6-311G3DF3PD.0.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "7": {
+      "element_components": [
+        "6-311G_krishnan1980a.0.json",
+        "6-311G3DF3PD.0.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "8": {
+      "element_components": [
+        "6-311G_krishnan1980a.0.json",
+        "6-311G3DF3PD.0.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "9": {
+      "element_components": [
+        "6-311G_krishnan1980a.0.json",
+        "6-311G3DF3PD.0.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "10": {
+      "element_components": [
+        "6-311G_krishnan1980a.0.json",
+        "6-311G3DF3PD.0.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "11": {
+      "element_components": [
+        "6-311G_mclean1980a.0.json",
+        "6-311G3DF3PD_noref.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "12": {
+      "element_components": [
+        "6-311G_mclean1980a.0.json",
+        "6-311G3DF3PD_noref.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "13": {
+      "element_components": [
+        "6-311G_mclean1980a.0.json",
+        "6-311G3DF3PD_noref.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "14": {
+      "element_components": [
+        "6-311G_mclean1980a.0.json",
+        "6-311G3DF3PD_noref.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "15": {
+      "element_components": [
+        "6-311G_mclean1980a.0.json",
+        "6-311G3DF3PD_noref.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "16": {
+      "element_components": [
+        "6-311G_mclean1980a.0.json",
+        "6-311G3DF3PD_noref.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "17": {
+      "element_components": [
+        "6-311G_mclean1980a.0.json",
+        "6-311G3DF3PD_noref.json",
+        "POPLDIFF_clark1983a.0.json"
+      ]
+    },
+    "18": {
+      "element_components": [
+        "6-311G_mclean1980a.0.json",
+        "6-311G3DF3PD_noref.json",
+        "POPLDIFF_noref.json"
+      ]
     }
+  }
 }

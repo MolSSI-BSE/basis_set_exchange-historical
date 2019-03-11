@@ -1,11 +1,11 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "metadata",
-        "schema_version": "0.1"
-    },
-    "basis_set_name": "4-22GSP",
-    "basis_set_family": "other_family",
-    "basis_set_description": "VDZD    Valence Double Zeta",
-    "basis_set_role": "orbital",
-    "basis_set_auxiliaries": {}
+  "molssi_bse_schema": {
+    "schema_type": "metadata",
+    "schema_version": "0.1"
+  },
+  "name": "4-22GSP",
+  "family": "other_family",
+  "description": "VDZD    Valence Double Zeta",
+  "role": "orbital",
+  "auxiliaries": {}
 }

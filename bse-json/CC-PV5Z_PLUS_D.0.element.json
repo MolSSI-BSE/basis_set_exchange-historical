@@ -1,40 +1,40 @@
 {
-    "molssi_bse_schema": {
-        "schema_type": "element",
-        "schema_version": "0.1"
+  "molssi_bse_schema": {
+    "schema_type": "element",
+    "schema_version": "0.1"
+  },
+  "name": "cc-pV(5+d)Z",
+  "description": "V5Z4P   Valence Quintuple Zeta + Polarization on All Atoms",
+  "elements": {
+    "13": {
+      "element_components": [
+        "CC-PV5Z_PLUS_D_noref.json"
+      ]
     },
-    "basis_set_name": "cc-pV(5+d)Z",
-    "basis_set_description": "V5Z4P   Valence Quintuple Zeta + Polarization on All Atoms",
-    "basis_set_elements": {
-        "13": {
-            "element_components": [
-                "CC-PV5Z_PLUS_D_noref.json"
-            ]
-        },
-        "14": {
-            "element_components": [
-                "CC-PV5Z_PLUS_D_noref.json"
-            ]
-        },
-        "15": {
-            "element_components": [
-                "CC-PV5Z_PLUS_D_noref.json"
-            ]
-        },
-        "16": {
-            "element_components": [
-                "CC-PV5Z_PLUS_D_noref.json"
-            ]
-        },
-        "17": {
-            "element_components": [
-                "CC-PV5Z_PLUS_D_noref.json"
-            ]
-        },
-        "18": {
-            "element_components": [
-                "CC-PV5Z_PLUS_D_noref.json"
-            ]
-        }
+    "14": {
+      "element_components": [
+        "CC-PV5Z_PLUS_D_noref.json"
+      ]
+    },
+    "15": {
+      "element_components": [
+        "CC-PV5Z_PLUS_D_noref.json"
+      ]
+    },
+    "16": {
+      "element_components": [
+        "CC-PV5Z_PLUS_D_noref.json"
+      ]
+    },
+    "17": {
+      "element_components": [
+        "CC-PV5Z_PLUS_D_noref.json"
+      ]
+    },
+    "18": {
+      "element_components": [
+        "CC-PV5Z_PLUS_D_noref.json"
+      ]
     }
+  }
 }
