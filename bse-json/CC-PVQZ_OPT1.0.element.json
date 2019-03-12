@@ -7,22 +7,22 @@
   "description": "VQZ3P   Valence Quadruple Zeta + Polarization on All Atoms",
   "elements": {
     "1": {
-      "element_components": [
+      "components": [
         "CC-PVQZ_OPT1_dunning1989a.0.json"
       ]
     },
     "2": {
-      "element_components": [
+      "components": [
         "CC-PVQZ_OPT1_woon1994a.0.json"
       ]
     },
     "6": {
-      "element_components": [
+      "components": [
         "CC-PVQZ_OPT1_dunning1989a.0.json"
       ]
     },
     "8": {
-      "element_components": [
+      "components": [
         "CC-PVQZ_OPT1_dunning1989a.0.json"
       ]
     }

@@ -7,56 +7,56 @@
   "description": "VDZ2PD  Valence Double Zeta + Polarization + Diffuse",
   "elements": {
     "1": {
-      "element_components": [
+      "components": [
         "CC-PVDZ_dunning1989a.0.json",
         "AUG-CC-PVDZ_dunning1989a.0.json",
         "DAUG-CC-PVDZ.0.json"
       ]
     },
     "2": {
-      "element_components": [
+      "components": [
         "CC-PVDZ_woon1994a.0.json",
         "AUG-CC-PVDZ_woon1994a.0.json",
         "DAUG-CC-PVDZ.0.json"
       ]
     },
     "5": {
-      "element_components": [
+      "components": [
         "CC-PVDZ_dunning1989a.0.json",
         "AUG-CC-PVDZ_kendall1992a.0.json",
         "DAUG-CC-PVDZ_noref.json"
       ]
     },
     "6": {
-      "element_components": [
+      "components": [
         "CC-PVDZ_dunning1989a.0.json",
         "AUG-CC-PVDZ_kendall1992a.0.json",
         "DAUG-CC-PVDZ_noref.json"
       ]
     },
     "7": {
-      "element_components": [
+      "components": [
         "CC-PVDZ_dunning1989a.0.json",
         "AUG-CC-PVDZ_kendall1992a.0.json",
         "DAUG-CC-PVDZ_noref.json"
       ]
     },
     "8": {
-      "element_components": [
+      "components": [
         "CC-PVDZ_dunning1989a.0.json",
         "AUG-CC-PVDZ_kendall1992a.0.json",
         "DAUG-CC-PVDZ_noref.json"
       ]
     },
     "9": {
-      "element_components": [
+      "components": [
         "CC-PVDZ_dunning1989a.0.json",
         "AUG-CC-PVDZ_kendall1992a.0.json",
         "DAUG-CC-PVDZ_noref.json"
       ]
     },
     "10": {
-      "element_components": [
+      "components": [
         "CC-PVDZ_dunning1989a.0.json",
         "AUG-CC-PVDZ_noref.json",
         "DAUG-CC-PVDZ_noref.json"
