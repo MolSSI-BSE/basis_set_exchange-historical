@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "SVP + Rydberg (Dunning-Hay)",
+  "names": [
+    "SVP + Rydberg (Dunning-Hay)"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VDZP1R  Valence Double Zeta + Polarization + Rydberg",
   "role": "orbital",

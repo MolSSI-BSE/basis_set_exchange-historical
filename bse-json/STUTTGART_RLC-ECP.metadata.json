@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Stuttgart RLC ECP",
+  "names": [
+    "Stuttgart RLC ECP"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "Stuttgart RLC ECP",
   "role": "orbital",

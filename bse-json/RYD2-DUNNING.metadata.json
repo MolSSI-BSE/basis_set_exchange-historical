@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Dunning-Hay Double Rydberg",
+  "names": [
+    "Dunning-Hay Double Rydberg"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "2R      Double Rydberg Functions",
   "role": "orbital",

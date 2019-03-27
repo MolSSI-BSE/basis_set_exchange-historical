@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "aug-cc-pV5Z-DK",
+  "names": [
+    "aug-cc-pV5Z-DK"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "V5ZPD   All-electron Douglas-Kroll Valence Quintuple Zeta + Polarization",
   "role": "orbital",

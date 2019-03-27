@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Binning/Curtiss VTZ",
+  "names": [
+    "Binning/Curtiss VTZ"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VTZ     Valence Triple Zeta: 3 Functions/valence AO",
   "role": "orbital",

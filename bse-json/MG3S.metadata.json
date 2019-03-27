@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "MG3S",
+  "names": [
+    "MG3S"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "MG3S",
   "role": "orbital",

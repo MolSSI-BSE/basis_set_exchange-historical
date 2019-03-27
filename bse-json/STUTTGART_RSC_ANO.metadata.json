@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Stuttgart RSC ANO/ECP",
+  "names": [
+    "Stuttgart RSC ANO/ECP"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "QZ      Quadruple Zeta Basis Set designed for an ECP",
   "role": "orbital",

@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "6-31G(3df,3pd)",
+  "names": [
+    "6-31G(3df,3pd)"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VDZ3P   Valence Double Zeta + Triple Polarization on All Atoms",
   "role": "orbital",

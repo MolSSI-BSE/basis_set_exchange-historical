@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Pople (3df,3pd) Polarization",
+  "names": [
+    "Pople (3df,3pd) Polarization"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "3P      Polarization functions associated with 6-31G and 6-311G",
   "role": "orbital",

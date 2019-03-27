@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "NASA Ames cc-pCVTZ",
+  "names": [
+    "NASA Ames cc-pCVTZ"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VTZ2P   Valence Triple Zeta + Polarization on All Atoms",
   "role": "orbital",

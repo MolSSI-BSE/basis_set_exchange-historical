@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "TZVP (DFT Orbital)",
+  "names": [
+    "TZVP (DFT Orbital)"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VTZP    Valence Triple Zeta + Polarization designed for DFT",
   "role": "orbital",

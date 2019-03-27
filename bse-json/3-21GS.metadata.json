@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "3-21G* Polarization",
+  "names": [
+    "3-21G* Polarization"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "1P      Polarization functions from 3-21G*",
   "role": "orbital",

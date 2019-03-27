@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "GAMESS PVTZ",
+  "names": [
+    "GAMESS PVTZ"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VTZP    Valence Triple Zeta + Polarization on All Atoms",
   "role": "orbital",

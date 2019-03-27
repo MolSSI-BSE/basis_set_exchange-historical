@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "WTBS",
+  "names": [
+    "WTBS"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "MB      Minimal Basis: 1 Function/AO",
   "role": "orbital",

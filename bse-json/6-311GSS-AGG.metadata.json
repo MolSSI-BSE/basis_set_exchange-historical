@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "6-311G**",
+  "names": [
+    "6-311G**"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VTZP    Valence Triple Zeta + Polarization on All Atoms",
   "role": "orbital",

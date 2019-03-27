@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "DeMon Coulomb Fitting",
+  "names": [
+    "DeMon Coulomb Fitting"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "DFT     Coulomb Fitting",
   "role": "orbital",

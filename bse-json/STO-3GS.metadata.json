@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "STO-3G* Polarization",
+  "names": [
+    "STO-3G* Polarization"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "1P      Polarization functions from STO-3G*",
   "role": "orbital",

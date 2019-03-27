@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "aug-cc-pCVDZ",
+  "names": [
+    "aug-cc-pCVDZ"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "DZ2PD   Double Zeta + Polarization + Diffuse on All Atoms",
   "role": "orbital",

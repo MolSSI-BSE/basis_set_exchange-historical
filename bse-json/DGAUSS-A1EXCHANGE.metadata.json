@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "DGauss A1 DFT Exchange Fitting",
+  "names": [
+    "DGauss A1 DFT Exchange Fitting"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "DFT     Exchange Fitting",
   "role": "orbital",

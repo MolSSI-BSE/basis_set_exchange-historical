@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Stuttgart-Koeln MCDHF RSC ECP",
+  "names": [
+    "Stuttgart-Koeln MCDHF RSC ECP"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "Stuttgart-Koeln MCDHF RSC ECP",
   "role": "orbital",

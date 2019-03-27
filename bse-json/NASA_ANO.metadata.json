@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "NASA Ames ANO",
+  "names": [
+    "NASA Ames ANO"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VQZ3P   Valence Quadruple Zeta + Polarization on All Atoms",
   "role": "orbital",

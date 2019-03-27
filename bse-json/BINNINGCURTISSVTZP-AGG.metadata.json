@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Binning/Curtiss VTZP",
+  "names": [
+    "Binning/Curtiss VTZP"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VTZP    Valence Triple Zeta + Polarization",
   "role": "orbital",

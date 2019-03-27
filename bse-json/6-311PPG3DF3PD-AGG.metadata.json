@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "6-311++G(3df,3pd)",
+  "names": [
+    "6-311++G(3df,3pd)"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VTZ3PD  Valence Triple Zeta + Triple Polar. + Diffuse on All Atoms",
   "role": "orbital",

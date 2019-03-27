@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Feller Misc. CVDZ",
+  "names": [
+    "Feller Misc. CVDZ"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "DZP     Double Zeta + Polarization on All Atoms",
   "role": "orbital",

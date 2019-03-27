@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "6-311G(2df,2pd)",
+  "names": [
+    "6-311G(2df,2pd)"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VTZ2P   Valence Triple Zeta + Double Polarization",
   "role": "orbital",

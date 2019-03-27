@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "SV + Double Rydberg (Dunning-Hay)",
+  "names": [
+    "SV + Double Rydberg (Dunning-Hay)"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VDZ2R   Valence Double Zeta + Double Rydberg Functions",
   "role": "orbital",

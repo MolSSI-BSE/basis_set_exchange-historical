@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "s3-21G",
+  "names": [
+    "s3-21G"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "s3-21G",
   "role": "orbital",

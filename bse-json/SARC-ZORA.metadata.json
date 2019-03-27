@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "SARC-ZORA",
+  "names": [
+    "SARC-ZORA"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "SARC-ZORA",
   "role": "orbital",

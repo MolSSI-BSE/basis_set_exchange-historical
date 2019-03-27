@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "aug-cc-pCV5Z",
+  "names": [
+    "aug-cc-pCV5Z"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "5Z4P    Quintuple Zeta + Polarization on All Atoms",
   "role": "orbital",

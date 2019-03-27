@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "dhf-ECP",
+  "names": [
+    "dhf-ECP"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "dhf-ECP",
   "role": "orbital",

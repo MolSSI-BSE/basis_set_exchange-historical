@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "aug-cc-pVQZ-DK",
+  "names": [
+    "aug-cc-pVQZ-DK"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VQZPD   All-electron Douglas-Kroll Valence Quadruple Zeta + Polarization",
   "role": "orbital",

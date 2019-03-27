@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Pople (2d,2p) Polarization",
+  "names": [
+    "Pople (2d,2p) Polarization"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "Pople (2d,2p) Polarization",
   "role": "orbital",

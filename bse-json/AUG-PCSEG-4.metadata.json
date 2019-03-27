@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "aug-pcseg-4",
+  "names": [
+    "aug-pcseg-4"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "aug-pcseg-4",
   "role": "orbital",

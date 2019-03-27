@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "aug-cc-pwCVTZ-DK",
+  "names": [
+    "aug-cc-pwCVTZ-DK"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VTZ2P   All-electron Douglas-Kroll Core-Valence Triple Zeta + Polarization",
   "role": "orbital",

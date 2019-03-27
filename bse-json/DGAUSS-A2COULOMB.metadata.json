@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "DGauss A2 DFT Coulomb Fitting",
+  "names": [
+    "DGauss A2 DFT Coulomb Fitting"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "DFT     Coulomb Fitting",
   "role": "orbital",

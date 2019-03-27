@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "G3MP2large",
+  "names": [
+    "G3MP2large"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "G3MP2large",
   "role": "orbital",

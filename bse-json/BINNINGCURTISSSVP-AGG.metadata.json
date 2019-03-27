@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Binning/Curtiss SVP",
+  "names": [
+    "Binning/Curtiss SVP"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VDZP    Valence Double Zeta + Polarization",
   "role": "orbital",

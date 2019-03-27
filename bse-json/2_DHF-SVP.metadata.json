@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "dhf-SVP",
+  "names": [
+    "dhf-SVP"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "dhf-SVP",
   "role": "orbital",

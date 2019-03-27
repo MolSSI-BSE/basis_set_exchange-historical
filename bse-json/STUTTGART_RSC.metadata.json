@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Stuttgart RSC Segmented/ECP",
+  "names": [
+    "Stuttgart RSC Segmented/ECP"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "QZ      Quadruple Zeta Basis Set designed for an ECP",
   "role": "orbital",

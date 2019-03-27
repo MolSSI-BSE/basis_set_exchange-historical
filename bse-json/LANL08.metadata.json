@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "LANL08",
+  "names": [
+    "LANL08"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "LANL08",
   "role": "orbital",

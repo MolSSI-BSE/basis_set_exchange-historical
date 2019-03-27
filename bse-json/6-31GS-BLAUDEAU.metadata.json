@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Blaudeau Polarization",
+  "names": [
+    "Blaudeau Polarization"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "1P      Polarization functions",
   "role": "orbital",

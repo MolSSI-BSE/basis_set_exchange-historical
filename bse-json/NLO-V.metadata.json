@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "NLO-V",
+  "names": [
+    "NLO-V"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "NLO-V",
   "role": "orbital",

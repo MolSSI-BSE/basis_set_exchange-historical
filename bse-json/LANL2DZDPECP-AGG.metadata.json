@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "LANL2DZdp ECP",
+  "names": [
+    "LANL2DZdp ECP"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "DZP     Double Zeta + Polarization + Diffuse ECP",
   "role": "orbital",

@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "aug-cc-pV(Q+d)Z",
+  "names": [
+    "aug-cc-pV(Q+d)Z"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VQZ3PD  Valence Quadruple Zeta + Polarization + Diffuse",
   "role": "orbital",

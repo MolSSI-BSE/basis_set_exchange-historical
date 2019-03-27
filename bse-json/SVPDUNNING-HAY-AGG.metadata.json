@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "SVP (Dunning-Hay)",
+  "names": [
+    "SVP (Dunning-Hay)"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VDZP    Valence Double Zeta + Polarization on All Atoms",
   "role": "orbital",

@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "aug-cc-pV(5+d)Z Diffuse",
+  "names": [
+    "aug-cc-pV(5+d)Z Diffuse"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "1D      Diffuse Functions",
   "role": "orbital",

@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "NASA Ames cc-pCV5Z",
+  "names": [
+    "NASA Ames cc-pCV5Z"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "V5Z4P   Valence Quintuple Zeta + Polarization on All Atoms",
   "role": "orbital",

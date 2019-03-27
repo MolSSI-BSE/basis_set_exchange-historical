@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "DZ + Double Rydberg (Dunning-Hay)",
+  "names": [
+    "DZ + Double Rydberg (Dunning-Hay)"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "DZ2R    Double Zeta + Double Rydberg Functions",
   "role": "orbital",

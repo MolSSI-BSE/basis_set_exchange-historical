@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "DZVP (DFT Orbital)",
+  "names": [
+    "DZVP (DFT Orbital)"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VDZP    Valence Double Zeta + Polarization designed for DFT",
   "role": "orbital",

@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "d-aug-cc-pVTZ",
+  "names": [
+    "d-aug-cc-pVTZ"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VTZ2PD  Valence Triple Zeta + Polarization + Diffuse",
   "role": "orbital",

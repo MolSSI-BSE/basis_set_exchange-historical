@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "HONDO7 Polarization",
+  "names": [
+    "HONDO7 Polarization"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "1P      Polarization functions from HONDO7",
   "role": "orbital",

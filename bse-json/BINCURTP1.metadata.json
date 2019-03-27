@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "Binning-Curtiss (1d) Polarization",
+  "names": [
+    "Binning-Curtiss (1d) Polarization"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "1P      Polarization functions",
   "role": "orbital",

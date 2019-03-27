@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "aug-cc-pV6Z",
+  "names": [
+    "aug-cc-pV6Z"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "V6Z5P   Valence Sextuple Zeta + Polarization + Diffuse",
   "role": "orbital",

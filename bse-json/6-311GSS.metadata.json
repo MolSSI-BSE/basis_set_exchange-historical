@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "6-311G** Polarization",
+  "names": [
+    "6-311G** Polarization"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "1P      Polarization functions associated with 6-311G",
   "role": "orbital",

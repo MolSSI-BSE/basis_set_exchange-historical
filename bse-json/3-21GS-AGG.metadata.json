@@ -3,7 +3,10 @@
     "schema_type": "metadata",
     "schema_version": "0.1"
   },
-  "name": "3-21G*",
+  "names": [
+    "3-21G*"
+  ],
+  "flags": [],
   "family": "other_family",
   "description": "VDZP    Valence Double Zeta + Polarization on Second Row Atoms",
   "role": "orbital",
