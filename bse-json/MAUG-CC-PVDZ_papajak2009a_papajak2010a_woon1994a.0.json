@@ -15,7 +15,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -43,7 +42,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1

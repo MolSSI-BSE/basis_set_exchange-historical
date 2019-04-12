@@ -13,7 +13,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -77,7 +76,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -118,8 +116,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -143,8 +140,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -167,7 +163,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -217,7 +212,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -258,8 +252,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -289,8 +282,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -313,7 +305,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -377,7 +368,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -418,8 +408,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -449,8 +438,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -473,7 +461,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -537,7 +524,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -578,8 +564,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -609,8 +594,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -633,7 +617,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -697,7 +680,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -738,8 +720,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -769,8 +750,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -793,7 +773,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -857,7 +836,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -898,8 +876,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -929,8 +906,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -953,7 +929,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -1017,7 +992,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -1058,8 +1032,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -1089,8 +1062,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -1113,7 +1085,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -1177,7 +1148,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -1218,8 +1188,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -1249,8 +1218,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -1273,7 +1241,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -1337,7 +1304,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -1382,8 +1348,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -1413,8 +1378,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -1437,7 +1401,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -1501,7 +1464,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -1546,8 +1508,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -1577,8 +1538,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -1601,7 +1561,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -1665,7 +1624,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -1710,8 +1668,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -1741,8 +1698,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -1765,7 +1721,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -1829,7 +1784,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -1874,8 +1828,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -1905,8 +1858,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -1929,7 +1881,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -1999,7 +1950,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -2053,8 +2003,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -2095,7 +2044,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -2165,7 +2113,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -2219,8 +2166,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -2261,7 +2207,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -2331,7 +2276,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -2385,8 +2329,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -2427,7 +2370,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -2497,7 +2439,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -2551,8 +2492,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -2593,7 +2533,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -2663,7 +2602,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -2717,8 +2655,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -2759,7 +2696,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -2860,7 +2796,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -2941,8 +2876,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -2991,8 +2925,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -3021,7 +2954,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -3101,7 +3033,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -3142,8 +3073,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -3164,8 +3094,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -3194,7 +3123,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -3244,7 +3172,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -3285,8 +3212,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -3316,8 +3242,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -3346,7 +3271,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -3419,7 +3343,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -3460,8 +3383,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -3491,8 +3413,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -3515,7 +3436,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -3588,7 +3508,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -3629,8 +3548,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -3660,8 +3578,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -3684,7 +3601,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -3757,7 +3673,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -3798,8 +3713,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -3829,8 +3743,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -3853,7 +3766,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -3926,7 +3838,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -3967,8 +3878,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -3998,8 +3908,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -4022,7 +3931,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -4095,7 +4003,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -4136,8 +4043,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -4167,8 +4073,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -4191,7 +4096,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -4264,7 +4168,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -4305,8 +4208,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -4336,8 +4238,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -4360,7 +4261,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -4433,7 +4333,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -4474,8 +4373,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -4505,8 +4403,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -4529,7 +4426,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -4602,7 +4498,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -4643,8 +4538,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -4674,8 +4568,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -4698,7 +4591,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -4771,7 +4663,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -4812,8 +4703,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -4843,8 +4733,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
@@ -4867,7 +4756,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -4937,7 +4825,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -4991,8 +4878,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -5033,7 +4919,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -5103,7 +4988,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -5157,8 +5041,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -5199,7 +5082,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -5269,7 +5151,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -5323,8 +5204,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -5365,7 +5245,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -5435,7 +5314,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -5489,8 +5367,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -5531,7 +5408,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -5601,7 +5477,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -5655,8 +5530,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -5697,7 +5571,6 @@
       "electron_shells": [
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             0
@@ -5798,7 +5671,6 @@
         },
         {
           "function_type": "gto",
-          "harmonic_type": "spherical",
           "region": "",
           "angular_momentum": [
             1
@@ -5879,8 +5751,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             2
@@ -5929,8 +5800,7 @@
           ]
         },
         {
-          "function_type": "gto",
-          "harmonic_type": "spherical",
+          "function_type": "gto_spherical",
           "region": "",
           "angular_momentum": [
             3
