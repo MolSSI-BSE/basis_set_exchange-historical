@@ -1,0 +1,134 @@
+
+<basis_set id="V:OPT:SPK:ALL:DK3:8433/74/7:SPK:VAL:NON:31//62:SPK:COR:NON:/1111/1111/21/2">
+	<information symbol_element="V" type="gtf" total_energy="-948.12658092" contraction_pattern="[9s7p5d3f2g1h]{8321(6)/621(5)/61121/1(3)/1(2)/1/}" configuration="3s(2)3p(6)3d(3)4s(2)" correlation_energy="-0.41313829" term_symbol="4F">
+		<reference>
+			<author>T. Noro</author>
+			<author>M. Sekiya</author>
+			<author>T. Koga</author>
+			<author>S. L. Saito</author>
+			<journal>Chem. Phys. Letters 481, 229-233 (2009)</journal>
+		</reference>
+		<reference>
+			<author>T. Noro</author>
+			<author>M. Sekiya</author>
+			<author>T. Koga</author>
+			<author>H. Matsuyama</author>
+			<journal>Theor. Chem. Acc., 104, 146-152 (2000)</journal>
+		</reference>
+		<reference>
+			<author>T. Noro</author>
+			<author>M. Sekiya</author>
+			<author>T. Koga</author>
+			<author>H. Matsuyama</author>
+			<journal>Theor. Chem. Acc., 104, 146-152 (2000)</journal>
+		</reference>
+		<keywords>all_electron;relativistic;gtf</keywords>
+		<create_date>2010-03-31</create_date>
+		<update_date>2010-03-31</update_date>
+	</information>
+	<body>
+		<basis scaling="1.0" l="0">
+			<primitive zeta="782077.136074" coef="4.400000356488046E-4"/>
+			<primitive zeta="79882.453922" coef="0.002085000168926722"/>
+			<primitive zeta="13856.644784" coef="0.00858200069531373"/>
+			<primitive zeta="3264.371173" coef="0.033185002688649046"/>
+			<primitive zeta="944.577429" coef="0.11264200912625602"/>
+			<primitive zeta="313.79933" coef="0.28846502337143737"/>
+			<primitive zeta="114.421236" coef="0.4533070367269379"/>
+			<primitive zeta="42.898709" coef="0.25554302070409657"/>
+		</basis>
+		<basis scaling="1.0" l="0">
+			<primitive zeta="274.31038" coef="-0.042666194206005884"/>
+			<primitive zeta="82.794532" coef="-0.2090021838752125"/>
+			<primitive zeta="12.251965" coef="1.1036360491687398"/>
+		</basis>
+		<basis scaling="1.0" l="0">
+			<primitive zeta="7.80681" coef="-0.35865015700464337"/>
+			<primitive zeta="1.265643" coef="1.163001509121866"/>
+		</basis>
+		<basis scaling="1.0" l="0">
+			<primitive zeta="4.919134" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="0">
+			<primitive zeta="1.662091" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="0">
+			<primitive zeta="0.519621" coef="1.0000000000000002"/>
+		</basis>
+		<basis scaling="1.0" l="0">
+			<primitive zeta="0.236491" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="0">
+			<primitive zeta="0.085958" coef="1.0000000000000002"/>
+		</basis>
+		<basis scaling="1.0" l="0">
+			<primitive zeta="0.032666" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="1">
+			<primitive zeta="2632.055683" coef="0.001235585900143437"/>
+			<primitive zeta="558.253405" coef="0.00985017362851779"/>
+			<primitive zeta="170.990804" coef="0.05072344724145636"/>
+			<primitive zeta="62.354335" coef="0.17819242503474564"/>
+			<primitive zeta="25.064116" coef="0.3980818476158588"/>
+			<primitive zeta="10.552385" coef="0.5093490039643436"/>
+		</basis>
+		<basis scaling="1.0" l="1">
+			<primitive zeta="20.875035" coef="-0.04899498820160439"/>
+			<primitive zeta="2.739843" coef="1.0150147555761095"/>
+		</basis>
+		<basis scaling="1.0" l="1">
+			<primitive zeta="4.376587" coef="1.0000000000000002"/>
+		</basis>
+		<basis scaling="1.0" l="1">
+			<primitive zeta="1.087525" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="1">
+			<primitive zeta="0.424321" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="1">
+			<primitive zeta="0.157645" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="1">
+			<primitive zeta="0.063509" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="2">
+			<primitive zeta="88.988542" coef="0.0035540002824157725"/>
+			<primitive zeta="22.461058" coef="0.03249900258250709"/>
+			<primitive zeta="7.281101" coef="0.1376460109379295"/>
+			<primitive zeta="2.65502" coef="0.3326810264362301"/>
+			<primitive zeta="0.978963" coef="0.463387036822678"/>
+			<primitive zeta="0.336462" coef="0.33477102660231023"/>
+		</basis>
+		<basis scaling="1.0" l="2">
+			<primitive zeta="1.310601" coef="1.0000000000000002"/>
+		</basis>
+		<basis scaling="1.0" l="2">
+			<primitive zeta="0.5139" coef="1.0000000000000002"/>
+		</basis>
+		<basis scaling="1.0" l="2">
+			<primitive zeta="0.363876" coef="0.318647036378402"/>
+			<primitive zeta="0.106019" coef="0.7928190905123486"/>
+		</basis>
+		<basis scaling="1.0" l="2">
+			<primitive zeta="0.20506" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="3">
+			<primitive zeta="4.253322" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="3">
+			<primitive zeta="1.13632" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="3">
+			<primitive zeta="0.315343" coef="1.0000000000000002"/>
+		</basis>
+		<basis scaling="1.0" l="4">
+			<primitive zeta="1.869422" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="4">
+			<primitive zeta="0.464634" coef="1.0"/>
+		</basis>
+		<basis scaling="1.0" l="5">
+			<primitive zeta="2.049104" coef="1.0"/>
+		</basis>
+	</body>
+</basis_set>

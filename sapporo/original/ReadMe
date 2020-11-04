@@ -1,0 +1,25 @@
+Readme:
+
+The Sapporo-(DKH3)-xZP ( x = D, T, and Q ) sets are all-elctron, segmented contraction GTF sets.
+The orbital exponents and contraction coefficients were determined to reproduce very accurate
+atomic natural orbitals of each atom. The non-relativistic basis sets named Sapporo-xZP sets are
+prepared for the H throuh Xe atoms. The relativistic basis set named Sapporo-DKH3-xZP
+are prepared for the K through Xe atoms. The Sapporo-(DKH3)-xZP basis sets do not include core
+correlating functions for the p-block elements.
+For each type of basis set, we added diffuse primitives
+for all the azimutual quantum numbers appeared in the basis set, named Sapporo-(DKH3)-xZP-diffuse.
+These basis sets in both xml and nwchem format are sotored in the following directories.
+
+Directory Structure
+Sapporo   /Sapporo-DZP        ----------- /xml   ---------- /( H -- Xe ).xml
+          /Sapporo-DZP-diffuse            /nwchem           /( H -- Xe ).bas
+          /Sapporo-TZP
+          /Sapporo-TZP-diffuse	  
+          /Sapporo-QZP
+          /Sapporo-QZP-diffuse
+          /Sapporo-DKH3-DZP        ------ /xml   ---------- /( K -- Xe ).xml
+          /Sapporo-DKH3-DZP-diffuse       /nwchem           /( K -- Xe ).bas
+          /Sapporo-DKH3-TZP
+          /Sapporo-DKH3-TZP-diffuse	  
+          /Sapporo-DKH3-QZP
+          /Sapporo-DKH3-QZP-diffuse	  	  
