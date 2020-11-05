@@ -37,14 +37,14 @@ for twoc in [False, True]:
                              file_fmt=None
 )
 
-curate.add_basis(bs_file='x2c-jbas.tm.bz2',
+curate.add_basis(bs_file='x2c-JFIT.tm.bz2',
                  data_dir='/home/work/basis_set_exchange/basis_set_exchange/data',
                  subdir='ahlrichs_x2c',
-                 file_base='x2c-jbas',
-                 name='x2c-jbas',
+                 file_base='x2c-JFIT',
+                 name='x2c-JFIT',
                  family='ahlrichs_fit',
                  role='jfit',
-                 description='Coulomb fitting auxiliary basis for x2c basis sets',
+                 description='Universal Coulomb fitting auxiliary basis for x2c basis sets',
                  version='1',
                  revision_description='Data from Supporting info',
                  data_source='Supporting info of franzke2019a',
