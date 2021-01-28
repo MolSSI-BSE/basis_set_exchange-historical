@@ -1,0 +1,68 @@
+-----------------------------------------------------------------------Hydrogen  1S(1), 2S                                                             
+
+      CHARGE =  1.000000
+
+      SYMMETRY SPECIES               S 
+      NUMBER OF BASIS FUNCTIONS      6
+      NUMBER OF CLOSED SHELLS        0
+      NUMBER OF OPEN SHELLS          1
+      OPEN SHELL OCCUPATION NUMBER   1
+
+      OPEN-SHELL ENERGY COEFFICIENTS
+      J(  0,  0,  0) =  0.00000000     K(  0,  0,  0) = -1.00000000
+ 
+  *** FINAL SCF RESULTS ***
+   E =    -0.499945570
+   T =     0.499945570     V =    -0.999891140     V/T =    -2.000000002
+ 
+  ORBITAL ENERGIES AND EXPANSION COEFFICIENTS
+        S                    1S 
+  BASIS/ORB.ENERGY       -0.4999456
+  1S   8.2921890d+01      0.0019976
+  1S   1.2452437d+01      0.0152813
+  1S   2.8330562d+00      0.0753051
+  1S   8.0001038d-01      0.2563238
+  1S   2.5859469d-01      0.4976257
+  1S   8.9968966d-02      0.2967694
+ 
+ *** Overlap Matrix ***
+ S       1     2     3     4     5     6
+   1 1.000
+   2 0.553 1.000
+   3 0.214 0.685 1.000
+   4 0.086 0.329 0.754 1.000
+   5 0.037 0.150 0.412 0.797 1.000
+   6 0.017 0.069 0.203 0.468 0.819 1.000
+-----------------------------------------------------------------------      HELIUM   1S(2), 1S                                                              
+
+      CHARGE =  2.000000
+
+      SYMMETRY SPECIES               S 
+      NUMBER OF BASIS FUNCTIONS      6
+      NUMBER OF CLOSED SHELLS        1
+      NUMBER OF OPEN SHELLS          0
+      OPEN SHELL OCCUPATION NUMBER   0
+ 
+  *** FINAL SCF RESULTS ***
+   E =    -2.861153345
+   T =     2.861153330     V =    -5.722306675     V/T =    -2.000000005
+ 
+  ORBITAL ENERGIES AND EXPANSION COEFFICIENTS
+        S                    1S 
+  BASIS/ORB.ENERGY       -0.9176246
+  1S   2.3406425d+02      0.0025863
+  1S   3.5174075d+01      0.0195239
+  1S   7.9911108d+00      0.0909819
+  1S   2.2124201d+00      0.2720060
+  1S   6.6706872d-01      0.4780219
+  1S   2.0894727d-01      0.3078468
+ 
+ *** Overlap Matrix ***
+ S       1     2     3     4     5     6
+   1 1.000
+   2 0.553 1.000
+   3 0.214 0.685 1.000
+   4 0.085 0.324 0.748 1.000
+   5 0.035 0.141 0.389 0.775 1.000
+   6 0.015 0.060 0.177 0.421 0.787 1.000
+-----------------------------------------------------------------------
