@@ -22,8 +22,8 @@ def _parse_basis(basis_lines, bs_data):
             break
         iline += 1
     else:
-        raise RuntimeError('Did not find CHARGE block')    
-            
+        raise RuntimeError('Did not find CHARGE block')
+
     # Find number of basis functions
     nprims = []
     while iline < len(basis_lines):
@@ -48,7 +48,7 @@ def _parse_basis(basis_lines, bs_data):
     iline += 1
 
     # Read in the exponents and contraction coefficients
-    ncontr = []
+    ncontrs = []
     exps = []
     coeffs = []
     am = -1
@@ -68,10 +68,10 @@ def _parse_basis(basis_lines, bs_data):
         # Check against internal count
         am += 1
         assert(orb_ams[0][-1] == basis_set_exchange.lut.amint_to_char([am]).upper())
-        
+
         # Number of orbitals is
         norb = len(orb_ams)-1
-        ncontr.append(norb)
+        ncontrs.append(norb)
 
         # Next line is orbital energies; skip it
         assert(basis_lines[iline].strip().startswith('BASIS/ORB.ENERGY'))
@@ -82,6 +82,7 @@ def _parse_basis(basis_lines, bs_data):
         am_coeffs = []
         for iprim in range(nprims[am]):
             values = basis_lines[iline].split()
+            values = [x.lower().replace('d','e') for x in values]
             assert(len(values) == norb+2)
             am_exps.append(values[1])
             am_coeffs.append(values[2:])
@@ -105,23 +106,26 @@ def _parse_basis(basis_lines, bs_data):
     print(str)
 
     # Store the data
-    element_data = helpers.create_element_data(bs_data, element_Z, 'electron_shells')
+    element_data = helpers.create_element_data(bs_data, '{}'.format(element_Z), 'electron_shells')
     for shell_am in range(len(exps)):
+        # Transpose coefficients
+        c_trans = [[coeffs[shell_am][i][j] for i in range(nprims[shell_am])] for j in range(ncontrs[shell_am])]
+
         func_type = 'gto' if shell_am < 2 else 'gto_spherical'
         shell = {
             'function_type': func_type,
             'region': '',
             'angular_momentum': [shell_am],
             'exponents': exps[shell_am],
-            'coefficients': coeffs[shell_am]
+            'coefficients': c_trans
         }
         element_data['electron_shells'].append(shell)
-        
+
 def parse(bs_data, fname):
     '''Parses the file'''
 
     print('Parsing {}'.format(fname))
-    
+
     basis_lines = None
     with open(fname,'r') as filein:
         basis_lines = filein.readlines()
@@ -141,17 +145,18 @@ for filename in os.listdir('nonrel'):
 
 # Ensure all basis sets have been parsed properly
 for Z in range(1,104):
-    if Z not in bs_data:
+    strZ = '{}'.format(Z)
+    if strZ not in bs_data:
         raise RuntimeError('Z={} missing in the basis!\n'.format(Z))
 print('All elements parsed')
-    
+
 koga_data = skel.create_skel('component')
 koga_data['elements'] = bs_data
-    
+
 curate.add_basis_from_dict(koga_data,
                  data_dir='/home/work/basis_set_exchange/basis_set_exchange/data',
                  subdir='koga',
-                 file_base='Koga_atomic',
+                 file_base='koga_atomic',
                  name='Koga unpolarized',
                  family='koga',
                  role='orbital',
