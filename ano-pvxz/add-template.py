@@ -18,5 +18,5 @@ for val in ['D', 'T', 'Q', '5']:
                          revision_description='Data from supporting information',
                          data_source='Data from supporting information',
                          refs=['neese2011a'],
-                         file_fmt='orca'
+                         file_fmt='gamess_us'
                          )
