@@ -1,0 +1,13 @@
+This is the CADPAC basis set file, obtained from Aron Cohen
+
+-------- Forwarded Message --------
+Subject: Re: BR3P86 functional in CADPAC
+Date: Mon, 07 Feb 2022 22:06:55 +0100
+From: Aron Cohen <A.Cohen@fkf.mpg.de>
+To: Susi Lehtola <slehtola@vt.edu>
+
+
+Here is the basis set file in the distribution version of CADPAC. It  starts with some numbers but they are lower down indexed by atom and  some string. This string is then interfaced with the code to make it  less clear but if you want TZ2P this i think becomes 3S2P for H atom  (so string H3S2P) and 5S4P2D for first row (e.g. C5S4P2D or O5S4P2D)  and for the next row 9S6P3D.
+
+I am trying to resurrect some old versions of CADPAC to see if I can  run some calculations as it seems like I have overwritten the P86  functional in my versions
+
