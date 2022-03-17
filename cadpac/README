@@ -1,4 +1,16 @@
-This is the CADPAC basis set file, obtained from Aron Cohen
+This is the CADPAC basis set file, obtained from Aron Cohen.
+
+The composition of the TZ2P basis has been explained by Tozer and
+Handy in J. Chem. Phys. 108, 2545 (1998), doi:10.1063/1.475638:
+
+"TZ2P Gaussian basis sets ... are Dunning contractions of Huzinaga
+primitive sets. For B, C, N, O, F, and Ne, it is a 11s6p to 5s4p
+contraction with two sets of polarization functions with exponents
+1.05 and 0.35, 1.2 and 0.4, 1.35 and 0.45, 1.35 and 0.45, 2.0 and
+0.67, and 2.4 and 0.8, respectively. For Li and H the contractions are
+10s to 4s, and 5s to 3s, respectively, and the two sets of
+polarization functions have exponents 0.4 and 0.1, and 1.5 and 0.5,
+respectively."
 
 -------- Forwarded Message --------
 Subject: Re: BR3P86 functional in CADPAC
