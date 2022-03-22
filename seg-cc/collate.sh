@@ -67,6 +67,10 @@ for bas in {,aug-}seg-cc-p{,wc}v{d,t,q,5}z-pp; do
         cat ${elbas}.ecp >> ${bas}.nw
     done
     echo "END" >> ${bas}.nw
+
+    # Test conversion
+    export PYTHONPATH=/home/work/basis_set_exchange
+    python $PYTHONPATH/basis_set_exchange/cli/bse_cli.py convert-basis ${bas}.nw ${bas}.gbs
 done
 
     
