@@ -2,21 +2,21 @@
 
 from basis_set_exchange import curate
 
-if False:
+if True:
     for v in ['S', 'D', 'T']:
-        basis='s{}ZHF'.format(v)
-        curate.add_basis(bs_file='{}.gbs.bz2'.format(basis),
+        basis='sigma{}ZHF'.format(v)
+        curate.add_basis(bs_file='s{}ZHF.gbs.bz2'.format(v),
                          data_dir='/home/work/basis_set_exchange/basis_set_exchange/data',
                          subdir='sigmaNZ',
                          file_base=basis,
                          name=basis,
-                         family='sigmaNZ',
+                         family='sigmanz',
                          role='orbital',
-                         description='{} basis for Hellmann-Feynman forces',
+                         description=f'{basis} basis for Hellmann-Feynman forces',
                          version=1,
                          revision_description='Data from Susi Lehtola',
                          data_source='Data from Susi Lehtola',
-                         refs='pathak2022a',
+                         refs='pathak2023a',
                          file_fmt=None
                          )
 
@@ -29,9 +29,9 @@ if True:
                          subdir='sigmaNZ',
                          file_base=basis,
                          name=basis,
-                         family='sigmaNZ',
+                         family='sigmanz',
                          role='orbital',
-                         description='{} basis',
+                         description=f'{basis} basis',
                          version=1,
                          revision_description='Data from supporting information',
                          data_source='Data from supporting information',
