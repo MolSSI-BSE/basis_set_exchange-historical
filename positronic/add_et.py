@@ -3,14 +3,7 @@
 from basis_set_exchange import lut, manip, curate
 
 def get_exponents(num_exps, alpha, beta):
-    # an even-tempered 8s8p8d basis set with exponents running from 2 sqrt(2) to 32
-    shell_exponents = [alpha * (beta)**(i/(num_exps-1)) for i in range(num_exps)]
-    print(shell_exponents)
-
-    exponents = []
-    for am in range(3):
-        exponents.append(shell_exponents)
-    return exponents
+    return  [alpha * (beta)**i for i in range(num_exps)]
 
 def form_gaussian94(exponents):
     # Form a Gaussian'94 string for the basis
@@ -18,7 +11,7 @@ def form_gaussian94(exponents):
     for shell_am, shell_exps in enumerate(exponents):
         for expn in shell_exps:
             g94_str += f'L={shell_am} 1 1.0\n'
-            g94_str += f' {expn} 1.0\n'
+            g94_str += f' {expn:.9e} 1.0\n'
     g94_str += '****\n'
     return g94_str
 
@@ -29,7 +22,7 @@ basis_set_parameters = {
 }
 
 for basis in basis_set_parameters:
-    exponents = get_exponents(*basis_set_parameters[basis])
+    exponents = [get_exponents(*parameters) for parameters in basis_set_parameters[basis]]
     out = open(f'{basis}.gbs','w')
     out.write(form_gaussian94(exponents))
     out.close()
