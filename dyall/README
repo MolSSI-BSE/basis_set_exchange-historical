@@ -1,0 +1,18 @@
+Dyall basis sets, downloaded from https://zenodo.org/records/7574629
+
+Version 1 of Dyall's basis sets
+
+Fixed issues:
+
+dyall.acv4z
+- zr has only 8 f functions
+- nb has 5 g functions and 3 g functions
+
+dyall.aae4z
+- cs has 13 not 1 f functions
+
+README from zenodo
+
+This archive contains the Dyall basis sets for relativistic atomic and molecular electronic structure calculations. They are given in the format required by the DIRAC program (see diracprogram.org), which is essentially a list of the exponents for each angular momentum for each element. The basis sets are of double-, triple-, and quadruple-zeta quality. For each quality, there are three basis set types: valence (vNz),  core-valence (cvNz) and all-electron (aeNz). These basis sets include correlating functions for the relevant shells (valence, valence+outer core, all shells). In addition, for each of these basis sets there is another set that contains diffuse functions for the s, p, and d elements, optimized for the anion or extrapolated from neigboring elements where the anion is unbound or weakly bound. These sets are labeled avNz, acvNz, and aaeNz. References for the basis sets are included in the basis set files.
+
+The archive files containing descriptions and recommendations for each basis set, as well as SCF coefficients and lists of exponents, are available at https://zenodo.org/records/7606547
