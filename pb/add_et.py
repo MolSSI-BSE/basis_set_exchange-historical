@@ -23,7 +23,7 @@ def form_gaussian94(exponents):
     g94_str += '****\n'
     return g94_str
 
-def add_basis(num_exps, max_am, basis, ref):
+def add_basis(num_exps, max_am, basis, ref, role):
     out = open(f'{basis}.gbs','w')
     exponents = get_exponents(num_exps=num_exps, max_am=max_am)
     out.write(form_gaussian94(exponents))
@@ -35,7 +35,7 @@ def add_basis(num_exps, max_am, basis, ref):
                  file_base=basis.lower(),
                  name=basis,
                  family='pb',
-                 role='orbital',
+                 role=role,
                  description='Even-tempered 8s8p8d protonic basis',
                  version=1,
                  revision_description='Data from article',
@@ -45,6 +45,6 @@ def add_basis(num_exps, max_am, basis, ref):
                  )
 
 if False:
-    add_basis(8, 2, 'epc-8s8p8d', 'yang2017a')
+    add_basis(num_exps=8, max_am=2, basis='epc-8s8p8d', ref='yang2017a', role='orbital')
 
-add_basis(10, 3, 'epc-10s10p10d10f', 'xu2022a')
+add_basis(num_exps=10, max_am=3, basis='epc-10s10p10d10f', ref='xu2022a', role='jkfit')
