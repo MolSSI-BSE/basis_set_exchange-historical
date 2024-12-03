@@ -54,9 +54,9 @@ def form_references(zeta, flavor, augmentation):
     for Z in range(1,119):
         def add_ref(ref):
             if Z not in refs:
-                refs[Z] = ref
+                refs[Z] = [ref]
             else:
-                refs[Z] += ',' + ref
+                refs[Z].append(ref)
 
         if zeta == 2 and (blocks[Z] == '4p' or blocks[Z] == '5p' or blocks[Z] == '6p'):
             # K. G. Dyall, Theor. Chem. Acc. 99, 366 (1998). Relativistic and nonrelativistic finite nucleus optimized double zeta basis sets for the 4p, 5p and 6p elements.
@@ -107,6 +107,9 @@ def form_references(zeta, flavor, augmentation):
         if augmentation == 'a' and (blocks[Z][1] == 's' or blocks[Z][1] == 'd'):
             # K. G. Dyall, P. Tecmer, and A. Sunaga, J. Chem. Theor. Comput. 19, 198 (2023). Diffuse basis functions for relativistic s and d block Gaussian basis sets
             add_ref('dyall2023a')
+
+        # All sets come from Dyall's Zenodo
+        add_ref('dyall2023b')
     return refs
 
 
