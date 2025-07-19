@@ -16,7 +16,7 @@ if False:
                          version=1,
                          revision_description='Data from Bredow\'s web site',
                          data_source='Data from Bredow\'s web site',
-                         refs='Oliveira2019b',
+                         refs='oliveira2019b',
                          file_fmt=None
                         )
 
@@ -33,6 +33,6 @@ if True:
                  version=2,
                  revision_description='Fixed ECP conversion error in CRYSTAL interface',
                  data_source='Data from Bredow\'s web site',
-                 refs={'H,Li-F,Na-Cl,K-Br' : 'Peintinger2013a', 'Rb-Mo,Ru-I' : 'Laun2018a'},
+                 refs={'H,Li-F,Na-Cl,K-Br' : 'peintinger2013a', 'Rb-Mo,Ru-I' : 'laun2018a'},
                  file_fmt=None
                  )
