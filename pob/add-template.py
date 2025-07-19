@@ -20,7 +20,9 @@ if False:
                          file_fmt=None
                         )
 
-curate.add_basis(bs_file='pob-TZVP.crystal.bz2',
+if True:
+    print('Adding pob-TZVP')
+    curate.add_basis(bs_file='pob-TZVP.crystal.bz2',
                  data_dir='/home/work/basis_set_exchange/basis_set_exchange/data',
                  subdir='pob',
                  file_base='pob-TZVP',
@@ -28,8 +30,8 @@ curate.add_basis(bs_file='pob-TZVP.crystal.bz2',
                  family='pob',
                  role='orbital',
                  description='pob-TZVP',
-                 version=1,
-                 revision_description='Data from Bredow\'s web site',
+                 version=2,
+                 revision_description='Fixed ECP conversion error in CRYSTAL interface',
                  data_source='Data from Bredow\'s web site',
                  refs={'H,Li-F,Na-Cl,K-Br' : 'Peintinger2013a', 'Rb-Mo,Ru-I' : 'Laun2018a'},
                  file_fmt=None
