@@ -20,9 +20,15 @@ hgbs_sets = {
 'ahgbsp3-9.gbs': 'AHGBSP3-9'
 }
 
+updated_guess_sets = {
+'sap_helfem_large.2.gbs': 'sap_helfem_large',
+'sap_helfem_small.2.gbs': 'sap_helfem_small'
+}
+
 # Lehtola2020a
-for basis_file, name in hgbs_sets.items():
-    curate.add_basis(bs_file=basis_file,
+if False:
+    for basis_file, name in hgbs_sets.items():
+        curate.add_basis(bs_file=basis_file,
                      data_dir='/home/ben/programming/bse_ng/basis_set_exchange/basis_set_exchange/data',
                      subdir='lehtola_hgbs',
                      file_base=name,
@@ -39,8 +45,9 @@ for basis_file, name in hgbs_sets.items():
 
 
 # Lehtola2020b
-for basis_file, name in guess_sets.items():
-    curate.add_basis(bs_file=basis_file,
+if False:
+    for basis_file, name in guess_sets.items():
+        curate.add_basis(bs_file=basis_file,
                      data_dir='/home/ben/programming/bse_ng/basis_set_exchange/basis_set_exchange/data',
                      subdir='lehtola_sap',
                      file_base=name,
@@ -54,3 +61,21 @@ for basis_file, name in guess_sets.items():
                      refs='lehtola2020b',
                      file_fmt=None
     )
+
+for basis_file, name in updated_guess_sets.items():
+    curate.add_basis(bs_file=basis_file,
+                     data_dir='/home/work/basis_set_exchange/basis_set_exchange/data',
+                     subdir='lehtola_sap',
+                     file_base=name,
+                     name=name,
+                     family='lehtola_sap',
+                     role='guess',
+                     description=f'{name}, recomputed from fractionally-occupied spin-restricted exchange-only LDA references',
+                     version=2,
+                     revision_description='Data from S. Lehtola',
+                     data_source='Direct from S. Lehtola',
+                     refs='lehtola2020b',
+                     file_fmt=None
+    )
+
+        
