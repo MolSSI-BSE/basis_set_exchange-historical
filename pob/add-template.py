@@ -2,37 +2,34 @@
 
 from basis_set_exchange import curate
 
-if False:
-    for basis in ['pob-DZVP-rev2', 'pob-TZVP-rev2']:
-        print('Adding {}'.format(basis))
-        curate.add_basis(bs_file='{}.crystal.bz2'.format(basis),
-                         data_dir='/home/work/basis_set_exchange/basis_set_exchange/data',
-                         subdir='pob',
-                         file_base=basis,
-                         name=basis,
-                         family='pob',
-                         role='orbital',
-                         description=basis,
-                         version=1,
-                         revision_description='Data from Bredow\'s web site',
-                         data_source='Data from Bredow\'s web site',
-                         refs='oliveira2019b',
-                         file_fmt=None
-                        )
+refs={
+    'pob-DZVP' : {'H-Br' : 'peintinger2013a', 'Rb-I' : 'laun2018a'},
+    'pob-TZVP' : {'H-Br' : 'peintinger2013a', 'Rb-I' : 'laun2018a'},
+    'pob-DZVP-rev2' : {'H-Br' : 'oliveira2019b'},
+    'pob-TZVP-rev2' : {'H-Br' : 'oliveira2019b', 'Rb-I' : 'laun2022a', 'Cs-Ba,Hf-Po' : 'laun2021a', 'La-Lu' : 'seidler2023a'},
+    # TBD: pob-DZVP-rev1 and pob-TZVP-rev1
+}
 
-if True:
-    print('Adding pob-TZVP')
-    curate.add_basis(bs_file='pob-TZVP.crystal.bz2',
-                 data_dir='/home/work/basis_set_exchange/basis_set_exchange/data',
-                 subdir='pob',
-                 file_base='pob-TZVP',
-                 name='pob-TZVP',
-                 family='pob',
-                 role='orbital',
-                 description='pob-TZVP',
-                 version=2,
-                 revision_description='Fixed ECP conversion error in CRYSTAL interface',
-                 data_source='Data from Bredow\'s web site',
-                 refs={'H,Li-F,Na-Cl,K-Br' : 'peintinger2013a', 'Rb-Mo,Ru-I' : 'laun2018a'},
-                 file_fmt=None
-                 )
+versions={
+    'pob-DZVP' : 1,
+    'pob-TZVP' : 3,
+    'pob-DZVP-rev2' : 2,
+    'pob-TZVP-rev2' : 2,
+}
+
+for basis in refs:
+    print('Adding {}'.format(basis))
+    curate.add_basis(bs_file='{}.crystal.xz'.format(basis),
+                     data_dir='/home/work/basis_set_exchange/basis_set_exchange/data',
+                     subdir='pob',
+                     file_base=basis,
+                     name=basis,
+                     family='pob',
+                     role='orbital',
+                     description=basis,
+                     version=1,
+                     revision_description='Data from Bredow',
+                     data_source='Data from Bredow',
+                     refs=refs[basis],
+                     file_fmt=None
+                     )
